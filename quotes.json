@@ -1,0 +1,154 @@
+{
+  "quotes": [
+    {
+      "id": 1,
+      "text": "Stay hungry, stay foolish.",
+      "author": "Steve Jobs",
+      "category": "motivation",
+      "year": 2005,
+      "source": "Stanford Commencement",
+      "tags": ["innovation", "learning"]
+    },
+    {
+      "id": 2,
+      "text": "Code is like humor. When you have to explain it, it's bad.",
+      "author": "Cory House",
+      "category": "programming",
+      "year": null,
+      "source": "Twitter",
+      "tags": ["coding", "humor"]
+    },
+    {
+      "id": 3,
+      "text": "Talk is cheap. Show me the code.",
+      "author": "Linus Torvalds",
+      "category": "programming",
+      "year": 2000,
+      "source": "Linux Mailing List",
+      "tags": ["action", "programming"]
+    },
+    {
+      "id": 4,
+      "text": "The only way to learn a new programming language is by writing programs in it.",
+      "author": "Dennis Ritchie",
+      "category": "programming",
+      "year": 1978,
+      "source": "The C Programming Language",
+      "tags": ["learning", "programming"]
+    },
+    {
+      "id": 5,
+      "text": "Experience is the name everyone gives to their mistakes.",
+      "author": "Oscar Wilde",
+      "category": "wisdom",
+      "year": 1892,
+      "source": "Lady Windermere's Fan",
+      "tags": ["experience", "learning"]
+    },
+    {
+      "id": 6,
+      "text": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+      "author": "Martin Fowler",
+      "category": "programming",
+      "year": 2008,
+      "source": "Refactoring",
+      "tags": ["clean code", "programming"]
+    },
+    {
+      "id": 7,
+      "text": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson",
+      "category": "programming",
+      "year": null,
+      "source": "Unknown",
+      "tags": ["problem-solving", "programming"]
+    },
+    {
+      "id": 8,
+      "text": "The best way to predict the future is to invent it.",
+      "author": "Alan Kay",
+      "category": "innovation",
+      "year": 1971,
+      "source": "Xerox PARC",
+      "tags": ["innovation", "future"]
+    },
+    {
+      "id": 9,
+      "text": "Simplicity is the soul of efficiency.",
+      "author": "Austin Freeman",
+      "category": "wisdom",
+      "year": 1907,
+      "source": "The Eye of Osiris",
+      "tags": ["simplicity", "efficiency"]
+    },
+    {
+      "id": 10,
+      "text": "Make it work, make it right, make it fast.",
+      "author": "Kent Beck",
+      "category": "programming",
+      "year": null,
+      "source": "Extreme Programming",
+      "tags": ["development", "best practices"]
+    }
+  ],
+  "categories": [
+    {
+      "name": "programming",
+      "description": "Coding and software development",
+      "color": "#007acc"
+    },
+    {
+      "name": "motivation",
+      "description": "Inspirational quotes",
+      "color": "#ff6b6b"
+    },
+    {
+      "name": "wisdom",
+      "description": "Life wisdom and insights",
+      "color": "#4ecdc4"
+    },
+    {
+      "name": "innovation",
+      "description": "Innovation and creativity",
+      "color": "#f39c12"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Steve Jobs",
+      "bio": "Co-founder of Apple Inc.",
+      "birth_year": 1955,
+      "quote_count": 1
+    },
+    {
+      "name": "Linus Torvalds",
+      "bio": "Creator of Linux",
+      "birth_year": 1969,
+      "quote_count": 1
+    },
+    {
+      "name": "Dennis Ritchie",
+      "bio": "Creator of C programming language",
+      "birth_year": 1941,
+      "quote_count": 1
+    },
+    {
+      "name": "Martin Fowler",
+      "bio": "Software engineer and author",
+      "birth_year": 1963,
+      "quote_count": 1
+    },
+    {
+      "name": "Kent Beck",
+      "bio": "Creator of Extreme Programming",
+      "birth_year": 1961,
+      "quote_count": 1
+    },
+    {
+      "name": "Alan Kay",
+      "bio": "Computer scientist and pioneer",
+      "birth_year": 1940,
+      "quote_count": 1
+    }
+  ]
+}
