@@ -11,16 +11,11 @@ import Node.Encoding (Encoding(..))
 import Node.FS.Sync (readTextFile)
 import Routing.Duplex (RouteDuplex')
 import Routing.Duplex as RD
-import Dotenv (loadFile)
-import Node.Process (lookupEnv)
-import Data.String (take)
-import Effect (void)
 
--- ROUTE
+
 route :: RouteDuplex' Unit
 route = RD.root (pure unit)
 
--- CORS HEADERS
 corsHeaders :: HTTPurple.ResponseHeaders
 corsHeaders =
   HTTPurple.header "Access-Control-Allow-Origin" "*"
@@ -28,11 +23,9 @@ corsHeaders =
     <> HTTPurple.header "Access-Control-Allow-Headers" "Content-Type"
     <> HTTPurple.header "Content-Type" "application/json"
 
--- READ QUOTES JSON FILE (fallback)
 readQuotesFile :: Effect String
 readQuotesFile = readTextFile UTF8 "quotes.json"
 
--- ROUTER
 router :: Request Unit -> ResponseM
 router { path: [], method: HTTPurple.Get } = do
   log "Received request to /"
@@ -49,16 +42,5 @@ router { method: HTTPurple.Options } =
 router _ =
   HTTPurple.notFound' corsHeaders
 
--- MAIN FUNCTION
 main :: Effect Unit
-main = do
-  -- Load environment variables from .env
-  _ <- loadFile
-  maybeKey <- lookupEnv "GEMINI_API_KEY"
-  case maybeKey of
-    Nothing -> log "⚠️ GEMINI_API_KEY not found in environment!"
-    Just key -> log $ "✅ Loaded GEMINI_API_KEY successfully (" <> take 6 key <> "...)"
-
-  log "🚀 Starting server..."
-  void $ HTTPurple.serve { port: 8080 } { route, router }
-  log "✅ Server running on port 8080"
+main = HTTPurple.serve { port: 8080 } { route, router } >>= \_ -> pure unit
