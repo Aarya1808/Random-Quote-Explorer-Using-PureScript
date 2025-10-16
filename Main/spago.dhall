@@ -21,6 +21,7 @@ to generate this file without the comments in this block.
   , "arrays"
   , "bifunctors"
   , "console"
+  , "dotenv"
   , "effect"
   , "either"
   , "foldable-traversable"

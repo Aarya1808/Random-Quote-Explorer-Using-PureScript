@@ -81,7 +81,7 @@ data Action
   | FetchQuotes
   | ReceiveQuotes (Either Error (Response Json))
 
--- Decode JSON responses
+
 decodeQuote :: Json -> Either String Quote
 decodeQuote json = lmap printJsonDecodeError do
   obj <- decodeJson json
