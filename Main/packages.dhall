@@ -103,6 +103,18 @@ let upstream =
         sha256:65df863430bac51dc71eb6c31d60f837bccf3837ddae929e1bc53830d299ab37
 
 in  upstream
+  with affjax-web =
+    { dependencies =
+        [ "affjax"
+        , "web-xhr"
+        , "effect"
+        , "prelude"
+        ]
+    , repo =
+        "https://github.com/purescript-contrib/purescript-affjax-web.git"
+    , version =
+        "v1.0.0"
+    }
   with affjax-node =
     { dependencies =
         [ "affjax"
