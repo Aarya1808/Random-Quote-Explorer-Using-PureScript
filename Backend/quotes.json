@@ -89,6 +89,366 @@
       "year": null,
       "source": "Extreme Programming",
       "tags": ["development", "best practices"]
+    },
+    {
+      "id": 11,
+      "text": "Innovation distinguishes between a leader and a follower.",
+      "author": "Steve Jobs",
+      "category": "innovation",
+      "year": 1998,
+      "source": "Think Different Campaign",
+      "tags": ["innovation", "leadership"]
+    },
+    {
+      "id": 12,
+      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "author": "Nelson Mandela",
+      "category": "motivation",
+      "year": null,
+      "source": "Speeches",
+      "tags": ["resilience", "perseverance"]
+    },
+    {
+      "id": 13,
+      "text": "It is during our darkest moments that we must focus to see the light.",
+      "author": "Aristotle",
+      "category": "wisdom",
+      "year": null,
+      "source": "Ancient Philosophy",
+      "tags": ["perspective", "resilience"]
+    },
+    {
+      "id": 14,
+      "text": "The only impossible journey is the one you never begin.",
+      "author": "Tony Robbins",
+      "category": "motivation",
+      "year": null,
+      "source": "Personal Development",
+      "tags": ["action", "motivation"]
+    },
+    {
+      "id": 15,
+      "text": "Perfection is not just about control, it is also about letting go.",
+      "author": "Steve Jobs",
+      "category": "wisdom",
+      "year": 2006,
+      "source": "Apple Design Philosophy",
+      "tags": ["design", "simplicity"]
+    },
+    {
+      "id": 16,
+      "text": "Life is what happens when you're busy making other plans.",
+      "author": "John Lennon",
+      "category": "wisdom",
+      "year": 1980,
+      "source": "Beautiful Boy",
+      "tags": ["life", "perspective"]
+    },
+    {
+      "id": 17,
+      "text": "You miss 100% of the shots you don't take.",
+      "author": "Wayne Gretzky",
+      "category": "motivation",
+      "year": null,
+      "source": "Sports Philosophy",
+      "tags": ["action", "risk-taking"]
+    },
+    {
+      "id": 18,
+      "text": "If you want to go fast, go alone. If you want to go far, go together.",
+      "author": "African Proverb",
+      "category": "wisdom",
+      "year": null,
+      "source": "Traditional Wisdom",
+      "tags": ["teamwork", "collaboration"]
+    },
+    {
+      "id": 19,
+      "text": "The only constant in life is change.",
+      "author": "Heraclitus",
+      "category": "wisdom",
+      "year": null,
+      "source": "Ancient Greece",
+      "tags": ["change", "adaptation"]
+    },
+    {
+      "id": 20,
+      "text": "It is impossible to live without failing at something.",
+      "author": "J.K. Rowling",
+      "category": "motivation",
+      "year": 2008,
+      "source": "Harvard Commencement",
+      "tags": ["failure", "growth"]
+    },
+    {
+      "id": 21,
+      "text": "The difference between who you are and who you want to be is what you do.",
+      "author": "Bill Phillips",
+      "category": "motivation",
+      "year": null,
+      "source": "Personal Development",
+      "tags": ["action", "self-improvement"]
+    },
+    {
+      "id": 22,
+      "text": "Your time is limited, don't waste it living someone else's life.",
+      "author": "Steve Jobs",
+      "category": "motivation",
+      "year": 2005,
+      "source": "Stanford Commencement",
+      "tags": ["authenticity", "purpose"]
+    },
+    {
+      "id": 23,
+      "text": "The future belongs to those who believe in the beauty of their dreams.",
+      "author": "Eleanor Roosevelt",
+      "category": "inspiration",
+      "year": null,
+      "source": "Speeches",
+      "tags": ["dreams", "belief"]
+    },
+    {
+      "id": 24,
+      "text": "Don't watch the clock; do what it does. Keep going.",
+      "author": "Sam Levenson",
+      "category": "motivation",
+      "year": null,
+      "source": "Personal Development",
+      "tags": ["persistence", "focus"]
+    },
+    {
+      "id": 25,
+      "text": "A journey of a thousand miles begins with a single step.",
+      "author": "Lao Tzu",
+      "category": "wisdom",
+      "year": null,
+      "source": "Tao Te Ching",
+      "tags": ["journey", "perseverance"]
+    },
+    {
+      "id": 26,
+      "text": "Programs must be written for people to read, and only incidentally for machines to execute.",
+      "author": "Harold Abelson",
+      "category": "programming",
+      "year": 1985,
+      "source": "Structure and Interpretation of Computer Programs",
+      "tags": ["clean code", "readability"]
+    },
+    {
+      "id": 27,
+      "text": "There are two ways to write error-free programs; only the third one works.",
+      "author": "Alan Perlis",
+      "category": "programming",
+      "year": null,
+      "source": "Epigrams",
+      "tags": ["debugging", "humor"]
+    },
+    {
+      "id": 28,
+      "text": "Testing shows the presence, not the absence of bugs.",
+      "author": "Edsger Dijkstra",
+      "category": "programming",
+      "year": 1969,
+      "source": "EWD30",
+      "tags": ["testing", "quality"]
+    },
+    {
+      "id": 29,
+      "text": "Debugging is twice as hard as writing the code in the first place.",
+      "author": "Brian Kernighan",
+      "category": "programming",
+      "year": null,
+      "source": "The Practice of Programming",
+      "tags": ["debugging", "code quality"]
+    },
+    {
+      "id": 30,
+      "text": "The best performance improvement is the transition from the nonworking state to the working state.",
+      "author": "John Ousterhout",
+      "category": "programming",
+      "year": null,
+      "source": "Tcl Programming",
+      "tags": ["optimization", "pragmatism"]
+    },
+    {
+      "id": 31,
+      "text": "Don't comment bad code, rewrite it.",
+      "author": "Brian Kernighan",
+      "category": "programming",
+      "year": 1974,
+      "source": "The Elements of Programming Style",
+      "tags": ["clean code", "refactoring"]
+    },
+    {
+      "id": 32,
+      "text": "The most important optimization is simplification.",
+      "author": "David Parnas",
+      "category": "programming",
+      "year": null,
+      "source": "Software Engineering",
+      "tags": ["optimization", "simplicity"]
+    },
+    {
+      "id": 33,
+      "text": "You can't have great software without a great team.",
+      "author": "Steve Jobs",
+      "category": "innovation",
+      "year": null,
+      "source": "Business Leadership",
+      "tags": ["teamwork", "excellence"]
+    },
+    {
+      "id": 34,
+      "text": "Ideas are easy. Implementation is hard.",
+      "author": "Evan Williams",
+      "category": "innovation",
+      "year": null,
+      "source": "Startups",
+      "tags": ["execution", "action"]
+    },
+    {
+      "id": 35,
+      "text": "Success is not final, failure is not fatal.",
+      "author": "Winston Churchill",
+      "category": "wisdom",
+      "year": null,
+      "source": "Speeches",
+      "tags": ["perspective", "resilience"]
+    },
+    {
+      "id": 36,
+      "text": "The only true wisdom is in knowing you know nothing.",
+      "author": "Socrates",
+      "category": "wisdom",
+      "year": null,
+      "source": "Ancient Philosophy",
+      "tags": ["humility", "learning"]
+    },
+    {
+      "id": 37,
+      "text": "Be yourself; everyone else is already taken.",
+      "author": "Oscar Wilde",
+      "category": "wisdom",
+      "year": 1890,
+      "source": "Personal Philosophy",
+      "tags": ["authenticity", "individuality"]
+    },
+    {
+      "id": 38,
+      "text": "Strive for progress, not perfection.",
+      "author": "Robin Sharma",
+      "category": "motivation",
+      "year": null,
+      "source": "Personal Development",
+      "tags": ["progress", "growth"]
+    },
+    {
+      "id": 39,
+      "text": "The way to get started is to quit talking and begin doing.",
+      "author": "Walt Disney",
+      "category": "motivation",
+      "year": null,
+      "source": "Business Philosophy",
+      "tags": ["action", "execution"]
+    },
+    {
+      "id": 40,
+      "text": "Everything you want is on the other side of fear.",
+      "author": "George Addair",
+      "category": "motivation",
+      "year": null,
+      "source": "Courage",
+      "tags": ["fear", "courage"]
+    },
+    {
+      "id": 41,
+      "text": "Your limitations—real or imagined—do not define your destiny.",
+      "author": "Steve Maraboli",
+      "category": "motivation",
+      "year": null,
+      "source": "Personal Development",
+      "tags": ["potential", "mindset"]
+    },
+    {
+      "id": 42,
+      "text": "Do something today that your future self will thank you for.",
+      "author": "Sean Patrick Flanery",
+      "category": "motivation",
+      "year": null,
+      "source": "Personal Development",
+      "tags": ["discipline", "future"]
+    },
+    {
+      "id": 43,
+      "text": "Invest in yourself. Your education and self-improvement is the best investment.",
+      "author": "Warren Buffett",
+      "category": "wisdom",
+      "year": null,
+      "source": "Financial Wisdom",
+      "tags": ["self-improvement", "learning"]
+    },
+    {
+      "id": 44,
+      "text": "The only limit to our realization of tomorrow is our doubts of today.",
+      "author": "Franklin D. Roosevelt",
+      "category": "motivation",
+      "year": 1945,
+      "source": "Speeches",
+      "tags": ["belief", "determination"]
+    },
+    {
+      "id": 45,
+      "text": "Code without tests is bad code. No matter how well it is written.",
+      "author": "Robert C. Martin",
+      "category": "programming",
+      "year": 2008,
+      "source": "Clean Code",
+      "tags": ["testing", "quality assurance"]
+    },
+    {
+      "id": 46,
+      "text": "A good programmer is someone who looks both ways before crossing a one-way street.",
+      "author": "Doug Linder",
+      "category": "programming",
+      "year": null,
+      "source": "Programming Humor",
+      "tags": ["caution", "humor"]
+    },
+    {
+      "id": 47,
+      "text": "Beautiful is better than ugly. Explicit is better than implicit.",
+      "author": "Tim Peters",
+      "category": "programming",
+      "year": 1999,
+      "source": "The Zen of Python",
+      "tags": ["code philosophy", "clarity"]
+    },
+    {
+      "id": 48,
+      "text": "Before software should be reusable, it should be usable.",
+      "author": "Ralph Johnson",
+      "category": "programming",
+      "year": null,
+      "source": "Design Patterns",
+      "tags": ["pragmatism", "usability"]
+    },
+    {
+      "id": 49,
+      "text": "We build our computers the way we build our cities—over time, without a plan.",
+      "author": "Ellen Ullman",
+      "category": "wisdom",
+      "year": null,
+      "source": "Technology Essays",
+      "tags": ["complexity", "evolution"]
+    },
+    {
+      "id": 50,
+      "text": "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.",
+      "author": "Daniel J. Boorstin",
+      "category": "wisdom",
+      "year": null,
+      "source": "Philosophy",
+      "tags": ["humility", "wisdom"]
     }
   ],
   "categories": [
@@ -111,6 +471,11 @@
       "name": "innovation",
       "description": "Innovation and creativity",
       "color": "#f39c12"
+    },
+    {
+      "name": "inspiration",
+      "description": "Inspirational and motivational content",
+      "color": "#e74c3c"
     }
   ],
   "authors": [
@@ -118,7 +483,7 @@
       "name": "Steve Jobs",
       "bio": "Co-founder of Apple Inc.",
       "birth_year": 1955,
-      "quote_count": 1
+      "quote_count": 4
     },
     {
       "name": "Linus Torvalds",
@@ -148,6 +513,222 @@
       "name": "Alan Kay",
       "bio": "Computer scientist and pioneer",
       "birth_year": 1940,
+      "quote_count": 1
+    },
+    {
+      "name": "Oscar Wilde",
+      "bio": "Irish writer and playwright",
+      "birth_year": 1854,
+      "quote_count": 2
+    },
+    {
+      "name": "Nelson Mandela",
+      "bio": "South African anti-apartheid revolutionary",
+      "birth_year": 1918,
+      "quote_count": 1
+    },
+    {
+      "name": "Aristotle",
+      "bio": "Ancient Greek philosopher",
+      "birth_year": 384,
+      "quote_count": 1
+    },
+    {
+      "name": "Tony Robbins",
+      "bio": "American motivational speaker and author",
+      "birth_year": 1960,
+      "quote_count": 1
+    },
+    {
+      "name": "John Lennon",
+      "bio": "Musician and member of The Beatles",
+      "birth_year": 1940,
+      "quote_count": 1
+    },
+    {
+      "name": "Wayne Gretzky",
+      "bio": "Canadian professional ice hockey player",
+      "birth_year": 1961,
+      "quote_count": 1
+    },
+    {
+      "name": "Heraclitus",
+      "bio": "Ancient Greek philosopher",
+      "birth_year": 540,
+      "quote_count": 1
+    },
+    {
+      "name": "J.K. Rowling",
+      "bio": "British author, creator of Harry Potter",
+      "birth_year": 1965,
+      "quote_count": 1
+    },
+    {
+      "name": "Eleanor Roosevelt",
+      "bio": "American political figure and activist",
+      "birth_year": 1884,
+      "quote_count": 1
+    },
+    {
+      "name": "Lao Tzu",
+      "bio": "Ancient Chinese philosopher",
+      "birth_year": 604,
+      "quote_count": 1
+    },
+    {
+      "name": "Harold Abelson",
+      "bio": "Computer scientist and educator",
+      "birth_year": 1947,
+      "quote_count": 1
+    },
+    {
+      "name": "Alan Perlis",
+      "bio": "Computer scientist and pioneer",
+      "birth_year": 1922,
+      "quote_count": 1
+    },
+    {
+      "name": "Edsger Dijkstra",
+      "bio": "Dutch computer scientist",
+      "birth_year": 1930,
+      "quote_count": 1
+    },
+    {
+      "name": "Brian Kernighan",
+      "bio": "Canadian computer scientist",
+      "birth_year": 1942,
+      "quote_count": 2
+    },
+    {
+      "name": "John Ousterhout",
+      "bio": "Computer scientist and creator of Tcl",
+      "birth_year": 1948,
+      "quote_count": 1
+    },
+    {
+      "name": "David Parnas",
+      "bio": "Canadian computer scientist",
+      "birth_year": 1941,
+      "quote_count": 1
+    },
+    {
+      "name": "Evan Williams",
+      "bio": "American internet entrepreneur",
+      "birth_year": 1972,
+      "quote_count": 1
+    },
+    {
+      "name": "Winston Churchill",
+      "bio": "British Prime Minister and statesman",
+      "birth_year": 1874,
+      "quote_count": 1
+    },
+    {
+      "name": "Socrates",
+      "bio": "Ancient Greek philosopher",
+      "birth_year": 470,
+      "quote_count": 1
+    },
+    {
+      "name": "Robin Sharma",
+      "bio": "Canadian author and leadership expert",
+      "birth_year": 1965,
+      "quote_count": 1
+    },
+    {
+      "name": "Walt Disney",
+      "bio": "American animator and entrepreneur",
+      "birth_year": 1901,
+      "quote_count": 1
+    },
+    {
+      "name": "George Addair",
+      "bio": "American author",
+      "birth_year": null,
+      "quote_count": 1
+    },
+    {
+      "name": "Steve Maraboli",
+      "bio": "American author and motivational speaker",
+      "birth_year": 1975,
+      "quote_count": 1
+    },
+    {
+      "name": "Sean Patrick Flanery",
+      "bio": "American author",
+      "birth_year": null,
+      "quote_count": 1
+    },
+    {
+      "name": "Warren Buffett",
+      "bio": "American investment magnate",
+      "birth_year": 1930,
+      "quote_count": 1
+    },
+    {
+      "name": "Franklin D. Roosevelt",
+      "bio": "32nd President of the United States",
+      "birth_year": 1882,
+      "quote_count": 1
+    },
+    {
+      "name": "Robert C. Martin",
+      "bio": "Software engineer and author",
+      "birth_year": 1952,
+      "quote_count": 1
+    },
+    {
+      "name": "Doug Linder",
+      "bio": "Programmer and author",
+      "birth_year": null,
+      "quote_count": 1
+    },
+    {
+      "name": "Tim Peters",
+      "bio": "American software engineer and Python contributor",
+      "birth_year": 1965,
+      "quote_count": 1
+    },
+    {
+      "name": "Ralph Johnson",
+      "bio": "Computer scientist and design patterns expert",
+      "birth_year": 1955,
+      "quote_count": 1
+    },
+    {
+      "name": "Ellen Ullman",
+      "bio": "American software engineer and writer",
+      "birth_year": 1954,
+      "quote_count": 1
+    },
+    {
+      "name": "Daniel J. Boorstin",
+      "bio": "American author and historian",
+      "birth_year": 1914,
+      "quote_count": 1
+    },
+    {
+      "name": "Austin Freeman",
+      "bio": "British author and inventor",
+      "birth_year": 1862,
+      "quote_count": 1
+    },
+    {
+      "name": "Bill Phillips",
+      "bio": "American author and fitness expert",
+      "birth_year": 1961,
+      "quote_count": 1
+    },
+    {
+      "name": "John Johnson",
+      "bio": "Unknown",
+      "birth_year": null,
+      "quote_count": 1
+    },
+    {
+      "name": "Cory House",
+      "bio": "Software engineer and author",
+      "birth_year": null,
       "quote_count": 1
     }
   ]

@@ -28,6 +28,7 @@ to generate this file without the comments in this block.
   , "foldable-traversable"
   , "halogen"
   , "httpurple"
+  , "http-methods"
   , "maybe"
   , "node-buffer"
   , "node-fs"

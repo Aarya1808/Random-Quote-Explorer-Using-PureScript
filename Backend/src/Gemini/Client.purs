@@ -22,8 +22,7 @@ fetchGeneratedQuotes apiKey count = do
   
   let 
     prompt = buildPrompt count
-    endpoint = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-mini:generateContent?key=" <> apiKey
-    
+    endpoint = "https://generativelanguage.googleapis.com/v1/models/gemini-2.0-flash-001:generateContent?key=" <> apiKey
 
     requestBody = 
       ("contents" := [("parts" := [("text" := prompt)])])

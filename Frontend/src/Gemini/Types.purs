@@ -26,7 +26,7 @@ newtype Category = Category
 newtype Author = Author
   { name :: String
   , bio :: String
-  , birth_year :: Int
+  , birth_year :: Maybe Int
   , quote_count :: Int
   }
 

@@ -7,7 +7,7 @@ import Affjax.Web (get)
 import Affjax.ResponseFormat as ResponseFormat
 import Data.Argonaut.Core (Json)
 import Data.Argonaut.Decode (decodeJson, printJsonDecodeError)
-import Data.Argonaut.Decode.Combinators ((.:))
+import Data.Argonaut.Decode.Combinators ((.:), (.:?))
 import Data.Array (filter, length, index, nub, sort)
 import Data.Either (Either(..))
 import Data.Maybe (Maybe(..))
@@ -78,7 +78,7 @@ decodeAuthor json = lmap printJsonDecodeError do
   obj <- decodeJson json
   name <- obj .: "name"
   bio <- obj .: "bio"
-  birth_year <- obj .: "birth_year"
+  birth_year <- obj .:? "birth_year"
   quote_count <- obj .: "quote_count"
   pure $ Author { name, bio, birth_year, quote_count }
 
@@ -190,13 +190,14 @@ handleAction = case _ of
 render :: forall slots. State -> H.ComponentHTML Action slots Aff
 render state = 
   HH.div
-    [ HP.class_ $ HH.ClassName "app-container"]
+    [ HP.class_ $ HH.ClassName "app-container" ]
     [ renderHeader
     , if state.loading
         then renderLoading
         else case state.error of
           Just err -> renderError err
-          Nothing -> HH.div_
+          Nothing -> HH.div
+            [ HP.class_ $ HH.ClassName "content-wrapper" ]
             [ renderFilters state
             , renderQuoteDisplay state
             , renderStats state
@@ -232,12 +233,12 @@ renderError err =
 renderFilters :: forall slots. State -> H.ComponentHTML Action slots Aff
 renderFilters state =
   HH.div
-    [ HP.class_ $ HH.ClassName "filters-section"]
+    [ HP.class_ $ HH.ClassName "filters-section" ]
     [ HH.button
         [ HP.class_ $ HH.ClassName "toggle-filters-btn"
         , HE.onClick \_ -> ToggleFilters
         ]
-        [ HH.text $ if state.showFilters then "Hide Filters" else "Show Filters"]
+        [ HH.text $ if state.showFilters then "Hide Filters" else "Show Filters" ]
     , if state.showFilters
         then renderFilterControls state
         else HH.div_ []
@@ -246,7 +247,7 @@ renderFilters state =
 renderFilterControls :: forall slots. State -> H.ComponentHTML Action slots Aff
 renderFilterControls state =
   HH.div
-    [ HP.class_ $ HH.ClassName "filter-controls"]
+    [ HP.class_ $ HH.ClassName "filter-controls" ]
     [ HH.input
         [ HP.class_ $ HH.ClassName "search-input" 
         , HP.type_ HP.InputText
