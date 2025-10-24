@@ -9,7 +9,7 @@ node_modules/
 .DS_Store
 *.log
 /Backend/.env
-dist/
+bundle.js/
 output/
 .spago/
 
