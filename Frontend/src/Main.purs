@@ -153,7 +153,7 @@ handleAction = case _ of
 
   FetchQuotes -> do
     H.modify_ _ { loading = true, error = Nothing }
-    response <- H.liftAff $ get ResponseFormat.json "http://localhost:8080/api/quotes"
+    response <- H.liftAff $ get ResponseFormat.json "https://random-quote-explorer-using-purescript.onrender.com"
     handleAction $ ReceiveQuotes response
 
   ReceiveQuotes response -> case response of
