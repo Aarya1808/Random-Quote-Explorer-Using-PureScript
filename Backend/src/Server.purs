@@ -18,6 +18,8 @@ import Data.Either (Either(..))
 import Data.Maybe (Maybe(..))
 import Data.Array (findMap)
 import Data.String (Pattern(..), split, trim)
+import Node.Process (lookupEnv)
+import Data.Int (fromString)
 
 
 readApiKey :: Effect (Either String String)
@@ -114,5 +116,9 @@ router _ =
 
 main :: Effect Unit
 main = do
-  log "Starting Quote Explorer Server on port 8080..."
-  HTTPurple.serve { port: 8080 } { route, router } >>= \_ -> pure unit
+  envPort <- lookupEnv "PORT"
+  let port = case envPort >>= fromString of
+        Just p -> p
+        Nothing -> 8080
+  log $ "Starting Quote Explorer Server on port " <> show port <> "..."
+  HTTPurple.serve { port } { route, router } >>= \_ -> pure unit
