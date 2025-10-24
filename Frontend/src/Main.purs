@@ -1,4 +1,29 @@
-module Main where
+module Main
+  ( Action(..)
+  , State
+  , component
+  , decodeAuthor
+  , decodeCategory
+  , decodeQuote
+  , decodeQuoteDatabase
+  , getFilteredQuotes
+  , getUniqueAuthors
+  , handleAction
+  , handleAuthorChange
+  , handleCategoryChange
+  , main
+  , render
+  , renderAuthorOption
+  , renderCategoryOption
+  , renderError
+  , renderFilterControls
+  , renderFilters
+  , renderLoading
+  , renderQuoteDisplay
+  , renderStats
+  , renderTag
+  )
+  where
 
 import Prelude
 
@@ -200,7 +225,6 @@ render state =
             [ HP.class_ $ HH.ClassName "content-wrapper" ]
             [ renderFilters state
             , renderQuoteDisplay state
-            , renderStats state
             ]
     ]
 
