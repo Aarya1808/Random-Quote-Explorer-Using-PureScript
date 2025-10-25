@@ -9052,11 +9052,11 @@
             return text5("");
           }
           ;
-          throw new Error("Failed pattern match at Main (line 357, column 19 - line 359, column 42): " + [state3.currentQuote.value0.year.constructor.name]);
+          throw new Error("Failed pattern match at Main (line 363, column 19 - line 365, column 42): " + [state3.currentQuote.value0.year.constructor.name]);
         }()]), div2([class_("quote-meta")])([span4([class_("category-tag")])([text5(state3.currentQuote.value0.category)]), div2([class_("tags")])(map26(renderTag)(state3.currentQuote.value0.tags))])]);
       }
       ;
-      throw new Error("Failed pattern match at Main (line 343, column 7 - line 370, column 14): " + [state3.currentQuote.constructor.name]);
+      throw new Error("Failed pattern match at Main (line 349, column 7 - line 376, column 14): " + [state3.currentQuote.constructor.name]);
     }(), div2([class_("quote-actions")])([button([onClick(function(v) {
       return GetRandomQuote.value;
     }), class_("get-quote-btn")])([text5("\u2728 Get Random Quote")])])]);
@@ -9089,7 +9089,7 @@
         return ClearFilters.value;
       }
       ;
-      throw new Error("Failed pattern match at Main (line 322, column 7 - line 324, column 32): " + [v.constructor.name]);
+      throw new Error("Failed pattern match at Main (line 328, column 7 - line 330, column 32): " + [v.constructor.name]);
     };
   };
   var getUniqueAuthors = function(quotes) {
@@ -9112,15 +9112,35 @@
         return ClearFilters.value;
       }
       ;
-      throw new Error("Failed pattern match at Main (line 331, column 7 - line 333, column 32): " + [v.constructor.name]);
+      throw new Error("Failed pattern match at Main (line 337, column 7 - line 339, column 32): " + [v.constructor.name]);
     };
   };
   var renderFilterControls = function(state3) {
     return div2([class_("filter-controls")])([input2([class_("search-input"), type_19(InputText.value), placeholder3("Search quotes or authors..."), value14(state3.searchQuery), onValueInput(SetSearchQuery.create)]), select3([onSelectedIndexChange(function(idx) {
       return handleCategoryChange(state3.categories)(idx);
-    }), class_("category-select")])(append12([option([value14("")])([text5("All Categories")])])(map26(renderCategoryOption)(state3.categories))), select3([onSelectedIndexChange(function(idx) {
+    }), class_("category-select"), value14(function() {
+      if (state3.selectedCategory instanceof Just) {
+        return state3.selectedCategory.value0;
+      }
+      ;
+      if (state3.selectedCategory instanceof Nothing) {
+        return "";
+      }
+      ;
+      throw new Error("Failed pattern match at Main (line 293, column 20 - line 295, column 26): " + [state3.selectedCategory.constructor.name]);
+    }())])(append12([option([value14("")])([text5("All Categories")])])(map26(renderCategoryOption)(state3.categories))), select3([onSelectedIndexChange(function(idx) {
       return handleAuthorChange(state3.allQuotes)(idx);
-    }), class_("author-select")])(append12([option([value14("")])([text5("All Authors")])])(map26(renderAuthorOption)(getUniqueAuthors(state3.allQuotes)))), button([onClick(function(v) {
+    }), class_("author-select"), value14(function() {
+      if (state3.selectedAuthor instanceof Just) {
+        return state3.selectedAuthor.value0;
+      }
+      ;
+      if (state3.selectedAuthor instanceof Nothing) {
+        return "";
+      }
+      ;
+      throw new Error("Failed pattern match at Main (line 302, column 20 - line 304, column 26): " + [state3.selectedAuthor.constructor.name]);
+    }())])(append12([option([value14("")])([text5("All Authors")])])(map26(renderAuthorOption)(getUniqueAuthors(state3.allQuotes)))), button([onClick(function(v) {
       return ClearFilters.value;
     }), class_("clear-filters-btn")])([text5("Clear Filters")])]);
   };
@@ -9160,8 +9180,8 @@
   };
   var getFilteredQuotes = function(state3) {
     var searchFilter = function() {
-      var $87 = state3.searchQuery === "";
-      if ($87) {
+      var $91 = state3.searchQuery === "";
+      if ($91) {
         return identity11;
       }
       ;
@@ -9297,17 +9317,17 @@
     ;
     if (v instanceof FetchQuotes) {
       return discard5(modify_3(function(v1) {
-        var $96 = {};
-        for (var $97 in v1) {
-          if ({}.hasOwnProperty.call(v1, $97)) {
-            $96[$97] = v1[$97];
+        var $100 = {};
+        for (var $101 in v1) {
+          if ({}.hasOwnProperty.call(v1, $101)) {
+            $100[$101] = v1[$101];
           }
           ;
         }
         ;
-        $96.loading = true;
-        $96.error = Nothing.value;
-        return $96;
+        $100.loading = true;
+        $100.error = Nothing.value;
+        return $100;
       }))(function() {
         return discard5(liftEffect7(log2("Attempting to fetch quotes from API...")))(function() {
           return discard5(liftEffect7(log2("URL: https://random-quote-explorer-using-purescript.onrender.com/api/quotes")))(function() {
@@ -9325,17 +9345,17 @@
       if (v.value0 instanceof Left) {
         return discard5(liftEffect7(log2("Error fetching quotes - Left case")))(function() {
           return modify_3(function(v1) {
-            var $100 = {};
-            for (var $101 in v1) {
-              if ({}.hasOwnProperty.call(v1, $101)) {
-                $100[$101] = v1[$101];
+            var $104 = {};
+            for (var $105 in v1) {
+              if ({}.hasOwnProperty.call(v1, $105)) {
+                $104[$105] = v1[$105];
               }
               ;
             }
             ;
-            $100.loading = false;
-            $100.error = new Just("Failed to load quotes from server. Please make sure the backend is running.");
-            return $100;
+            $104.loading = false;
+            $104.error = new Just("Failed to load quotes from server. Please make sure the backend is running.");
+            return $104;
           });
         });
       }
@@ -9346,24 +9366,6 @@
           if (v1 instanceof Left) {
             return discard5(liftEffect7(log2("Decode error: " + v1.value0)))(function() {
               return modify_3(function(v2) {
-                var $105 = {};
-                for (var $106 in v2) {
-                  if ({}.hasOwnProperty.call(v2, $106)) {
-                    $105[$106] = v2[$106];
-                  }
-                  ;
-                }
-                ;
-                $105.loading = false;
-                $105.error = new Just("Failed to parse quotes: " + v1.value0);
-                return $105;
-              });
-            });
-          }
-          ;
-          if (v1 instanceof Right) {
-            return discard5(liftEffect7(log2("Successfully decoded " + (show2(length(v1.value0.quotes)) + " quotes"))))(function() {
-              return discard5(modify_3(function(v2) {
                 var $109 = {};
                 for (var $110 in v2) {
                   if ({}.hasOwnProperty.call(v2, $110)) {
@@ -9373,11 +9375,29 @@
                 }
                 ;
                 $109.loading = false;
-                $109.error = Nothing.value;
-                $109.allQuotes = v1.value0.quotes;
-                $109.categories = v1.value0.categories;
-                $109.authors = v1.value0.authors;
+                $109.error = new Just("Failed to parse quotes: " + v1.value0);
                 return $109;
+              });
+            });
+          }
+          ;
+          if (v1 instanceof Right) {
+            return discard5(liftEffect7(log2("Successfully decoded " + (show2(length(v1.value0.quotes)) + " quotes"))))(function() {
+              return discard5(modify_3(function(v2) {
+                var $113 = {};
+                for (var $114 in v2) {
+                  if ({}.hasOwnProperty.call(v2, $114)) {
+                    $113[$114] = v2[$114];
+                  }
+                  ;
+                }
+                ;
+                $113.loading = false;
+                $113.error = Nothing.value;
+                $113.allQuotes = v1.value0.quotes;
+                $113.categories = v1.value0.categories;
+                $113.authors = v1.value0.authors;
+                return $113;
               }))(function() {
                 return handleAction(GetRandomQuote.value);
               });
@@ -9394,19 +9414,19 @@
     if (v instanceof GetRandomQuote) {
       return bind15(get4)(function(state3) {
         var filteredQuotes = getFilteredQuotes(state3);
-        var $116 = length(filteredQuotes) === 0;
-        if ($116) {
+        var $120 = length(filteredQuotes) === 0;
+        if ($120) {
           return modify_3(function(v1) {
-            var $117 = {};
-            for (var $118 in v1) {
-              if ({}.hasOwnProperty.call(v1, $118)) {
-                $117[$118] = v1[$118];
+            var $121 = {};
+            for (var $122 in v1) {
+              if ({}.hasOwnProperty.call(v1, $122)) {
+                $121[$122] = v1[$122];
               }
               ;
             }
             ;
-            $117.currentQuote = Nothing.value;
-            return $117;
+            $121.currentQuote = Nothing.value;
+            return $121;
           });
         }
         ;
@@ -9414,16 +9434,16 @@
           var v1 = index(filteredQuotes)(idx);
           if (v1 instanceof Just) {
             return modify_3(function(v2) {
-              var $121 = {};
-              for (var $122 in v2) {
-                if ({}.hasOwnProperty.call(v2, $122)) {
-                  $121[$122] = v2[$122];
+              var $125 = {};
+              for (var $126 in v2) {
+                if ({}.hasOwnProperty.call(v2, $126)) {
+                  $125[$126] = v2[$126];
                 }
                 ;
               }
               ;
-              $121.currentQuote = new Just(v1.value0);
-              return $121;
+              $125.currentQuote = new Just(v1.value0);
+              return $125;
             });
           }
           ;
@@ -9438,23 +9458,6 @@
     ;
     if (v instanceof FilterByCategory) {
       return discard5(modify_3(function(v1) {
-        var $125 = {};
-        for (var $126 in v1) {
-          if ({}.hasOwnProperty.call(v1, $126)) {
-            $125[$126] = v1[$126];
-          }
-          ;
-        }
-        ;
-        $125.selectedCategory = new Just(v.value0);
-        return $125;
-      }))(function() {
-        return handleAction(GetRandomQuote.value);
-      });
-    }
-    ;
-    if (v instanceof FilterByAuthor) {
-      return discard5(modify_3(function(v1) {
         var $129 = {};
         for (var $130 in v1) {
           if ({}.hasOwnProperty.call(v1, $130)) {
@@ -9463,15 +9466,15 @@
           ;
         }
         ;
-        $129.selectedAuthor = new Just(v.value0);
+        $129.selectedCategory = new Just(v.value0);
         return $129;
       }))(function() {
         return handleAction(GetRandomQuote.value);
       });
     }
     ;
-    if (v instanceof SetSearchQuery) {
-      return modify_3(function(v1) {
+    if (v instanceof FilterByAuthor) {
+      return discard5(modify_3(function(v1) {
         var $133 = {};
         for (var $134 in v1) {
           if ({}.hasOwnProperty.call(v1, $134)) {
@@ -9480,46 +9483,61 @@
           ;
         }
         ;
-        $133.searchQuery = v.value0;
+        $133.selectedAuthor = new Just(v.value0);
         return $133;
-      });
-    }
-    ;
-    if (v instanceof ToggleFilters) {
-      return modify_3(function(s) {
-        var $137 = {};
-        for (var $138 in s) {
-          if ({}.hasOwnProperty.call(s, $138)) {
-            $137[$138] = s[$138];
-          }
-          ;
-        }
-        ;
-        $137.showFilters = !s.showFilters;
-        return $137;
-      });
-    }
-    ;
-    if (v instanceof ClearFilters) {
-      return discard5(modify_3(function(v1) {
-        var $140 = {};
-        for (var $141 in v1) {
-          if ({}.hasOwnProperty.call(v1, $141)) {
-            $140[$141] = v1[$141];
-          }
-          ;
-        }
-        ;
-        $140.selectedCategory = Nothing.value;
-        $140.selectedAuthor = Nothing.value;
-        $140.searchQuery = "";
-        return $140;
       }))(function() {
         return handleAction(GetRandomQuote.value);
       });
     }
     ;
-    throw new Error("Failed pattern match at Main (line 151, column 16 - line 221, column 32): " + [v.constructor.name]);
+    if (v instanceof SetSearchQuery) {
+      return modify_3(function(v1) {
+        var $137 = {};
+        for (var $138 in v1) {
+          if ({}.hasOwnProperty.call(v1, $138)) {
+            $137[$138] = v1[$138];
+          }
+          ;
+        }
+        ;
+        $137.searchQuery = v.value0;
+        return $137;
+      });
+    }
+    ;
+    if (v instanceof ToggleFilters) {
+      return modify_3(function(s) {
+        var $141 = {};
+        for (var $142 in s) {
+          if ({}.hasOwnProperty.call(s, $142)) {
+            $141[$142] = s[$142];
+          }
+          ;
+        }
+        ;
+        $141.showFilters = !s.showFilters;
+        return $141;
+      });
+    }
+    ;
+    if (v instanceof ClearFilters) {
+      return modify_3(function(v1) {
+        var $144 = {};
+        for (var $145 in v1) {
+          if ({}.hasOwnProperty.call(v1, $145)) {
+            $144[$145] = v1[$145];
+          }
+          ;
+        }
+        ;
+        $144.selectedCategory = Nothing.value;
+        $144.selectedAuthor = Nothing.value;
+        $144.searchQuery = "";
+        return $144;
+      });
+    }
+    ;
+    throw new Error("Failed pattern match at Main (line 151, column 16 - line 220, column 8): " + [v.constructor.name]);
   };
   var component = /* @__PURE__ */ function() {
     var initialState = {
@@ -9556,7 +9574,7 @@
         return pure23(unit);
       }
       ;
-      throw new Error("Failed pattern match at Main (line 424, column 3 - line 426, column 25): " + [app.constructor.name]);
+      throw new Error("Failed pattern match at Main (line 430, column 3 - line 432, column 25): " + [app.constructor.name]);
     });
   }));
 
