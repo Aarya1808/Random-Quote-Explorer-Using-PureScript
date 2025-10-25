@@ -1,0 +1,5 @@
+{
+  "buildCommand": "npm install -g spago purescript && npm run build",
+  "outputDirectory": "dist",
+  "installCommand": "npm install"
+}
