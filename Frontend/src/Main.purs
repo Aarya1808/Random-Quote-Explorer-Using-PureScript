@@ -50,6 +50,7 @@ import Halogen.VDom.Driver (runUI)
 import Web.DOM.ParentNode (QuerySelector(..))
 import Data.Traversable (traverse)
 import Data.Bifunctor (lmap)
+import Effect.Console (log)
 import Gemini.Types (Quote(..), Category(..), Author(..), QuoteDatabase(..))
 
 
@@ -153,23 +154,30 @@ handleAction = case _ of
 
   FetchQuotes -> do
     H.modify_ _ { loading = true, error = Nothing }
+    liftEffect $ log "Attempting to fetch quotes from API..."
+    liftEffect $ log "URL: https://random-quote-explorer-using-purescript.onrender.com/api/quotes"
     response <- H.liftAff $ get ResponseFormat.json "https://random-quote-explorer-using-purescript.onrender.com/api/quotes"
+    liftEffect $ log "Response received"
     handleAction $ ReceiveQuotes response
 
   ReceiveQuotes response -> case response of
-    Left _ -> do
+    Left err -> do
+      liftEffect $ log "Error fetching quotes - Left case"
       H.modify_ _ 
         { loading = false
         , error = Just "Failed to load quotes from server. Please make sure the backend is running."
         }
     Right { body } -> do
+      liftEffect $ log "Successfully received response body"
       case decodeQuoteDatabase body of
         Left decodeErr -> do
+          liftEffect $ log $ "Decode error: " <> decodeErr
           H.modify_ _ 
             { loading = false
             , error = Just $ "Failed to parse quotes: " <> decodeErr
             }
         Right (QuoteDatabase db) -> do
+          liftEffect $ log $ "Successfully decoded " <> show (length db.quotes) <> " quotes"
           H.modify_ _ 
             { loading = false
             , error = Nothing

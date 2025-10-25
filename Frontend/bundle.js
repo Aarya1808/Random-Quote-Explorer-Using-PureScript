@@ -5652,6 +5652,18 @@
     return dict.liftAff;
   };
 
+  // output/Effect.Console/foreign.js
+  var log2 = function(s) {
+    return function() {
+      console.log(s);
+    };
+  };
+  var warn = function(s) {
+    return function() {
+      console.warn(s);
+    };
+  };
+
   // output/Effect.Random/foreign.js
   var random = Math.random;
 
@@ -8014,13 +8026,6 @@
     return dict.fork;
   };
 
-  // output/Effect.Console/foreign.js
-  var warn = function(s) {
-    return function() {
-      console.warn(s);
-    };
-  };
-
   // output/Halogen.Aff.Driver.State/index.js
   var unRenderStateX = unsafeCoerce2;
   var unDriverStateX = unsafeCoerce2;
@@ -8945,10 +8950,10 @@
   var traverse3 = /* @__PURE__ */ traverse(traversableArray)(applicativeEither);
   var discard5 = /* @__PURE__ */ discard(discardUnit)(bindHalogenM);
   var modify_3 = /* @__PURE__ */ modify_2(monadStateHalogenM);
+  var liftEffect7 = /* @__PURE__ */ liftEffect(/* @__PURE__ */ monadEffectHalogenM(monadEffectAff));
   var bind15 = /* @__PURE__ */ bind(bindHalogenM);
   var liftAff2 = /* @__PURE__ */ liftAff(/* @__PURE__ */ monadAffHalogenM(monadAffAff));
   var get4 = /* @__PURE__ */ get(monadStateHalogenM);
-  var liftEffect7 = /* @__PURE__ */ liftEffect(/* @__PURE__ */ monadEffectHalogenM(monadEffectAff));
   var pure15 = /* @__PURE__ */ pure(applicativeHalogenM);
   var bind22 = /* @__PURE__ */ bind(bindAff);
   var $$void8 = /* @__PURE__ */ $$void(functorAff);
@@ -9047,11 +9052,11 @@
             return text5("");
           }
           ;
-          throw new Error("Failed pattern match at Main (line 349, column 19 - line 351, column 42): " + [state3.currentQuote.value0.year.constructor.name]);
+          throw new Error("Failed pattern match at Main (line 357, column 19 - line 359, column 42): " + [state3.currentQuote.value0.year.constructor.name]);
         }()]), div2([class_("quote-meta")])([span4([class_("category-tag")])([text5(state3.currentQuote.value0.category)]), div2([class_("tags")])(map26(renderTag)(state3.currentQuote.value0.tags))])]);
       }
       ;
-      throw new Error("Failed pattern match at Main (line 335, column 7 - line 362, column 14): " + [state3.currentQuote.constructor.name]);
+      throw new Error("Failed pattern match at Main (line 343, column 7 - line 370, column 14): " + [state3.currentQuote.constructor.name]);
     }(), div2([class_("quote-actions")])([button([onClick(function(v) {
       return GetRandomQuote.value;
     }), class_("get-quote-btn")])([text5("\u2728 Get Random Quote")])])]);
@@ -9084,7 +9089,7 @@
         return ClearFilters.value;
       }
       ;
-      throw new Error("Failed pattern match at Main (line 314, column 7 - line 316, column 32): " + [v.constructor.name]);
+      throw new Error("Failed pattern match at Main (line 322, column 7 - line 324, column 32): " + [v.constructor.name]);
     };
   };
   var getUniqueAuthors = function(quotes) {
@@ -9107,7 +9112,7 @@
         return ClearFilters.value;
       }
       ;
-      throw new Error("Failed pattern match at Main (line 323, column 7 - line 325, column 32): " + [v.constructor.name]);
+      throw new Error("Failed pattern match at Main (line 331, column 7 - line 333, column 32): " + [v.constructor.name]);
     };
   };
   var renderFilterControls = function(state3) {
@@ -9150,7 +9155,7 @@
         return div2([class_("content-wrapper")])([renderFilters(state3), renderQuoteDisplay(state3)]);
       }
       ;
-      throw new Error("Failed pattern match at Main (line 222, column 14 - line 228, column 14): " + [state3.error.constructor.name]);
+      throw new Error("Failed pattern match at Main (line 230, column 14 - line 236, column 14): " + [state3.error.constructor.name]);
     }()]);
   };
   var getFilteredQuotes = function(state3) {
@@ -9175,7 +9180,7 @@
         });
       }
       ;
-      throw new Error("Failed pattern match at Main (line 133, column 22 - line 135, column 59): " + [state3.selectedCategory.constructor.name]);
+      throw new Error("Failed pattern match at Main (line 134, column 22 - line 136, column 59): " + [state3.selectedCategory.constructor.name]);
     }();
     var authorFilter = function() {
       if (state3.selectedAuthor instanceof Nothing) {
@@ -9188,7 +9193,7 @@
         });
       }
       ;
-      throw new Error("Failed pattern match at Main (line 137, column 20 - line 139, column 59): " + [state3.selectedAuthor.constructor.name]);
+      throw new Error("Failed pattern match at Main (line 138, column 20 - line 140, column 59): " + [state3.selectedAuthor.constructor.name]);
     }();
     return searchFilter(authorFilter(categoryFilter(state3.allQuotes)));
   };
@@ -9291,11 +9296,11 @@
     }
     ;
     if (v instanceof FetchQuotes) {
-      return discard5(modify_3(function(v12) {
+      return discard5(modify_3(function(v1) {
         var $96 = {};
-        for (var $97 in v12) {
-          if ({}.hasOwnProperty.call(v12, $97)) {
-            $96[$97] = v12[$97];
+        for (var $97 in v1) {
+          if ({}.hasOwnProperty.call(v1, $97)) {
+            $96[$97] = v1[$97];
           }
           ;
         }
@@ -9304,72 +9309,86 @@
         $96.error = Nothing.value;
         return $96;
       }))(function() {
-        return bind15(liftAff2(get3(json)("https://random-quote-explorer-using-purescript.onrender.com")))(function(response) {
-          return handleAction(new ReceiveQuotes(response));
+        return discard5(liftEffect7(log2("Attempting to fetch quotes from API...")))(function() {
+          return discard5(liftEffect7(log2("URL: https://random-quote-explorer-using-purescript.onrender.com/api/quotes")))(function() {
+            return bind15(liftAff2(get3(json)("https://random-quote-explorer-using-purescript.onrender.com/api/quotes")))(function(response) {
+              return discard5(liftEffect7(log2("Response received")))(function() {
+                return handleAction(new ReceiveQuotes(response));
+              });
+            });
+          });
         });
       });
     }
     ;
     if (v instanceof ReceiveQuotes) {
       if (v.value0 instanceof Left) {
-        return modify_3(function(v12) {
-          var $100 = {};
-          for (var $101 in v12) {
-            if ({}.hasOwnProperty.call(v12, $101)) {
-              $100[$101] = v12[$101];
+        return discard5(liftEffect7(log2("Error fetching quotes - Left case")))(function() {
+          return modify_3(function(v1) {
+            var $100 = {};
+            for (var $101 in v1) {
+              if ({}.hasOwnProperty.call(v1, $101)) {
+                $100[$101] = v1[$101];
+              }
+              ;
             }
             ;
-          }
-          ;
-          $100.loading = false;
-          $100.error = new Just("Failed to load quotes from server. Please make sure the backend is running.");
-          return $100;
+            $100.loading = false;
+            $100.error = new Just("Failed to load quotes from server. Please make sure the backend is running.");
+            return $100;
+          });
         });
       }
       ;
       if (v.value0 instanceof Right) {
-        var v1 = decodeQuoteDatabase(v.value0.value0.body);
-        if (v1 instanceof Left) {
-          return modify_3(function(v2) {
-            var $105 = {};
-            for (var $106 in v2) {
-              if ({}.hasOwnProperty.call(v2, $106)) {
-                $105[$106] = v2[$106];
-              }
-              ;
-            }
-            ;
-            $105.loading = false;
-            $105.error = new Just("Failed to parse quotes: " + v1.value0);
-            return $105;
-          });
-        }
-        ;
-        if (v1 instanceof Right) {
-          return discard5(modify_3(function(v2) {
-            var $109 = {};
-            for (var $110 in v2) {
-              if ({}.hasOwnProperty.call(v2, $110)) {
-                $109[$110] = v2[$110];
-              }
-              ;
-            }
-            ;
-            $109.loading = false;
-            $109.error = Nothing.value;
-            $109.allQuotes = v1.value0.quotes;
-            $109.categories = v1.value0.categories;
-            $109.authors = v1.value0.authors;
-            return $109;
-          }))(function() {
-            return handleAction(GetRandomQuote.value);
-          });
-        }
-        ;
-        throw new Error("Failed pattern match at Main (line 166, column 7 - line 180, column 38): " + [v1.constructor.name]);
+        return discard5(liftEffect7(log2("Successfully received response body")))(function() {
+          var v1 = decodeQuoteDatabase(v.value0.value0.body);
+          if (v1 instanceof Left) {
+            return discard5(liftEffect7(log2("Decode error: " + v1.value0)))(function() {
+              return modify_3(function(v2) {
+                var $105 = {};
+                for (var $106 in v2) {
+                  if ({}.hasOwnProperty.call(v2, $106)) {
+                    $105[$106] = v2[$106];
+                  }
+                  ;
+                }
+                ;
+                $105.loading = false;
+                $105.error = new Just("Failed to parse quotes: " + v1.value0);
+                return $105;
+              });
+            });
+          }
+          ;
+          if (v1 instanceof Right) {
+            return discard5(liftEffect7(log2("Successfully decoded " + (show2(length(v1.value0.quotes)) + " quotes"))))(function() {
+              return discard5(modify_3(function(v2) {
+                var $109 = {};
+                for (var $110 in v2) {
+                  if ({}.hasOwnProperty.call(v2, $110)) {
+                    $109[$110] = v2[$110];
+                  }
+                  ;
+                }
+                ;
+                $109.loading = false;
+                $109.error = Nothing.value;
+                $109.allQuotes = v1.value0.quotes;
+                $109.categories = v1.value0.categories;
+                $109.authors = v1.value0.authors;
+                return $109;
+              }))(function() {
+                return handleAction(GetRandomQuote.value);
+              });
+            });
+          }
+          ;
+          throw new Error("Failed pattern match at Main (line 172, column 7 - line 188, column 38): " + [v1.constructor.name]);
+        });
       }
       ;
-      throw new Error("Failed pattern match at Main (line 159, column 29 - line 180, column 38): " + [v.value0.constructor.name]);
+      throw new Error("Failed pattern match at Main (line 163, column 29 - line 188, column 38): " + [v.value0.constructor.name]);
     }
     ;
     if (v instanceof GetRandomQuote) {
@@ -9377,11 +9396,11 @@
         var filteredQuotes = getFilteredQuotes(state3);
         var $116 = length(filteredQuotes) === 0;
         if ($116) {
-          return modify_3(function(v12) {
+          return modify_3(function(v1) {
             var $117 = {};
-            for (var $118 in v12) {
-              if ({}.hasOwnProperty.call(v12, $118)) {
-                $117[$118] = v12[$118];
+            for (var $118 in v1) {
+              if ({}.hasOwnProperty.call(v1, $118)) {
+                $117[$118] = v1[$118];
               }
               ;
             }
@@ -9392,8 +9411,8 @@
         }
         ;
         return bind15(liftEffect7(randomInt(0)(length(filteredQuotes) - 1 | 0)))(function(idx) {
-          var v12 = index(filteredQuotes)(idx);
-          if (v12 instanceof Just) {
+          var v1 = index(filteredQuotes)(idx);
+          if (v1 instanceof Just) {
             return modify_3(function(v2) {
               var $121 = {};
               for (var $122 in v2) {
@@ -9403,26 +9422,26 @@
                 ;
               }
               ;
-              $121.currentQuote = new Just(v12.value0);
+              $121.currentQuote = new Just(v1.value0);
               return $121;
             });
           }
           ;
-          if (v12 instanceof Nothing) {
+          if (v1 instanceof Nothing) {
             return pure15(unit);
           }
           ;
-          throw new Error("Failed pattern match at Main (line 189, column 9 - line 191, column 31): " + [v12.constructor.name]);
+          throw new Error("Failed pattern match at Main (line 197, column 9 - line 199, column 31): " + [v1.constructor.name]);
         });
       });
     }
     ;
     if (v instanceof FilterByCategory) {
-      return discard5(modify_3(function(v12) {
+      return discard5(modify_3(function(v1) {
         var $125 = {};
-        for (var $126 in v12) {
-          if ({}.hasOwnProperty.call(v12, $126)) {
-            $125[$126] = v12[$126];
+        for (var $126 in v1) {
+          if ({}.hasOwnProperty.call(v1, $126)) {
+            $125[$126] = v1[$126];
           }
           ;
         }
@@ -9435,11 +9454,11 @@
     }
     ;
     if (v instanceof FilterByAuthor) {
-      return discard5(modify_3(function(v12) {
+      return discard5(modify_3(function(v1) {
         var $129 = {};
-        for (var $130 in v12) {
-          if ({}.hasOwnProperty.call(v12, $130)) {
-            $129[$130] = v12[$130];
+        for (var $130 in v1) {
+          if ({}.hasOwnProperty.call(v1, $130)) {
+            $129[$130] = v1[$130];
           }
           ;
         }
@@ -9452,11 +9471,11 @@
     }
     ;
     if (v instanceof SetSearchQuery) {
-      return modify_3(function(v12) {
+      return modify_3(function(v1) {
         var $133 = {};
-        for (var $134 in v12) {
-          if ({}.hasOwnProperty.call(v12, $134)) {
-            $133[$134] = v12[$134];
+        for (var $134 in v1) {
+          if ({}.hasOwnProperty.call(v1, $134)) {
+            $133[$134] = v1[$134];
           }
           ;
         }
@@ -9482,11 +9501,11 @@
     }
     ;
     if (v instanceof ClearFilters) {
-      return discard5(modify_3(function(v12) {
+      return discard5(modify_3(function(v1) {
         var $140 = {};
-        for (var $141 in v12) {
-          if ({}.hasOwnProperty.call(v12, $141)) {
-            $140[$141] = v12[$141];
+        for (var $141 in v1) {
+          if ({}.hasOwnProperty.call(v1, $141)) {
+            $140[$141] = v1[$141];
           }
           ;
         }
@@ -9500,7 +9519,7 @@
       });
     }
     ;
-    throw new Error("Failed pattern match at Main (line 150, column 16 - line 213, column 32): " + [v.constructor.name]);
+    throw new Error("Failed pattern match at Main (line 151, column 16 - line 221, column 32): " + [v.constructor.name]);
   };
   var component = /* @__PURE__ */ function() {
     var initialState = {
@@ -9537,7 +9556,7 @@
         return pure23(unit);
       }
       ;
-      throw new Error("Failed pattern match at Main (line 416, column 3 - line 418, column 25): " + [app.constructor.name]);
+      throw new Error("Failed pattern match at Main (line 424, column 3 - line 426, column 25): " + [app.constructor.name]);
     });
   }));
 
