@@ -1,5 +1,11 @@
 {
   "dependencies": {
-    "dotenv": "^17.2.3"
+    "dotenv": "^17.2.3",
+    "parcel": "^2.12.0"
+  },
+  "scripts": {
+    "build": "spago build && parcel build index.html --dist-dir dist --public-url ./",
+    "dev": "spago build && parcel index.html",
+    "clean": "rm -rf dist .parcel-cache"
   }
 }
