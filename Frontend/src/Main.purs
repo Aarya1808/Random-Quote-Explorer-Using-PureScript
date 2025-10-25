@@ -290,12 +290,18 @@ renderFilterControls state =
     , HH.select
         [ HE.onSelectedIndexChange (\idx -> handleCategoryChange state.categories idx)
         , HP.class_ $ HH.ClassName "category-select"
+        , HP.value case state.selectedCategory of
+            Just cat -> cat
+            Nothing -> ""
         ]
         ([ HH.option [ HP.value "" ] [ HH.text "All Categories" ] ] <>
           map renderCategoryOption state.categories)
     , HH.select
         [ HE.onSelectedIndexChange (\idx -> handleAuthorChange state.allQuotes idx)
         , HP.class_ $ HH.ClassName "author-select"
+        , HP.value case state.selectedAuthor of
+            Just author -> author
+            Nothing -> ""
         ]
         ([ HH.option [ HP.value "" ] [ HH.text "All Authors" ] ] <>
           map renderAuthorOption (getUniqueAuthors state.allQuotes))
