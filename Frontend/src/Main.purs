@@ -218,7 +218,7 @@ handleAction = case _ of
       , selectedAuthor = Nothing
       , searchQuery = ""
       }
-    handleAction GetRandomQuote
+    
   
 render :: forall slots. State -> H.ComponentHTML Action slots Aff
 render state = 
