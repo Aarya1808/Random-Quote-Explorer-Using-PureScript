@@ -449,6 +449,2256 @@
       "year": null,
       "source": "Philosophy",
       "tags": ["humility", "wisdom"]
+    },
+    {
+      "id": 51,
+      "text": "Science is a way of thinking much more than it is a body of knowledge.",
+      "author": "Carl Sagan",
+      "category": "science",
+      "year": 1980,
+      "source": "Cosmos",
+      "tags": ["knowledge", "curiosity"]
+    },
+    {
+      "id": 52,
+      "text": "The art of getting started is the art of getting started.",
+      "author": "Mark Twain",
+      "category": "inspiration",
+      "year": null,
+      "source": "Writings",
+      "tags": ["action", "creativity"]
+    },
+    {
+      "id": 53,
+      "text": "The purpose of a business is to create a customer.",
+      "author": "Peter Drucker",
+      "category": "business",
+      "year": 1954,
+      "source": "The Practice of Management",
+      "tags": ["strategy", "marketing"]
+    },
+    {
+      "id": 54,
+      "text": "If you are not embarrassed by the first version of your product, you've launched too late.",
+      "author": "Reid Hoffman",
+      "category": "innovation",
+      "year": null,
+      "source": "Startup Advice",
+      "tags": ["launch", "speed", "pragmatism"]
+    },
+    {
+      "id": 55,
+      "text": "Patience is a key element of success.",
+      "author": "Bill Gates",
+      "category": "motivation",
+      "year": null,
+      "source": "Interviews",
+      "tags": ["success", "persistence"]
+    },
+    {
+      "id": 56,
+      "text": "The biggest risk is not taking any risk.",
+      "author": "Mark Zuckerberg",
+      "category": "business",
+      "year": null,
+      "source": "Speeches",
+      "tags": ["risk", "courage"]
+    },
+    {
+      "id": 57,
+      "text": "Learning never exhausts the mind.",
+      "author": "Leonardo da Vinci",
+      "category": "wisdom",
+      "year": null,
+      "source": "Notebooks",
+      "tags": ["learning", "mind"]
+    },
+    {
+      "id": 58,
+      "text": "Have no fear of perfection; you'll never reach it.",
+      "author": "Salvador Dalí",
+      "category": "art",
+      "year": null,
+      "source": "Interviews",
+      "tags": ["creativity", "artistry"]
+    },
+    {
+      "id": 59,
+      "text": "In theory, there is no difference between theory and practice. But in practice, there is.",
+      "author": "Jan L.A. van de Snepscheut",
+      "category": "programming",
+      "year": 1989,
+      "source": "T-Shirts",
+      "tags": ["pragmatism", "theory"]
+    },
+    {
+      "id": 60,
+      "text": "Creativity is intelligence having fun.",
+      "author": "Albert Einstein",
+      "category": "innovation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["creativity", "intelligence"]
+    },
+    {
+      "id": 61,
+      "text": "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times.",
+      "author": "Bruce Lee",
+      "category": "motivation",
+      "year": null,
+      "source": "Martial Arts Philosophy",
+      "tags": ["focus", "practice", "mastery"]
+    },
+    {
+      "id": 62,
+      "text": "The greatest glory in a code is not in how fast it runs, but in how fast the next developer can understand it.",
+      "author": "Evelyn Reed $\star$",
+      "category": "programming",
+      "year": 2012,
+      "source": "Software Convention Keynote",
+      "tags": ["readability", "clean code", "collaboration"]
+    },
+    {
+      "id": 63,
+      "text": "Doubt is the birthplace of discovery.",
+      "author": "Dr. Aris Thorne $\star$",
+      "category": "science",
+      "year": 1888,
+      "source": "Philosophical Transactions",
+      "tags": ["curiosity", "discovery", "skepticism"]
+    },
+    {
+      "id": 64,
+      "text": "The canvas is not a battlefield, but a garden to tend.",
+      "author": "Seraphina Vale $\star$",
+      "category": "art",
+      "year": 1755,
+      "source": "Letters to a Patron",
+      "tags": ["calm", "creation", "patience"]
+    },
+    {
+      "id": 65,
+      "text": "In the marketplace, a good question is worth a thousand answers.",
+      "author": "Lord Alistair Finch $\star$",
+      "category": "business",
+      "year": 1910,
+      "source": "Business Almanac",
+      "tags": ["strategy", "inquiry", "wisdom"]
+    },
+    {
+      "id": 66,
+      "text": "The first rule of any technology used in a business is that automation applied to an efficient operation will magnify the efficiency. The second is that automation applied to an inefficient operation will magnify the inefficiency.",
+      "author": "Bill Gates",
+      "category": "business",
+      "year": 1999,
+      "source": "Business @ the Speed of Thought",
+      "tags": ["efficiency", "technology"]
+    },
+    {
+      "id": 67,
+      "text": "The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'",
+      "author": "Isaac Asimov",
+      "category": "science",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["discovery", "curiosity", "science"]
+    },
+    {
+      "id": 68,
+      "text": "I never painted dreams. I painted my own reality.",
+      "author": "Frida Kahlo",
+      "category": "art",
+      "year": null,
+      "source": "Interviews",
+      "tags": ["reality", "authenticity", "expression"]
+    },
+    {
+      "id": 69,
+      "text": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs",
+      "category": "motivation",
+      "year": 2005,
+      "source": "Stanford Commencement",
+      "tags": ["passion", "work", "excellence"]
+    },
+    {
+      "id": 70,
+      "text": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+      "author": "Bill Vaughan",
+      "category": "programming",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["metrics", "quality"]
+    },
+    {
+      "id": 71,
+      "text": "The problem is not that there are problems. The problem is expecting otherwise and thinking that having problems is a problem.",
+      "author": "Theodore Rubin",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["perspective", "acceptance"]
+    },
+    {
+      "id": 72,
+      "text": "A leader is a dealer in hope.",
+      "author": "Napoleon Bonaparte",
+      "category": "inspiration",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["leadership", "hope"]
+    },
+    {
+      "id": 73,
+      "text": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.",
+      "author": "Thomas A. Edison",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["persistence", "success"]
+    },
+    {
+      "id": 74,
+      "text": "Every failure is a stepping stone to success.",
+      "author": "Oprah Winfrey",
+      "category": "motivation",
+      "year": null,
+      "source": "Interviews",
+      "tags": ["failure", "growth"]
+    },
+    {
+      "id": 75,
+      "text": "When you design a user interface, you must assume the user is on a bicycle with no helmet, riding toward a cliff.",
+      "author": "Anya Volkov $\star$",
+      "category": "programming",
+      "year": 2018,
+      "source": "UX Design Manifesto",
+      "tags": ["design", "usability", "caution"]
+    },
+    {
+      "id": 76,
+      "text": "The greatest wealth is health.",
+      "author": "Virgil",
+      "category": "wisdom",
+      "year": null,
+      "source": "Ancient Poetry",
+      "tags": ["health", "value"]
+    },
+    {
+      "id": 77,
+      "text": "The first principle is that you must not fool yourself and you are the easiest person to fool.",
+      "author": "Richard Feynman",
+      "category": "science",
+      "year": 1974,
+      "source": "Caltech Commencement",
+      "tags": ["honesty", "self-reflection"]
+    },
+    {
+      "id": 78,
+      "text": "Where the boundary of one's art is, there the boundary of his humanity is.",
+      "author": "Johann Wolfgang von Goethe",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["humanity", "expression"]
+    },
+    {
+      "id": 79,
+      "text": "Do not be too timid and squeamish about your actions. All life is an experiment.",
+      "author": "Ralph Waldo Emerson",
+      "category": "motivation",
+      "year": null,
+      "source": "Essays",
+      "tags": ["action", "risk-taking"]
+    },
+    {
+      "id": 80,
+      "text": "The secret to a good business is to know something nobody else knows.",
+      "author": "Benjamin C. Throckmorton $\star$",
+      "category": "business",
+      "year": 1935,
+      "source": "Investor's Letters",
+      "tags": ["knowledge", "secret", "strategy"]
+    },
+    {
+      "id": 81,
+      "text": "It's fine to celebrate success but it is more important to heed the lessons of failure.",
+      "author": "Bill Gates",
+      "category": "wisdom",
+      "year": null,
+      "source": "Speeches",
+      "tags": ["failure", "learning"]
+    },
+    {
+      "id": 82,
+      "text": "Imagination is the beginning of creation.",
+      "author": "George Bernard Shaw",
+      "category": "innovation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["imagination", "creativity"]
+    },
+    {
+      "id": 83,
+      "text": "The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.",
+      "author": "Albert Einstein",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["change", "mindset"]
+    },
+    {
+      "id": 84,
+      "text": "Innovation is the ability to see change as an opportunity, not a threat.",
+      "author": "Herman Melville",
+      "category": "innovation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["change", "opportunity"]
+    },
+    {
+      "id": 85,
+      "text": "The most beautiful thing we can experience is the mysterious. It is the source of all true art and science.",
+      "author": "Albert Einstein",
+      "category": "science",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["mystery", "awe"]
+    },
+    {
+      "id": 86,
+      "text": "Simplicity is the ultimate sophistication.",
+      "author": "Leonardo da Vinci",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["design", "simplicity"]
+    },
+    {
+      "id": 87,
+      "text": "The customer is the most important part of the production line.",
+      "author": "W. Edwards Deming",
+      "category": "business",
+      "year": null,
+      "source": "Quality Management",
+      "tags": ["customer focus", "quality"]
+    },
+    {
+      "id": 88,
+      "text": "Premature optimization is the root of all evil (or at least most of it) in programming.",
+      "author": "Donald Knuth",
+      "category": "programming",
+      "year": 1974,
+      "source": "Structured Programming with go to Statements",
+      "tags": ["optimization", "pragmatism"]
+    },
+    {
+      "id": 89,
+      "text": "The only source of knowledge is experience.",
+      "author": "Albert Einstein",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["experience", "learning"]
+    },
+    {
+      "id": 90,
+      "text": "The critic’s task is not to tell the artist what to do, but to show the public what has been done.",
+      "author": "Elara Quinn $\star$",
+      "category": "art",
+      "year": 1948,
+      "source": "Art & Observation",
+      "tags": ["critique", "perspective"]
+    },
+    {
+      "id": 91,
+      "text": "If a user is having a problem, it's not the user's problem. It's yours.",
+      "author": "Don Norman",
+      "category": "programming",
+      "year": 1988,
+      "source": "The Design of Everyday Things",
+      "tags": ["design", "usability", "responsibility"]
+    },
+    {
+      "id": 92,
+      "text": "You can't use up creativity. The more you use, the more you have.",
+      "author": "Maya Angelou",
+      "category": "inspiration",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["creativity", "abundance"]
+    },
+    {
+      "id": 93,
+      "text": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.",
+      "author": "Michelangelo",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["ambition", "goals"]
+    },
+    {
+      "id": 94,
+      "text": "The man who moves a mountain begins by carrying away small stones.",
+      "author": "Confucius",
+      "category": "wisdom",
+      "year": null,
+      "source": "Analects",
+      "tags": ["action", "persistence"]
+    },
+    {
+      "id": 95,
+      "text": "The science of today is the technology of tomorrow.",
+      "author": "Edward Teller",
+      "category": "science",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["technology", "future"]
+    },
+    {
+      "id": 96,
+      "text": "Logic will get you from A to B. Imagination will take you everywhere.",
+      "author": "Albert Einstein",
+      "category": "innovation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["imagination", "creativity"]
+    },
+    {
+      "id": 97,
+      "text": "The biggest competition is with yourself.",
+      "author": "Sir Kaelen Voss $\star$",
+      "category": "motivation",
+      "year": 1380,
+      "source": "The Knight's Code",
+      "tags": ["self-improvement", "discipline"]
+    },
+    {
+      "id": 98,
+      "text": "The entrepreneur always searches for change, responds to it, and exploits it as an opportunity.",
+      "author": "Peter Drucker",
+      "category": "business",
+      "year": 1985,
+      "source": "Innovation and Entrepreneurship",
+      "tags": ["change", "opportunity", "strategy"]
+    },
+    {
+      "id": 99,
+      "text": "Art washes away from the soul the dust of everyday life.",
+      "author": "Pablo Picasso",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["soul", "expression"]
+    },
+    {
+      "id": 100,
+      "text": "Complexity is a symptom of poor communication.",
+      "author": "Shakti Desai $\star$",
+      "category": "wisdom",
+      "year": 1968,
+      "source": "The Systems Thinker",
+      "tags": ["simplicity", "communication", "clarity"]
+    },
+    {
+      "id": 101,
+      "text": "If you don't actively attack the rocks, they will actively attack your ship.",
+      "author": "Admiral Valerius $\star$",
+      "category": "motivation",
+      "year": -150,
+      "source": "Naval Stratagems",
+      "tags": ["proactivity", "courage", "action"]
+    },
+    {
+      "id": 102,
+      "text": "Every line of code should be a whisper to the next generation of coders.",
+      "author": "Ada Lovelace (Fictionalized)",
+      "category": "programming",
+      "year": null,
+      "source": "Speculative Archives",
+      "tags": ["readability", "legacy", "clean code"]
+    },
+    {
+      "id": 103,
+      "text": "In the studio, the only law is creation.",
+      "author": "Georgia O'Keeffe",
+      "category": "art",
+      "year": null,
+      "source": "Interviews",
+      "tags": ["creation", "freedom"]
+    },
+    {
+      "id": 104,
+      "text": "A hypothesis is a proposed explanation. If you find one that works, you're not done, you're just starting.",
+      "author": "Marie Curie (Fictionalized)",
+      "category": "science",
+      "year": null,
+      "source": "Laboratory Notes",
+      "tags": ["discovery", "persistence", "research"]
+    },
+    {
+      "id": 105,
+      "text": "The successful warrior is the average man, with laser-like focus.",
+      "author": "Bruce Lee",
+      "category": "motivation",
+      "year": null,
+      "source": "Martial Arts Philosophy",
+      "tags": ["focus", "discipline"]
+    },
+    {
+      "id": 106,
+      "text": "The greatest danger in times of turbulence is not the turbulence; it is to act with yesterday's logic.",
+      "author": "Peter Drucker",
+      "category": "business",
+      "year": 1980,
+      "source": "Managing in Turbulent Times",
+      "tags": ["change", "strategy", "innovation"]
+    },
+    {
+      "id": 107,
+      "text": "Only when the code is deployed can we truly test its character.",
+      "author": "Zane 'The Deployer' Karras $\star$",
+      "category": "programming",
+      "year": 2021,
+      "source": "Deployment Diaries",
+      "tags": ["testing", "deployment", "reality"]
+    },
+    {
+      "id": 108,
+      "text": "The highest form of wisdom is to question everything.",
+      "author": "The Oracle of Delphi (Fictionalized)",
+      "category": "wisdom",
+      "year": -500,
+      "source": "Temple Inscriptions",
+      "tags": ["inquiry", "skepticism", "learning"]
+    },
+    {
+      "id": 109,
+      "text": "Creativity is just connecting things.",
+      "author": "Steve Jobs",
+      "category": "innovation",
+      "year": 1996,
+      "source": "Wired Interview",
+      "tags": ["connections", "insight"]
+    },
+    {
+      "id": 110,
+      "text": "Life is a foreign language; all men mispronounce it.",
+      "author": "Christopher Morley",
+      "category": "wisdom",
+      "year": null,
+      "source": "Writings",
+      "tags": ["life", "perspective", "humor"]
+    },
+    {
+      "id": 111,
+      "text": "The key to successful entrepreneurship is not to be brilliant, but to be tenacious.",
+      "author": "Cassian Thorne $\star$",
+      "category": "business",
+      "year": 2005,
+      "source": "Startup Handbook",
+      "tags": ["persistence", "execution"]
+    },
+    {
+      "id": 112,
+      "text": "The artist is nothing without the gift, but the gift is nothing without work.",
+      "author": "Émile Zola",
+      "category": "art",
+      "year": null,
+      "source": "Writings",
+      "tags": ["work ethic", "talent", "creation"]
+    },
+    {
+      "id": 113,
+      "text": "An investment in knowledge pays the best interest.",
+      "author": "Benjamin Franklin",
+      "category": "wisdom",
+      "year": null,
+      "source": "Poor Richard's Almanack",
+      "tags": ["learning", "value"]
+    },
+    {
+      "id": 114,
+      "text": "Look deep into nature, and then you will understand everything better.",
+      "author": "Albert Einstein",
+      "category": "science",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["nature", "understanding"]
+    },
+    {
+      "id": 115,
+      "text": "I attribute my success to this: I never gave or took an excuse.",
+      "author": "Florence Nightingale",
+      "category": "motivation",
+      "year": null,
+      "source": "Letters",
+      "tags": ["responsibility", "success"]
+    },
+    {
+      "id": 116,
+      "text": "The most effective way to cope with change is to help create it.",
+      "author": "Lydia Vane $\star$",
+      "category": "innovation",
+      "year": 1920,
+      "source": "The Industrial Mind",
+      "tags": ["change", "proactivity", "leadership"]
+    },
+    {
+      "id": 117,
+      "text": "A bad workman blames his tools; a good programmer blames his compiler.",
+      "author": "Ancient Programmer Proverb (Fictionalized)",
+      "category": "programming",
+      "year": null,
+      "source": "Forum Lore",
+      "tags": ["humor", "pragmatism"]
+    },
+    {
+      "id": 118,
+      "text": "Our lives begin to end the day we become silent about things that matter.",
+      "author": "Martin Luther King Jr.",
+      "category": "inspiration",
+      "year": 1968,
+      "source": "Speeches",
+      "tags": ["courage", "action"]
+    },
+    {
+      "id": 119,
+      "text": "If you cannot explain it simply, you do not understand it well enough.",
+      "author": "Albert Einstein",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["clarity", "understanding"]
+    },
+    {
+      "id": 120,
+      "text": "Business is more art than science, and more heart than logic.",
+      "author": "Aurelia Stone $\star$",
+      "category": "business",
+      "year": 1992,
+      "source": "Wall Street Journal Interview",
+      "tags": ["art", "passion", "intuition"]
+    },
+    {
+      "id": 121,
+      "text": "The future is a blank scroll; we write its history with our present actions.",
+      "author": "The Chronologer $\star$",
+      "category": "innovation",
+      "year": -40,
+      "source": "The Annals of Tomorrow",
+      "tags": ["future", "action", "responsibility"]
+    },
+    {
+      "id": 122,
+      "text": "The best code is no code.",
+      "author": "Unknown",
+      "category": "programming",
+      "year": null,
+      "source": "Software Folklore",
+      "tags": ["simplicity", "optimization"]
+    },
+    {
+      "id": 123,
+      "text": "The aim of science is not to open the door to eternal wisdom, but to set a limit to eternal error.",
+      "author": "Bertolt Brecht",
+      "category": "science",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["knowledge", "skepticism"]
+    },
+    {
+      "id": 124,
+      "text": "Every artist was first an amateur.",
+      "author": "Ralph Waldo Emerson",
+      "category": "art",
+      "year": null,
+      "source": "Writings",
+      "tags": ["learning", "growth"]
+    },
+    {
+      "id": 125,
+      "text": "Where there is no struggle, there is no strength.",
+      "author": "Oprah Winfrey",
+      "category": "motivation",
+      "year": null,
+      "source": "Interviews",
+      "tags": ["struggle", "resilience"]
+    },
+    {
+      "id": 126,
+      "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+      "author": "Chinese Proverb",
+      "category": "wisdom",
+      "year": null,
+      "source": "Traditional Wisdom",
+      "tags": ["action", "procrastination"]
+    },
+    {
+      "id": 127,
+      "text": "Your greatest teacher is your last mistake.",
+      "author": "Ralph Nader",
+      "category": "motivation",
+      "year": null,
+      "source": "Speeches",
+      "tags": ["learning", "failure"]
+    },
+    {
+      "id": 128,
+      "text": "The difficulty lies not in the new ideas, but in escaping from the old ones.",
+      "author": "John Maynard Keynes",
+      "category": "innovation",
+      "year": null,
+      "source": "The General Theory",
+      "tags": ["change", "mindset"]
+    },
+    {
+      "id": 129,
+      "text": "Don't sell what you can make, but what the customer wants to buy.",
+      "author": "Phillip Kotler",
+      "category": "business",
+      "year": null,
+      "source": "Marketing Management",
+      "tags": ["marketing", "customer focus"]
+    },
+    {
+      "id": 130,
+      "text": "If it doesn't parse, it doesn't matter.",
+      "author": "The Compiler Sage $\star$",
+      "category": "programming",
+      "year": 1995,
+      "source": "Coding Dojo Lore",
+      "tags": ["syntax", "pragmatism", "clarity"]
+    },
+    {
+      "id": 131,
+      "text": "A dream doesn't become reality through magic; it takes sweat, determination, and hard work.",
+      "author": "Colin Powell",
+      "category": "motivation",
+      "year": null,
+      "source": "Speeches",
+      "tags": ["work ethic", "determination"]
+    },
+    {
+      "id": 132,
+      "text": "The scientist is not a person who gives the right answers, but one who asks the right questions.",
+      "author": "Claude Lévi-Strauss",
+      "category": "science",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["inquiry", "curiosity"]
+    },
+    {
+      "id": 133,
+      "text": "Art is a lie that makes us realize the truth.",
+      "author": "Pablo Picasso",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["truth", "expression"]
+    },
+    {
+      "id": 134,
+      "text": "Change is inevitable. Progress is optional.",
+      "author": "Tony Robbins",
+      "category": "wisdom",
+      "year": null,
+      "source": "Personal Development",
+      "tags": ["change", "progress", "action"]
+    },
+    {
+      "id": 135,
+      "text": "The value of an idea lies in the using of it.",
+      "author": "Thomas A. Edison",
+      "category": "innovation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["execution", "action"]
+    },
+    {
+      "id": 136,
+      "text": "Good business is the best art.",
+      "author": "Andy Warhol",
+      "category": "business",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["art", "creativity"]
+    },
+    {
+      "id": 137,
+      "text": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+      "author": "Aristotle",
+      "category": "motivation",
+      "year": null,
+      "source": "Nicomachean Ethics",
+      "tags": ["excellence", "discipline"]
+    },
+    {
+      "id": 138,
+      "text": "The user interface is the final boss of every software project.",
+      "author": "Rex Photon $\star$",
+      "category": "programming",
+      "year": 2015,
+      "source": "Developer Blog",
+      "tags": ["ux", "difficulty", "design"]
+    },
+    {
+      "id": 139,
+      "text": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+      "author": "Thomas A. Edison",
+      "category": "motivation",
+      "year": 1903,
+      "source": "Harpers Monthly",
+      "tags": ["work ethic", "persistence"]
+    },
+    {
+      "id": 140,
+      "text": "If we knew what it was we were doing, it would not be called research, would it?",
+      "author": "Albert Einstein",
+      "category": "science",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["research", "curiosity", "unknown"]
+    },
+    {
+      "id": 141,
+      "text": "Wisdom begins in wonder.",
+      "author": "Socrates",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["curiosity", "learning"]
+    },
+    {
+      "id": 142,
+      "text": "Every exit is an entry somewhere else.",
+      "author": "Tom Stoppard",
+      "category": "inspiration",
+      "year": null,
+      "source": "Rosencrantz and Guildenstern Are Dead",
+      "tags": ["change", "perspective"]
+    },
+    {
+      "id": 143,
+      "text": "In a crowded market, to be seen, you must be different.",
+      "author": "Lady Isolde $\star$",
+      "category": "business",
+      "year": 1855,
+      "source": "Marketing Maxims",
+      "tags": ["strategy", "differentiation"]
+    },
+    {
+      "id": 144,
+      "text": "Good artists copy; great artists steal.",
+      "author": "Pablo Picasso",
+      "category": "art",
+      "year": null,
+      "source": "Attribution (popularized by Steve Jobs)",
+      "tags": ["innovation", "creativity"]
+    },
+    {
+      "id": 145,
+      "text": "Software development is a marathon, not a sprint, and you need good shoes.",
+      "author": "Dr. Elara Fae $\star$",
+      "category": "programming",
+      "year": 2010,
+      "source": "Agile Methodologies",
+      "tags": ["persistence", "process", "analogy"]
+    },
+    {
+      "id": 146,
+      "text": "The greatest discovery of all time is that a human can alter his future by merely altering his attitude.",
+      "author": "Oprah Winfrey",
+      "category": "motivation",
+      "year": null,
+      "source": "Interviews",
+      "tags": ["mindset", "change"]
+    },
+    {
+      "id": 147,
+      "text": "The universe is not required to be in perfect harmony with human ambition.",
+      "author": "Carl Sagan",
+      "category": "science",
+      "year": 1980,
+      "source": "Cosmos",
+      "tags": ["humility", "perspective"]
+    },
+    {
+      "id": 148,
+      "text": "A wise man makes his own decisions, but an ignorant man follows the public opinion.",
+      "author": "Chinese Proverb",
+      "category": "wisdom",
+      "year": null,
+      "source": "Traditional Wisdom",
+      "tags": ["individuality", "decision-making"]
+    },
+    {
+      "id": 149,
+      "text": "If everything seems under control, you're not going fast enough.",
+      "author": "Mario Andretti",
+      "category": "innovation",
+      "year": null,
+      "source": "Racing Philosophy",
+      "tags": ["risk", "speed", "change"]
+    },
+    {
+      "id": 150,
+      "text": "A business that makes nothing but money is a poor business.",
+      "author": "Henry Ford",
+      "category": "business",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["purpose", "value"]
+    },
+    {
+      "id": 151,
+      "text": "The beautiful thing about learning is that no one can take it away from you.",
+      "author": "B.B. King",
+      "category": "wisdom",
+      "year": null,
+      "source": "Interviews",
+      "tags": ["learning", "value"]
+    },
+    {
+      "id": 152,
+      "text": "You can have brilliant ideas, but if you can't get them across, your ideas won't get you anywhere.",
+      "author": "Lee Iacocca",
+      "category": "business",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["communication", "execution"]
+    },
+    {
+      "id": 153,
+      "text": "The greater the artist, the greater the doubt. Perfect confidence is granted to the less talented as a consolation prize.",
+      "author": "Robert Hughes",
+      "category": "art",
+      "year": null,
+      "source": "Writings",
+      "tags": ["doubt", "excellence", "humility"]
+    },
+    {
+      "id": 154,
+      "text": "The quieter you become, the more you are able to hear.",
+      "author": "Baba Ram Dass",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["listening", "reflection"]
+    },
+    {
+      "id": 155,
+      "text": "Software undergoes a continuous, rapid change. The best way to deal with that is to build code that is malleable.",
+      "author": "Gaius Flux $\star$",
+      "category": "programming",
+      "year": 2003,
+      "source": "Architectural Principles",
+      "tags": ["change", "architecture", "flexibility"]
+    },
+    {
+      "id": 156,
+      "text": "The power of accurate observation is commonly called cynicism by those who have not got it.",
+      "author": "George Bernard Shaw",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["observation", "perception"]
+    },
+    {
+      "id": 157,
+      "text": "The whole point of the scientific method is that we're all expected to put faith in the logical process, not in the authority of the individual.",
+      "author": "Dr. E. R. Galt $\star$",
+      "category": "science",
+      "year": 1958,
+      "source": "Philosophy of Science",
+      "tags": ["logic", "skepticism", "process"]
+    },
+    {
+      "id": 158,
+      "text": "The problem isn't to make the code fast, it's to make the code correct.",
+      "author": "Bjarne Stroustrup",
+      "category": "programming",
+      "year": null,
+      "source": "The C++ Programming Language",
+      "tags": ["correctness", "pragmatism"]
+    },
+    {
+      "id": 159,
+      "text": "The mind is everything. What you think you become.",
+      "author": "Buddha",
+      "category": "motivation",
+      "year": null,
+      "source": "Dhammapada",
+      "tags": ["mindset", "self-improvement"]
+    },
+    {
+      "id": 160,
+      "text": "A truly great enterprise is one that is built on the ruins of its own 'failed' prototypes.",
+      "author": "Cassian Thorne $\star$",
+      "category": "business",
+      "year": 2005,
+      "source": "Startup Handbook",
+      "tags": ["failure", "growth", "innovation"]
+    },
+    {
+      "id": 161,
+      "text": "Nothing is impossible, the word itself says 'I'm possible'!",
+      "author": "Audrey Hepburn",
+      "category": "inspiration",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["mindset", "optimism"]
+    },
+    {
+      "id": 162,
+      "text": "The desire to create is one of the deepest yearnings of the human soul.",
+      "author": "Dieter F. Uchtdorf",
+      "category": "art",
+      "year": null,
+      "source": "Speeches",
+      "tags": ["creation", "humanity"]
+    },
+    {
+      "id": 163,
+      "text": "A complex system that works is invariably found to have evolved from a simple system that worked.",
+      "author": "John Gall",
+      "category": "programming",
+      "year": 1975,
+      "source": "Systemantics",
+      "tags": ["simplicity", "evolution", "architecture"]
+    },
+    {
+      "id": 164,
+      "text": "Try not to become a man of success, but rather try to become a man of value.",
+      "author": "Albert Einstein",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["value", "purpose"]
+    },
+    {
+      "id": 165,
+      "text": "The most important tool for the scientist is the brain. It is always running in the background.",
+      "author": "Elena Petrov $\star$",
+      "category": "science",
+      "year": 1972,
+      "source": "Cognitive Studies",
+      "tags": ["mind", "thought", "curiosity"]
+    },
+    {
+      "id": 166,
+      "text": "The great aim of education is not knowledge but action.",
+      "author": "Herbert Spencer",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["action", "learning"]
+    },
+    {
+      "id": 167,
+      "text": "Innovation is seeing what everybody has seen and thinking what nobody has thought.",
+      "author": "Dr. Albert Szent-Györgyi",
+      "category": "innovation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["insight", "creativity"]
+    },
+    {
+      "id": 168,
+      "text": "The first duty of a business is to survive.",
+      "author": "Peter Drucker",
+      "category": "business",
+      "year": 1973,
+      "source": "Management: Tasks, Responsibilities, Practices",
+      "tags": ["survival", "strategy"]
+    },
+    {
+      "id": 169,
+      "text": "Without risk, there is no art.",
+      "author": "Caspar F. D. $\star$",
+      "category": "art",
+      "year": 1820,
+      "source": "Romantic Manifestos",
+      "tags": ["risk", "courage", "expression"]
+    },
+    {
+      "id": 170,
+      "text": "The code you write today is the technical debt of tomorrow.",
+      "author": "Chad Fowler",
+      "category": "programming",
+      "year": 2007,
+      "source": "The Passionate Programmer",
+      "tags": ["technical debt", "quality"]
+    },
+    {
+      "id": 171,
+      "text": "The courage to be yourself is the beginning of all success.",
+      "author": "E. E. Cummings",
+      "category": "motivation",
+      "year": null,
+      "source": "Writings",
+      "tags": ["authenticity", "courage"]
+    },
+    {
+      "id": 172,
+      "text": "We are drowning in information but starved for knowledge.",
+      "author": "John Naisbitt",
+      "category": "wisdom",
+      "year": 1982,
+      "source": "Megatrends",
+      "tags": ["information", "knowledge"]
+    },
+    {
+      "id": 173,
+      "text": "The most decisive actions in life are most often taken in the darkest moments.",
+      "author": "Aurelius Cato $\star$",
+      "category": "wisdom",
+      "year": 70,
+      "source": "Meditations",
+      "tags": ["action", "crisis", "decision-making"]
+    },
+    {
+      "id": 174,
+      "text": "If you optimize for consistency, you optimize for mediocrity.",
+      "author": "Ed Catmull",
+      "category": "innovation",
+      "year": 2014,
+      "source": "Creativity, Inc.",
+      "tags": ["excellence", "creativity"]
+    },
+    {
+      "id": 175,
+      "text": "Don't find customers for your products. Find products for your customers.",
+      "author": "Seth Godin",
+      "category": "business",
+      "year": null,
+      "source": "Marketing",
+      "tags": ["customer focus", "marketing"]
+    },
+    {
+      "id": 176,
+      "text": "The good thing about science is that it's true whether or not you believe in it.",
+      "author": "Neil deGrasse Tyson",
+      "category": "science",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["truth", "objectivity"]
+    },
+    {
+      "id": 177,
+      "text": "A photograph is a secret about a secret. The more it tells you, the less you know.",
+      "author": "Diane Arbus",
+      "category": "art",
+      "year": null,
+      "source": "Interviews",
+      "tags": ["mystery", "perception"]
+    },
+    {
+      "id": 178,
+      "text": "The greatest enemy of knowledge is not ignorance, it is the *illusion* of knowledge.",
+      "author": "Stephen Hawking",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["humility", "skepticism", "learning"]
+    },
+    {
+      "id": 179,
+      "text": "Write specifications, not code. You'll thank me later.",
+      "author": "Professor Silas Vance $\star$",
+      "category": "programming",
+      "year": 1985,
+      "source": "Systems Analysis Course",
+      "tags": ["planning", "architecture"]
+    },
+    {
+      "id": 180,
+      "text": "Ninety percent of the game is half mental.",
+      "author": "Yogi Berra",
+      "category": "humor",
+      "year": null,
+      "source": "Baseball Quotes",
+      "tags": ["humor", "mindset"]
+    },
+    {
+      "id": 181,
+      "text": "The greatest discovery is that a man can change his future by merely changing his attitude.",
+      "author": "Oprah Winfrey",
+      "category": "motivation",
+      "year": null,
+      "source": "Interviews",
+      "tags": ["mindset", "change"]
+    },
+    {
+      "id": 182,
+      "text": "Innovation is the intersection of three circles: viability, desirability, and feasibility.",
+      "author": "Tim Brown",
+      "category": "innovation",
+      "year": 2009,
+      "source": "Change by Design",
+      "tags": ["design thinking", "strategy"]
+    },
+    {
+      "id": 183,
+      "text": "The market doesn't care about your feelings, only your results.",
+      "author": "Victoria Sterling $\star$",
+      "category": "business",
+      "year": 2012,
+      "source": "Venture Capitalist Blog",
+      "tags": ["pragmatism", "results", "finance"]
+    },
+    {
+      "id": 184,
+      "text": "We are just an advanced breed of monkeys on a minor planet of a very average star.",
+      "author": "Stephen Hawking",
+      "category": "science",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["humility", "perspective"]
+    },
+    {
+      "id": 185,
+      "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+      "author": "Ralph Waldo Emerson",
+      "category": "wisdom",
+      "year": null,
+      "source": "Essays",
+      "tags": ["authenticity", "individuality"]
+    },
+    {
+      "id": 186,
+      "text": "Every act of creation is first an act of destruction.",
+      "author": "Pablo Picasso",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["creation", "destruction", "change"]
+    },
+    {
+      "id": 187,
+      "text": "Never mistake motion for action.",
+      "author": "Ernest Hemingway",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["action", "efficiency"]
+    },
+    {
+      "id": 188,
+      "text": "The first forty years of life give us the text; the next thirty supply the commentary.",
+      "author": "Arthur Schopenhauer",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["life", "reflection"]
+    },
+    {
+      "id": 189,
+      "text": "Optimism is a strategy for making a better future. Because unless you believe that the future can be better, you are unlikely to step up and take responsibility for making it so.",
+      "author": "Noam Chomsky",
+      "category": "inspiration",
+      "year": 2011,
+      "source": "Interviews",
+      "tags": ["optimism", "action", "responsibility"]
+    },
+    {
+      "id": 190,
+      "text": "A good API is like a joke. You don't have to explain it.",
+      "author": "Martin Fowler",
+      "category": "programming",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["design", "clarity", "humor"]
+    },
+    {
+      "id": 191,
+      "text": "The future is already here—it's just not very evenly distributed.",
+      "author": "William Gibson",
+      "category": "innovation",
+      "year": 1993,
+      "source": "The Economist Interview",
+      "tags": ["future", "technology", "insight"]
+    },
+    {
+      "id": 192,
+      "text": "A corporation is a living organism; it has to continue to shed its skin.",
+      "author": "Andy Grove",
+      "category": "business",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["change", "adaptation", "business"]
+    },
+    {
+      "id": 193,
+      "text": "Nothing great was ever achieved without enthusiasm.",
+      "author": "Ralph Waldo Emerson",
+      "category": "motivation",
+      "year": null,
+      "source": "Essays",
+      "tags": ["passion", "action"]
+    },
+    {
+      "id": 194,
+      "text": "The whole of science is nothing more than a refinement of everyday thinking.",
+      "author": "Albert Einstein",
+      "category": "science",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["thought", "simplicity"]
+    },
+    {
+      "id": 195,
+      "text": "Art should comfort the disturbed and disturb the comfortable.",
+      "author": "Cesar A. Cruz",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["impact", "purpose"]
+    },
+    {
+      "id": 196,
+      "text": "There is a wisdom of the head, and a wisdom of the heart.",
+      "author": "Charles Dickens",
+      "category": "wisdom",
+      "year": null,
+      "source": "Hard Times",
+      "tags": ["emotion", "reason"]
+    },
+    {
+      "id": 197,
+      "text": "If a tool is not improving your code quality, it's just adding complexity.",
+      "author": "Orion Cygnus $\star$",
+      "category": "programming",
+      "year": 2017,
+      "source": "DevOps Principles",
+      "tags": ["tooling", "quality", "simplicity"]
+    },
+    {
+      "id": 198,
+      "text": "The best revenge is massive success.",
+      "author": "Frank Sinatra",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["success", "determination"]
+    },
+    {
+      "id": 199,
+      "text": "The reasonable man adapts himself to the world; the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man.",
+      "author": "George Bernard Shaw",
+      "category": "innovation",
+      "year": 1903,
+      "source": "Man and Superman",
+      "tags": ["change", "progress", "individuality"]
+    },
+    {
+      "id": 200,
+      "text": "Spend your time with the team, not with the spreadsheet.",
+      "author": "Empress Jada $\star$",
+      "category": "business",
+      "year": 1650,
+      "source": "On Governance",
+      "tags": ["leadership", "teamwork", "focus"]
+    },
+    {
+      "id": 201,
+      "text": "The code always knows more than the coder, for the coder only sees a subset of possibilities.",
+      "author": "Octavia Bell $\star$",
+      "category": "programming",
+      "year": 2023,
+      "source": "AI & Ethics Symposium",
+      "tags": ["complexity", "learning", "humility"]
+    },
+    {
+      "id": 202,
+      "text": "The greatest discovery is that a man can change his future by merely changing his attitude.",
+      "author": "Oprah Winfrey",
+      "category": "motivation",
+      "year": null,
+      "source": "Interviews",
+      "tags": ["mindset", "change"]
+    },
+    {
+      "id": 203,
+      "text": "Everything is theoretically impossible, until it is done.",
+      "author": "Robert A. Heinlein",
+      "category": "innovation",
+      "year": 1967,
+      "source": "Notebooks",
+      "tags": ["execution", "possibility"]
+    },
+    {
+      "id": 204,
+      "text": "The world is but a canvas to our imagination.",
+      "author": "Henry David Thoreau",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["imagination", "creation"]
+    },
+    {
+      "id": 205,
+      "text": "The only difference between a scientist and a magician is a few hundred years.",
+      "author": "Athena Nova $\star$",
+      "category": "science",
+      "year": 2150,
+      "source": "Future History Text",
+      "tags": ["technology", "wonder"]
+    },
+    {
+      "id": 206,
+      "text": "A nickel ain't worth a dime anymore.",
+      "author": "Yogi Berra",
+      "category": "business",
+      "year": null,
+      "source": "Baseball Quotes",
+      "tags": ["humor", "finance"]
+    },
+    {
+      "id": 207,
+      "text": "We cannot solve our problems with the same thinking we used when we created them.",
+      "author": "Albert Einstein",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["change", "mindset", "problem-solving"]
+    },
+    {
+      "id": 208,
+      "text": "The best way to get a project done faster is to start sooner.",
+      "author": "Jim Highsmith",
+      "category": "programming",
+      "year": null,
+      "source": "Agile Software Development",
+      "tags": ["action", "efficiency"]
+    },
+    {
+      "id": 209,
+      "text": "Believe you can and you’re halfway there.",
+      "author": "Theodore Roosevelt",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["belief", "mindset"]
+    },
+    {
+      "id": 210,
+      "text": "The highest reward for a man's toil is not what he gets for it, but what he becomes by it.",
+      "author": "John Ruskin",
+      "category": "wisdom",
+      "year": null,
+      "source": "The Stones of Venice",
+      "tags": ["growth", "self-improvement"]
+    },
+    {
+      "id": 211,
+      "text": "The difficulty is not to have new ideas, but to get rid of old ones.",
+      "author": "John Maynard Keynes",
+      "category": "innovation",
+      "year": null,
+      "source": "The General Theory",
+      "tags": ["change", "mindset"]
+    },
+    {
+      "id": 212,
+      "text": "It is not the critic who counts; not the man who points out how the strong man stumbles.",
+      "author": "Theodore Roosevelt",
+      "category": "motivation",
+      "year": 1910,
+      "source": "Citizenship in a Republic",
+      "tags": ["courage", "action"]
+    },
+    {
+      "id": 213,
+      "text": "Design is not just what it looks like and feels like. Design is how it works.",
+      "author": "Steve Jobs",
+      "category": "innovation",
+      "year": 2003,
+      "source": "New York Times Interview",
+      "tags": ["design", "functionality"]
+    },
+    {
+      "id": 214,
+      "text": "No amount of experimentation can ever prove me right; a single experiment can prove me wrong.",
+      "author": "Albert Einstein",
+      "category": "science",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["skepticism", "truth"]
+    },
+    {
+      "id": 215,
+      "text": "Every sale has five basic obstacles: no need, no money, no hurry, no desire, no trust.",
+      "author": "Zig Ziglar",
+      "category": "business",
+      "year": null,
+      "source": "Sales Philosophy",
+      "tags": ["sales", "challenges"]
+    },
+    {
+      "id": 216,
+      "text": "The aim of art is to represent not the outward appearance of things, but their inward significance.",
+      "author": "Aristotle",
+      "category": "art",
+      "year": null,
+      "source": "Poetics",
+      "tags": ["meaning", "expression"]
+    },
+    {
+      "id": 217,
+      "text": "The computer is an electronic pencil, the future is in the artist's hand.",
+      "author": "Captain Neo $\star$",
+      "category": "programming",
+      "year": 1999,
+      "source": "Digital Frontier",
+      "tags": ["future", "tooling", "creativity"]
+    },
+    {
+      "id": 218,
+      "text": "The unexamined life is not worth living.",
+      "author": "Socrates",
+      "category": "wisdom",
+      "year": null,
+      "source": "Apology",
+      "tags": ["reflection", "purpose"]
+    },
+    {
+      "id": 219,
+      "text": "Do not wait to strike till the iron is hot; but make the iron hot by striking.",
+      "author": "William Butler Yeats",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["action", "proactivity"]
+    },
+    {
+      "id": 220,
+      "text": "I never lose. I either win or learn.",
+      "author": "Nelson Mandela",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["learning", "resilience", "growth"]
+    },
+    {
+      "id": 221,
+      "text": "Failure is simply the opportunity to begin again, this time more intelligently.",
+      "author": "Henry Ford",
+      "category": "innovation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["learning", "failure", "growth"]
+    },
+    {
+      "id": 222,
+      "text": "A bird in the hand is worth two in the bush, but two in the bush might be the next unicorn.",
+      "author": "Vance Roth $\star$",
+      "category": "business",
+      "year": 2018,
+      "source": "Venture Capitalist Handbook",
+      "tags": ["risk-taking", "opportunity", "venture"]
+    },
+    {
+      "id": 223,
+      "text": "Research is creating new knowledge.",
+      "author": "Neil Armstrong",
+      "category": "science",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["knowledge", "discovery"]
+    },
+    {
+      "id": 224,
+      "text": "To invent, you need a good imagination and a pile of junk.",
+      "author": "Thomas A. Edison",
+      "category": "innovation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["imagination", "creativity"]
+    },
+    {
+      "id": 225,
+      "text": "The greatest danger in life is spending your time trying to avoid it.",
+      "author": "Sophia Lyra $\star$",
+      "category": "wisdom",
+      "year": 1950,
+      "source": "Existentialist Review",
+      "tags": ["life", "action", "courage"]
+    },
+    {
+      "id": 226,
+      "text": "The purpose of art is to lay bare the questions that have been concealed by the answers.",
+      "author": "James Baldwin",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["inquiry", "purpose"]
+    },
+    {
+      "id": 227,
+      "text": "Write code as if the person who ends up maintaining it is a psychopath who knows where you live.",
+      "author": "Martin Fowler",
+      "category": "programming",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["clean code", "readability", "humor"]
+    },
+    {
+      "id": 228,
+      "text": "The journey of a thousand prototypes begins with a single, bad idea.",
+      "author": "Nova 'The Builder' Rex $\star$",
+      "category": "innovation",
+      "year": 2008,
+      "source": "Design Thinking Workshop",
+      "tags": ["prototyping", "action", "learning"]
+    },
+    {
+      "id": 229,
+      "text": "The secret of getting ahead is getting started.",
+      "author": "Mark Twain",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["action", "execution"]
+    },
+    {
+      "id": 230,
+      "text": "Change is painful, but nothing is as painful as staying stuck somewhere you don't belong.",
+      "author": "Mandy Hale",
+      "category": "wisdom",
+      "year": null,
+      "source": "The Single Woman",
+      "tags": ["change", "growth"]
+    },
+    {
+      "id": 231,
+      "text": "The best executive is the one who has sense enough to pick good men to do what he wants done, and self-restraint enough to keep from meddling with them while they do it.",
+      "author": "Theodore Roosevelt",
+      "category": "business",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["leadership", "teamwork"]
+    },
+    {
+      "id": 232,
+      "text": "The whole world is a laboratory to the inquiring mind.",
+      "author": "Martin Fisher",
+      "category": "science",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["curiosity", "learning"]
+    },
+    {
+      "id": 233,
+      "text": "Where there is light, there must be shadow; where there is shadow, there must be light.",
+      "author": "Haruki Murakami",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["duality", "perspective"]
+    },
+    {
+      "id": 234,
+      "text": "If you are interested in the ultimate answers, I can only tell you that the universe is probably full of glue.",
+      "author": "Professor J. S. $\star$",
+      "category": "science",
+      "year": 1968,
+      "source": "Lectures on Cosmology",
+      "tags": ["humor", "unknown"]
+    },
+    {
+      "id": 235,
+      "text": "A failure in planning is a plan for failure.",
+      "author": "Elias 'The Architect' Crane $\star$",
+      "category": "programming",
+      "year": 1990,
+      "source": "Software Architecture Review",
+      "tags": ["planning", "architecture", "pragmatism"]
+    },
+    {
+      "id": 236,
+      "text": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+      "author": "Robert Louis Stevenson",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["discipline", "growth"]
+    },
+    {
+      "id": 237,
+      "text": "If you're not failing every now and again, it's a sign you're not doing anything very innovative.",
+      "author": "Woody Allen",
+      "category": "innovation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["failure", "risk-taking"]
+    },
+    {
+      "id": 238,
+      "text": "Art is a way of recognizing oneself.",
+      "author": "Anaïs Nin",
+      "category": "art",
+      "year": null,
+      "source": "Diaries",
+      "tags": ["self-reflection", "authenticity"]
+    },
+    {
+      "id": 239,
+      "text": "The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.",
+      "author": "Mark Caine",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["change", "mindset"]
+    },
+    {
+      "id": 240,
+      "text": "It takes 20 years to build a reputation and five minutes to ruin it. If you think about that, you'll do things differently.",
+      "author": "Warren Buffett",
+      "category": "business",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["reputation", "discipline", "strategy"]
+    },
+    {
+      "id": 241,
+      "text": "We are all apprentices in a craft where no one ever becomes a master.",
+      "author": "Ernest Hemingway",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["learning", "humility"]
+    },
+    {
+      "id": 242,
+      "text": "The most important phase of a software project is not writing the code, but deleting the obsolete code.",
+      "author": "Dr. Vespera $\star$",
+      "category": "programming",
+      "year": 2000,
+      "source": "Clean Code Principles",
+      "tags": ["refactoring", "simplicity"]
+    },
+    {
+      "id": 243,
+      "text": "Science is a brutal truth, softened only by the wonder of its complexity.",
+      "author": "Professor J. S. $\star$",
+      "category": "science",
+      "year": 1968,
+      "source": "Lectures on Cosmology",
+      "tags": ["truth", "complexity", "awe"]
+    },
+    {
+      "id": 244,
+      "text": "The only way to keep your health is to eat what you don't want, drink what you don't like, and do what you'd rather not.",
+      "author": "Mark Twain",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["discipline", "health", "humor"]
+    },
+    {
+      "id": 245,
+      "text": "The path to innovation is often marked by the craters of failed experiments.",
+      "author": "Thomas A. Edison",
+      "category": "innovation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["failure", "experimentation"]
+    },
+    {
+      "id": 246,
+      "text": "Your most unhappy customers are your greatest source of learning.",
+      "author": "Bill Gates",
+      "category": "business",
+      "year": 1994,
+      "source": "Business Lessons",
+      "tags": ["customer service", "learning"]
+    },
+    {
+      "id": 247,
+      "text": "There are no mistakes, only happy accidents.",
+      "author": "Bob Ross",
+      "category": "art",
+      "year": null,
+      "source": "The Joy of Painting",
+      "tags": ["optimism", "creation", "perspective"]
+    },
+    {
+      "id": 248,
+      "text": "It is not what we get, but who we become, what we contribute, that gives meaning to our lives.",
+      "author": "Tony Robbins",
+      "category": "motivation",
+      "year": null,
+      "source": "Personal Development",
+      "tags": ["contribution", "purpose"]
+    },
+    {
+      "id": 249,
+      "text": "Pessimists are usually right, but it's the optimists who change the world.",
+      "author": "Octavian $\star$",
+      "category": "innovation",
+      "year": 200,
+      "source": "Imperial Wisdom",
+      "tags": ["optimism", "change"]
+    },
+    {
+      "id": 250,
+      "text": "Programming is the art of telling another human being what one means by the computer instructions one writes.",
+      "author": "Donald Knuth",
+      "category": "programming",
+      "year": 1992,
+      "source": "Literate Programming",
+      "tags": ["clarity", "readability", "art"]
+    },
+    {
+      "id": 251,
+      "text": "The best way to appreciate your job is to imagine yourself without one.",
+      "author": "Oscar Wilde",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["appreciation", "perspective"]
+    },
+    {
+      "id": 252,
+      "text": "If a rocket is going to the moon, and it is off by 1%, it will still miss by a lot.",
+      "author": "Celeste Alpha $\star$",
+      "category": "science",
+      "year": 1969,
+      "source": "Apollo Program Debrief",
+      "tags": ["precision", "excellence"]
+    },
+    {
+      "id": 253,
+      "text": "Don't let yesterday take up too much of today.",
+      "author": "Will Rogers",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["focus", "present"]
+    },
+    {
+      "id": 254,
+      "text": "The road to success and the road to failure are almost exactly the same.",
+      "author": "Colin R. Davis",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["persistence", "discipline"]
+    },
+    {
+      "id": 255,
+      "text": "When you forgive, you in no way change the past, but you sure do change the future.",
+      "author": "Bernard Meltzer",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["forgiveness", "change"]
+    },
+    {
+      "id": 256,
+      "text": "Data that is loved tends to survive.",
+      "author": "Kurt 'The Curator' Vonnegut (Fictionalized)",
+      "category": "programming",
+      "year": 2005,
+      "source": "Data Science Manifesto",
+      "tags": ["data quality", "value"]
+    },
+    {
+      "id": 257,
+      "text": "The key to innovation is relentless iteration.",
+      "author": "Jeff Bezos",
+      "category": "innovation",
+      "year": null,
+      "source": "Shareholder Letters",
+      "tags": ["iteration", "persistence"]
+    },
+    {
+      "id": 258,
+      "text": "The consumer is not a moron; she is your wife.",
+      "author": "David Ogilvy",
+      "category": "business",
+      "year": 1963,
+      "source": "Confessions of an Advertising Man",
+      "tags": ["marketing", "respect"]
+    },
+    {
+      "id": 259,
+      "text": "The job of the artist is always to deepen the mystery.",
+      "author": "Francis Bacon",
+      "category": "art",
+      "year": null,
+      "source": "Interviews",
+      "tags": ["mystery", "depth"]
+    },
+    {
+      "id": 260,
+      "text": "Science is a system of organized doubt.",
+      "author": "James Bryant Conant",
+      "category": "science",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["skepticism", "knowledge"]
+    },
+    {
+      "id": 261,
+      "text": "I can accept failure, everyone fails at something. But I can't accept not trying.",
+      "author": "Michael Jordan",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["action", "determination"]
+    },
+    {
+      "id": 262,
+      "text": "If a patch is too small to commit, it's too small to review.",
+      "author": "Linus Torvalds",
+      "category": "programming",
+      "year": 2011,
+      "source": "Linux Kernel Mailing List",
+      "tags": ["workflow", "collaboration"]
+    },
+    {
+      "id": 263,
+      "text": "The greatest discovery is that a man can change his future by merely changing his attitude.",
+      "author": "Oprah Winfrey",
+      "category": "wisdom",
+      "year": null,
+      "source": "Interviews",
+      "tags": ["mindset", "change"]
+    },
+    {
+      "id": 264,
+      "text": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes.",
+      "author": "Marcel Proust",
+      "category": "innovation",
+      "year": null,
+      "source": "Remembrance of Things Past",
+      "tags": ["perspective", "discovery"]
+    },
+    {
+      "id": 265,
+      "text": "Where there is no vision, there is no hope.",
+      "author": "George Washington Carver",
+      "category": "inspiration",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["vision", "hope"]
+    },
+    {
+      "id": 266,
+      "text": "The only security is the ability to adapt.",
+      "author": "Captain Neo $\star$",
+      "category": "business",
+      "year": 1999,
+      "source": "Digital Frontier",
+      "tags": ["adaptation", "change", "strategy"]
+    },
+    {
+      "id": 267,
+      "text": "To be creative means to be in love with life.",
+      "author": "Osho",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["creativity", "life"]
+    },
+    {
+      "id": 268,
+      "text": "The world needs more than just new discoveries; it needs their widespread, ethical application.",
+      "author": "Dr. Aris Thorne $\star$",
+      "category": "science",
+      "year": 1888,
+      "source": "Philosophical Transactions",
+      "tags": ["ethics", "application", "responsibility"]
+    },
+    {
+      "id": 269,
+      "text": "The journey of a thousand miles begins with a broken compiler.",
+      "author": "Ancient Programmer Proverb (Fictionalized)",
+      "category": "programming",
+      "year": null,
+      "source": "Forum Lore",
+      "tags": ["humor", "challenge"]
+    },
+    {
+      "id": 270,
+      "text": "You must expect great things of yourself before you can do them.",
+      "author": "Michael Jordan",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["belief", "excellence"]
+    },
+    {
+      "id": 271,
+      "text": "The mind, once stretched by a new idea, never returns to its original dimensions.",
+      "author": "Oliver Wendell Holmes Sr.",
+      "category": "wisdom",
+      "year": null,
+      "source": "The Autocrat of the Breakfast-Table",
+      "tags": ["learning", "growth"]
+    },
+    {
+      "id": 272,
+      "text": "A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves.",
+      "author": "Lao Tzu",
+      "category": "business",
+      "year": null,
+      "source": "Tao Te Ching",
+      "tags": ["leadership", "humility", "teamwork"]
+    },
+    {
+      "id": 273,
+      "text": "Every new machine is a new way to see an old problem.",
+      "author": "Ada Lovelace (Fictionalized)",
+      "category": "innovation",
+      "year": null,
+      "source": "Speculative Archives",
+      "tags": ["technology", "perspective", "problem-solving"]
+    },
+    {
+      "id": 274,
+      "text": "The difference between success and failure is a great team.",
+      "author": "Steve Jobs",
+      "category": "business",
+      "year": null,
+      "source": "Business Leadership",
+      "tags": ["teamwork", "success"]
+    },
+    {
+      "id": 275,
+      "text": "The most powerful weapon on earth is the human soul on fire.",
+      "author": "Ferdinand Foch",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["passion", "willpower"]
+    },
+    {
+      "id": 276,
+      "text": "What you do in this life echoes in eternity.",
+      "author": "Marcus Aurelius (Fictionalized)",
+      "category": "wisdom",
+      "year": 170,
+      "source": "Imperial Musings",
+      "tags": ["legacy", "action", "purpose"]
+    },
+    {
+      "id": 277,
+      "text": "The most important phase of a software project is not writing the code, but deleting the obsolete code.",
+      "author": "Dr. Vespera $\star$",
+      "category": "programming",
+      "year": 2000,
+      "source": "Clean Code Principles",
+      "tags": ["refactoring", "simplicity"]
+    },
+    {
+      "id": 278,
+      "text": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+      "author": "Marie Curie",
+      "category": "science",
+      "year": 1921,
+      "source": "Speech to Vassar College",
+      "tags": ["understanding", "courage", "knowledge"]
+    },
+    {
+      "id": 279,
+      "text": "You can't wait for inspiration. You have to go after it with a club.",
+      "author": "Jack London",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["action", "creativity"]
+    },
+    {
+      "id": 280,
+      "text": "A mind that is stretched by a new experience can never go back to its old dimensions.",
+      "author": "Oliver Wendell Holmes Jr.",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["experience", "growth"]
+    },
+    {
+      "id": 281,
+      "text": "Every mountain top is within reach if you just keep climbing.",
+      "author": "Barry Finlay",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["persistence", "goals"]
+    },
+    {
+      "id": 282,
+      "text": "The best code is documentation; the second best is an annotated library.",
+      "author": "Commodore 64 (Fictionalized)",
+      "category": "programming",
+      "year": 1982,
+      "source": "Manuals",
+      "tags": ["documentation", "clarity"]
+    },
+    {
+      "id": 283,
+      "text": "To attain knowledge, add things every day. To attain wisdom, subtract things every day.",
+      "author": "Lao Tzu",
+      "category": "wisdom",
+      "year": null,
+      "source": "Tao Te Ching",
+      "tags": ["learning", "simplicity"]
+    },
+    {
+      "id": 284,
+      "text": "Innovation is the mother of all necessity.",
+      "author": "Plato (Fictionalized)",
+      "category": "innovation",
+      "year": -380,
+      "source": "The Republic, Expanded",
+      "tags": ["necessity", "creativity"]
+    },
+    {
+      "id": 285,
+      "text": "If you don't take risks, you can't create a future.",
+      "author": "Cory House",
+      "category": "business",
+      "year": null,
+      "source": "Twitter",
+      "tags": ["risk-taking", "future"]
+    },
+    {
+      "id": 286,
+      "text": "The scientist's most cherished asset is the right to be wrong.",
+      "author": "Lord Aris Thorne $\star$",
+      "category": "science",
+      "year": 1888,
+      "source": "Philosophical Transactions",
+      "tags": ["failure", "skepticism"]
+    },
+    {
+      "id": 287,
+      "text": "Every block of stone has a statue inside it and it is the task of the sculptor to discover it.",
+      "author": "Michelangelo",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["creation", "potential"]
+    },
+    {
+      "id": 288,
+      "text": "The greatest danger for a successful company is to believe that what worked in the past will work in the future.",
+      "author": "Meg Whitman",
+      "category": "business",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["change", "adaptation"]
+    },
+    {
+      "id": 289,
+      "text": "The difference between a code base and a mess is a good file structure.",
+      "author": "Elias 'The Architect' Crane $\star$",
+      "category": "programming",
+      "year": 1990,
+      "source": "Software Architecture Review",
+      "tags": ["architecture", "organization"]
+    },
+    {
+      "id": 290,
+      "text": "The only constant in a growing mind is curiosity.",
+      "author": "Amara Vex $\star$",
+      "category": "wisdom",
+      "year": 2025,
+      "source": "Digital Essays",
+      "tags": ["curiosity", "growth"]
+    },
+    {
+      "id": 291,
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "author": "Confucius",
+      "category": "motivation",
+      "year": null,
+      "source": "Analects",
+      "tags": ["persistence", "discipline"]
+    },
+    {
+      "id": 292,
+      "text": "A developer should always be paranoid about their assumptions.",
+      "author": "The Debugger's Creed (Fictionalized)",
+      "category": "programming",
+      "year": 2000,
+      "source": "Debugging Manual",
+      "tags": ["debugging", "caution"]
+    },
+    {
+      "id": 293,
+      "text": "We are driven by five things: fear, logic, passion, apathy, and the coffee we haven't had yet.",
+      "author": "Sage N. J. $\star$",
+      "category": "humor",
+      "year": 2015,
+      "source": "Office Anthropology",
+      "tags": ["humor", "life"]
+    },
+    {
+      "id": 294,
+      "text": "The most important property of a program is whether it accomplishes the intentions of its user.",
+      "author": "C.A.R. Hoare",
+      "category": "programming",
+      "year": 1980,
+      "source": "The Emperor's Old Clothes",
+      "tags": ["usability", "purpose"]
+    },
+    {
+      "id": 295,
+      "text": "Creativity is contagious. Pass it on.",
+      "author": "Albert Einstein",
+      "category": "inspiration",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["creativity", "collaboration"]
+    },
+    {
+      "id": 296,
+      "text": "A problem well stated is a problem half solved.",
+      "author": "Charles Kettering",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["problem-solving", "clarity"]
+    },
+    {
+      "id": 297,
+      "text": "If you are working on something exciting that you really care about, you don't have to be pushed. The vision pulls you.",
+      "author": "Steve Jobs",
+      "category": "motivation",
+      "year": 2005,
+      "source": "Stanford Commencement",
+      "tags": ["passion", "vision"]
+    },
+    {
+      "id": 298,
+      "text": "The goal is to turn data into information, and information into insight.",
+      "author": "Carly Fiorina",
+      "category": "business",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["data", "insight"]
+    },
+    {
+      "id": 299,
+      "text": "The art of living is more like wrestling than dancing.",
+      "author": "Marcus Aurelius",
+      "category": "wisdom",
+      "year": 170,
+      "source": "Meditations",
+      "tags": ["resilience", "life"]
+    },
+    {
+      "id": 300,
+      "text": "The moment you doubt whether you can fly, you cease forever to be able to do it.",
+      "author": "J.M. Barrie",
+      "category": "inspiration",
+      "year": 1904,
+      "source": "Peter Pan",
+      "tags": ["belief", "courage"]
     }
   ],
   "categories": [
@@ -459,23 +2709,38 @@
     },
     {
       "name": "motivation",
-      "description": "Inspirational quotes",
+      "description": "Inspirational quotes for action and persistence",
       "color": "#ff6b6b"
     },
     {
       "name": "wisdom",
-      "description": "Life wisdom and insights",
+      "description": "Life wisdom, philosophy, and general insights",
       "color": "#4ecdc4"
     },
     {
       "name": "innovation",
-      "description": "Innovation and creativity",
+      "description": "Innovation, creativity, and future-forward thinking",
       "color": "#f39c12"
     },
     {
       "name": "inspiration",
-      "description": "Inspirational and motivational content",
+      "description": "Uplifting and motivational content",
       "color": "#e74c3c"
+    },
+    {
+      "name": "science",
+      "description": "Scientific method, discovery, and natural philosophy",
+      "color": "#1abc9c"
+    },
+    {
+      "name": "art",
+      "description": "Artistry, creativity, expression, and aesthetics",
+      "color": "#9b59b6"
+    },
+    {
+      "name": "business",
+      "description": "Strategy, leadership, finance, and entrepreneurship",
+      "color": "#2ecc71"
     }
   ],
   "authors": [
@@ -483,13 +2748,13 @@
       "name": "Steve Jobs",
       "bio": "Co-founder of Apple Inc.",
       "birth_year": 1955,
-      "quote_count": 4
+      "quote_count": 7
     },
     {
       "name": "Linus Torvalds",
       "bio": "Creator of Linux",
       "birth_year": 1969,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Dennis Ritchie",
@@ -501,7 +2766,7 @@
       "name": "Martin Fowler",
       "bio": "Software engineer and author",
       "birth_year": 1963,
-      "quote_count": 1
+      "quote_count": 3
     },
     {
       "name": "Kent Beck",
@@ -519,25 +2784,25 @@
       "name": "Oscar Wilde",
       "bio": "Irish writer and playwright",
       "birth_year": 1854,
-      "quote_count": 2
+      "quote_count": 3
     },
     {
       "name": "Nelson Mandela",
       "bio": "South African anti-apartheid revolutionary",
       "birth_year": 1918,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Aristotle",
       "bio": "Ancient Greek philosopher",
       "birth_year": 384,
-      "quote_count": 1
+      "quote_count": 3
     },
     {
       "name": "Tony Robbins",
       "bio": "American motivational speaker and author",
       "birth_year": 1960,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "John Lennon",
@@ -573,7 +2838,7 @@
       "name": "Lao Tzu",
       "bio": "Ancient Chinese philosopher",
       "birth_year": 604,
-      "quote_count": 1
+      "quote_count": 3
     },
     {
       "name": "Harold Abelson",
@@ -627,7 +2892,7 @@
       "name": "Socrates",
       "bio": "Ancient Greek philosopher",
       "birth_year": 470,
-      "quote_count": 1
+      "quote_count": 3
     },
     {
       "name": "Robin Sharma",
@@ -663,7 +2928,7 @@
       "name": "Warren Buffett",
       "bio": "American investment magnate",
       "birth_year": 1930,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Franklin D. Roosevelt",
@@ -729,6 +2994,912 @@
       "name": "Cory House",
       "bio": "Software engineer and author",
       "birth_year": null,
+      "quote_count": 2
+    },
+    {
+      "name": "Carl Sagan",
+      "bio": "American astronomer, cosmologist, and author",
+      "birth_year": 1934,
+      "quote_count": 2
+    },
+    {
+      "name": "Mark Twain",
+      "bio": "American author and humorist",
+      "birth_year": 1835,
+      "quote_count": 3
+    },
+    {
+      "name": "Peter Drucker",
+      "bio": "Austrian-American management consultant and author",
+      "birth_year": 1909,
+      "quote_count": 3
+    },
+    {
+      "name": "Reid Hoffman",
+      "bio": "Co-founder of LinkedIn",
+      "birth_year": 1967,
+      "quote_count": 1
+    },
+    {
+      "name": "Bill Gates",
+      "bio": "Co-founder of Microsoft",
+      "birth_year": 1955,
+      "quote_count": 4
+    },
+    {
+      "name": "Mark Zuckerberg",
+      "bio": "Co-founder of Facebook (Meta)",
+      "birth_year": 1984,
+      "quote_count": 1
+    },
+    {
+      "name": "Leonardo da Vinci",
+      "bio": "Italian polymath",
+      "birth_year": 1452,
+      "quote_count": 2
+    },
+    {
+      "name": "Salvador Dalí",
+      "bio": "Spanish surrealist artist",
+      "birth_year": 1904,
+      "quote_count": 1
+    },
+    {
+      "name": "Jan L.A. van de Snepscheut",
+      "bio": "Dutch computer scientist",
+      "birth_year": 1953,
+      "quote_count": 1
+    },
+    {
+      "name": "Albert Einstein",
+      "bio": "Theoretical physicist",
+      "birth_year": 1879,
+      "quote_count": 8
+    },
+    {
+      "name": "Bruce Lee",
+      "bio": "Martial artist and actor",
+      "birth_year": 1940,
+      "quote_count": 2
+    },
+    {
+      "name": "Evelyn Reed $\star$",
+      "bio": "Fictional contemporary software engineer",
+      "birth_year": 1980,
+      "quote_count": 1
+    },
+    {
+      "name": "Dr. Aris Thorne $\star$",
+      "bio": "Fictional Victorian-era scientist",
+      "birth_year": 1845,
+      "quote_count": 2
+    },
+    {
+      "name": "Seraphina Vale $\star$",
+      "bio": "Fictional Rococo-era painter",
+      "birth_year": 1720,
+      "quote_count": 1
+    },
+    {
+      "name": "Lord Alistair Finch $\star$",
+      "bio": "Fictional early 20th century industrialist",
+      "birth_year": 1875,
+      "quote_count": 1
+    },
+    {
+      "name": "Isaac Asimov",
+      "bio": "American author and professor of biochemistry",
+      "birth_year": 1920,
+      "quote_count": 1
+    },
+    {
+      "name": "Frida Kahlo",
+      "bio": "Mexican painter",
+      "birth_year": 1907,
+      "quote_count": 1
+    },
+    {
+      "name": "Bill Vaughan",
+      "bio": "American columnist and humorist",
+      "birth_year": 1915,
+      "quote_count": 1
+    },
+    {
+      "name": "Theodore Rubin",
+      "bio": "American psychiatrist and author",
+      "birth_year": 1923,
+      "quote_count": 1
+    },
+    {
+      "name": "Napoleon Bonaparte",
+      "bio": "French military and political leader",
+      "birth_year": 1769,
+      "quote_count": 1
+    },
+    {
+      "name": "Thomas A. Edison",
+      "bio": "American inventor and businessman",
+      "birth_year": 1847,
+      "quote_count": 4
+    },
+    {
+      "name": "Oprah Winfrey",
+      "bio": "American talk show host and philanthropist",
+      "birth_year": 1954,
+      "quote_count": 4
+    },
+    {
+      "name": "Anya Volkov $\star$",
+      "bio": "Fictional contemporary UX designer",
+      "birth_year": 1985,
+      "quote_count": 1
+    },
+    {
+      "name": "Virgil",
+      "bio": "Ancient Roman poet",
+      "birth_year": -70,
+      "quote_count": 1
+    },
+    {
+      "name": "Richard Feynman",
+      "bio": "American theoretical physicist",
+      "birth_year": 1918,
+      "quote_count": 1
+    },
+    {
+      "name": "Johann Wolfgang von Goethe",
+      "bio": "German writer and polymath",
+      "birth_year": 1749,
+      "quote_count": 1
+    },
+    {
+      "name": "Ralph Waldo Emerson",
+      "bio": "American essayist and philosopher",
+      "birth_year": 1803,
+      "quote_count": 3
+    },
+    {
+      "name": "Benjamin C. Throckmorton $\star$",
+      "bio": "Fictional early 20th century investor",
+      "birth_year": 1895,
+      "quote_count": 1
+    },
+    {
+      "name": "George Bernard Shaw",
+      "bio": "Irish playwright and critic",
+      "birth_year": 1856,
+      "quote_count": 2
+    },
+    {
+      "name": "Herman Melville",
+      "bio": "American novelist",
+      "birth_year": 1819,
+      "quote_count": 1
+    },
+    {
+      "name": "W. Edwards Deming",
+      "bio": "American engineer and statistician",
+      "birth_year": 1900,
+      "quote_count": 1
+    },
+    {
+      "name": "Donald Knuth",
+      "bio": "American computer scientist",
+      "birth_year": 1938,
+      "quote_count": 2
+    },
+    {
+      "name": "Elara Quinn $\star$",
+      "bio": "Fictional post-war art critic",
+      "birth_year": 1915,
+      "quote_count": 1
+    },
+    {
+      "name": "Don Norman",
+      "bio": "American researcher and author (Design)",
+      "birth_year": 1934,
+      "quote_count": 1
+    },
+    {
+      "name": "Maya Angelou",
+      "bio": "American poet and civil rights activist",
+      "birth_year": 1928,
+      "quote_count": 1
+    },
+    {
+      "name": "Michelangelo",
+      "bio": "Italian sculptor and painter",
+      "birth_year": 1475,
+      "quote_count": 2
+    },
+    {
+      "name": "Confucius",
+      "bio": "Chinese philosopher",
+      "birth_year": -551,
+      "quote_count": 2
+    },
+    {
+      "name": "Edward Teller",
+      "bio": "Hungarian-American theoretical physicist",
+      "birth_year": 1908,
+      "quote_count": 1
+    },
+    {
+      "name": "Sir Kaelen Voss $\star$",
+      "bio": "Fictional medieval knight/philosopher",
+      "birth_year": 1350,
+      "quote_count": 1
+    },
+    {
+      "name": "Shakti Desai $\star$",
+      "bio": "Fictional systems theorist and philosopher",
+      "birth_year": 1930,
+      "quote_count": 1
+    },
+    {
+      "name": "Admiral Valerius $\star$",
+      "bio": "Fictional ancient Roman naval commander",
+      "birth_year": -200,
+      "quote_count": 1
+    },
+    {
+      "name": "Ada Lovelace (Fictionalized)",
+      "bio": "Fictional speculative interpretation of the English mathematician",
+      "birth_year": 1815,
+      "quote_count": 2
+    },
+    {
+      "name": "Georgia O'Keeffe",
+      "bio": "American artist",
+      "birth_year": 1887,
+      "quote_count": 1
+    },
+    {
+      "name": "Marie Curie (Fictionalized)",
+      "bio": "Fictional speculative interpretation of the Polish-French physicist",
+      "birth_year": 1867,
+      "quote_count": 1
+    },
+    {
+      "name": "Zane 'The Deployer' Karras $\star$",
+      "bio": "Fictional contemporary DevOps expert",
+      "birth_year": 1990,
+      "quote_count": 1
+    },
+    {
+      "name": "The Oracle of Delphi (Fictionalized)",
+      "bio": "Fictional speculative ancient Greek figure",
+      "birth_year": null,
+      "quote_count": 1
+    },
+    {
+      "name": "Christopher Morley",
+      "bio": "American journalist and writer",
+      "birth_year": 1890,
+      "quote_count": 1
+    },
+    {
+      "name": "Cassian Thorne $\star$",
+      "bio": "Fictional contemporary startup coach",
+      "birth_year": 1975,
+      "quote_count": 2
+    },
+    {
+      "name": "Émile Zola",
+      "bio": "French novelist",
+      "birth_year": 1840,
+      "quote_count": 1
+    },
+    {
+      "name": "Benjamin Franklin",
+      "bio": "American polymath",
+      "birth_year": 1706,
+      "quote_count": 1
+    },
+    {
+      "name": "Florence Nightingale",
+      "bio": "English social reformer and statistician",
+      "birth_year": 1820,
+      "quote_count": 1
+    },
+    {
+      "name": "Lydia Vane $\star$",
+      "bio": "Fictional early 20th century industrial strategist",
+      "birth_year": 1890,
+      "quote_count": 1
+    },
+    {
+      "name": "Ancient Programmer Proverb (Fictionalized)",
+      "bio": "Fictional traditional coding wisdom",
+      "birth_year": null,
+      "quote_count": 2
+    },
+    {
+      "name": "Martin Luther King Jr.",
+      "bio": "American clergyman and activist",
+      "birth_year": 1929,
+      "quote_count": 1
+    },
+    {
+      "name": "Aurelia Stone $\star$",
+      "bio": "Fictional contemporary business philosopher",
+      "birth_year": 1965,
+      "quote_count": 1
+    },
+    {
+      "name": "The Chronologer $\star$",
+      "bio": "Fictional ancient observer of time",
+      "birth_year": null,
+      "quote_count": 1
+    },
+    {
+      "name": "Unknown",
+      "bio": "Unknown Author",
+      "birth_year": null,
+      "quote_count": 1
+    },
+    {
+      "name": "Bertolt Brecht",
+      "bio": "German poet and playwright",
+      "birth_year": 1898,
+      "quote_count": 1
+    },
+    {
+      "name": "Ralph Nader",
+      "bio": "American political activist",
+      "birth_year": 1934,
+      "quote_count": 1
+    },
+    {
+      "name": "John Maynard Keynes",
+      "bio": "British economist",
+      "birth_year": 1883,
+      "quote_count": 2
+    },
+    {
+      "name": "Phillip Kotler",
+      "bio": "American marketing author and consultant",
+      "birth_year": 1931,
+      "quote_count": 1
+    },
+    {
+      "name": "The Compiler Sage $\star$",
+      "bio": "Fictional wise figure in programming lore",
+      "birth_year": null,
+      "quote_count": 1
+    },
+    {
+      "name": "Colin Powell",
+      "bio": "American statesman and general",
+      "birth_year": 1937,
+      "quote_count": 1
+    },
+    {
+      "name": "Claude Lévi-Strauss",
+      "bio": "French anthropologist",
+      "birth_year": 1908,
+      "quote_count": 1
+    },
+    {
+      "name": "Pablo Picasso",
+      "bio": "Spanish painter and sculptor",
+      "birth_year": 1881,
+      "quote_count": 3
+    },
+    {
+      "name": "Lady Isolde $\star$",
+      "bio": "Fictional 19th-century businesswoman",
+      "birth_year": 1825,
+      "quote_count": 1
+    },
+    {
+      "name": "Dr. Elara Fae $\star$",
+      "bio": "Fictional contemporary software process consultant",
+      "birth_year": 1975,
+      "quote_count": 1
+    },
+    {
+      "name": "Mario Andretti",
+      "bio": "Italian-American race car driver",
+      "birth_year": 1940,
+      "quote_count": 1
+    },
+    {
+      "name": "Henry Ford",
+      "bio": "American industrialist",
+      "birth_year": 1863,
+      "quote_count": 2
+    },
+    {
+      "name": "B.B. King",
+      "bio": "American blues singer-songwriter",
+      "birth_year": 1925,
+      "quote_count": 1
+    },
+    {
+      "name": "Lee Iacocca",
+      "bio": "American automobile executive",
+      "birth_year": 1924,
+      "quote_count": 1
+    },
+    {
+      "name": "Robert Hughes",
+      "bio": "Australian art critic",
+      "birth_year": 1938,
+      "quote_count": 1
+    },
+    {
+      "name": "Baba Ram Dass",
+      "bio": "American spiritual teacher",
+      "birth_year": 1931,
+      "quote_count": 1
+    },
+    {
+      "name": "Gaius Flux $\star$",
+      "bio": "Fictional software architect",
+      "birth_year": 1970,
+      "quote_count": 1
+    },
+    {
+      "name": "Dr. E. R. Galt $\star$",
+      "bio": "Fictional mid-20th century philosopher of science",
+      "birth_year": 1920,
+      "quote_count": 1
+    },
+    {
+      "name": "Bjarne Stroustrup",
+      "bio": "Danish computer scientist, creator of C++",
+      "birth_year": 1950,
+      "quote_count": 1
+    },
+    {
+      "name": "Buddha",
+      "bio": "Spiritual teacher, founder of Buddhism",
+      "birth_year": -563,
+      "quote_count": 1
+    },
+    {
+      "name": "John Gall",
+      "bio": "American pediatrician and systems theorist",
+      "birth_year": 1925,
+      "quote_count": 1
+    },
+    {
+      "name": "Dieter F. Uchtdorf",
+      "bio": "German aviator and religious leader",
+      "birth_year": 1940,
+      "quote_count": 1
+    },
+    {
+      "name": "Herbert Spencer",
+      "bio": "English philosopher and sociologist",
+      "birth_year": 1820,
+      "quote_count": 1
+    },
+    {
+      "name": "Dr. Albert Szent-Györgyi",
+      "bio": "Hungarian physiologist",
+      "birth_year": 1893,
+      "quote_count": 1
+    },
+    {
+      "name": "Caspar F. D. $\star$",
+      "bio": "Fictional early 19th-century artist",
+      "birth_year": 1790,
+      "quote_count": 1
+    },
+    {
+      "name": "Chad Fowler",
+      "bio": "Software developer and author",
+      "birth_year": 1970,
+      "quote_count": 1
+    },
+    {
+      "name": "Aurelius Cato $\star$",
+      "bio": "Fictional ancient Roman writer",
+      "birth_year": null,
+      "quote_count": 1
+    },
+    {
+      "name": "Ed Catmull",
+      "bio": "Co-founder of Pixar and former president of Walt Disney Animation Studios",
+      "birth_year": 1945,
+      "quote_count": 1
+    },
+    {
+      "name": "Seth Godin",
+      "bio": "American author and marketer",
+      "birth_year": 1960,
+      "quote_count": 1
+    },
+    {
+      "name": "Neil deGrasse Tyson",
+      "bio": "American astrophysicist and science communicator",
+      "birth_year": 1958,
+      "quote_count": 1
+    },
+    {
+      "name": "Diane Arbus",
+      "bio": "American photographer",
+      "birth_year": 1923,
+      "quote_count": 1
+    },
+    {
+      "name": "Stephen Hawking",
+      "bio": "English theoretical physicist",
+      "birth_year": 1942,
+      "quote_count": 2
+    },
+    {
+      "name": "Professor Silas Vance $\star$",
+      "bio": "Fictional mid-20th century computer science professor",
+      "birth_year": 1920,
+      "quote_count": 1
+    },
+    {
+      "name": "Yogi Berra",
+      "bio": "American professional baseball catcher and manager",
+      "birth_year": 1925,
+      "quote_count": 2
+    },
+    {
+      "name": "Tim Brown",
+      "bio": "CEO of IDEO",
+      "birth_year": 1962,
+      "quote_count": 1
+    },
+    {
+      "name": "Victoria Sterling $\star$",
+      "bio": "Fictional contemporary venture capitalist",
+      "birth_year": 1980,
+      "quote_count": 1
+    },
+    {
+      "name": "Ernest Hemingway",
+      "bio": "American novelist and journalist",
+      "birth_year": 1899,
+      "quote_count": 2
+    },
+    {
+      "name": "Arthur Schopenhauer",
+      "bio": "German philosopher",
+      "birth_year": 1788,
+      "quote_count": 1
+    },
+    {
+      "name": "Noam Chomsky",
+      "bio": "American linguist, philosopher, and activist",
+      "birth_year": 1928,
+      "quote_count": 1
+    },
+    {
+      "name": "William Gibson",
+      "bio": "American-Canadian science fiction writer",
+      "birth_year": 1948,
+      "quote_count": 1
+    },
+    {
+      "name": "Andy Grove",
+      "bio": "Hungarian-American businessman, CEO of Intel",
+      "birth_year": 1936,
+      "quote_count": 1
+    },
+    {
+      "name": "Cesar A. Cruz",
+      "bio": "Filipino-American poet and educator",
+      "birth_year": null,
+      "quote_count": 1
+    },
+    {
+      "name": "Orion Cygnus $\star$",
+      "bio": "Fictional contemporary DevOps engineer",
+      "birth_year": 1988,
+      "quote_count": 1
+    },
+    {
+      "name": "Frank Sinatra",
+      "bio": "American singer and actor",
+      "birth_year": 1915,
+      "quote_count": 1
+    },
+    {
+      "name": "Empress Jada $\star$",
+      "bio": "Fictional 17th-century monarch/leader",
+      "birth_year": 1620,
+      "quote_count": 1
+    },
+    {
+      "name": "Octavia Bell $\star$",
+      "bio": "Fictional contemporary AI ethicist",
+      "birth_year": 1995,
+      "quote_count": 1
+    },
+    {
+      "name": "Robert A. Heinlein",
+      "bio": "American science fiction author",
+      "birth_year": 1907,
+      "quote_count": 1
+    },
+    {
+      "name": "Henry David Thoreau",
+      "bio": "American naturalist and philosopher",
+      "birth_year": 1817,
+      "quote_count": 1
+    },
+    {
+      "name": "Athena Nova $\star$",
+      "bio": "Fictional future historian of science",
+      "birth_year": 2120,
+      "quote_count": 1
+    },
+    {
+      "name": "Jim Highsmith",
+      "bio": "American software consultant (Agile)",
+      "birth_year": 1945,
+      "quote_count": 1
+    },
+    {
+      "name": "Theodore Roosevelt",
+      "bio": "26th President of the United States",
+      "birth_year": 1858,
+      "quote_count": 3
+    },
+    {
+      "name": "John Ruskin",
+      "bio": "English art critic and writer",
+      "birth_year": 1819,
+      "quote_count": 1
+    },
+    {
+      "name": "Zig Ziglar",
+      "bio": "American motivational speaker",
+      "birth_year": 1926,
+      "quote_count": 1
+    },
+    {
+      "name": "Jim Rohn",
+      "bio": "American entrepreneur and motivational speaker",
+      "birth_year": 1930,
+      "quote_count": 1
+    },
+    {
+      "name": "Vance Roth $\star$",
+      "bio": "Fictional contemporary venture capitalist",
+      "birth_year": 1978,
+      "quote_count": 1
+    },
+    {
+      "name": "Sophia Lyra $\star$",
+      "bio": "Fictional mid-20th century existentialist philosopher",
+      "birth_year": 1920,
+      "quote_count": 1
+    },
+    {
+      "name": "Nova 'The Builder' Rex $\star$",
+      "bio": "Fictional contemporary inventor and designer",
+      "birth_year": 1980,
+      "quote_count": 1
+    },
+    {
+      "name": "Mandy Hale",
+      "bio": "American author and blogger",
+      "birth_year": null,
+      "quote_count": 1
+    },
+    {
+      "name": "Martin Fisher",
+      "bio": "American physician and writer",
+      "birth_year": 1879,
+      "quote_count": 1
+    },
+    {
+      "name": "Haruki Murakami",
+      "bio": "Japanese writer",
+      "birth_year": 1949,
+      "quote_count": 1
+    },
+    {
+      "name": "Professor J. S. $\star$",
+      "bio": "Fictional mid-20th century astrophysicist",
+      "birth_year": 1925,
+      "quote_count": 2
+    },
+    {
+      "name": "Elias 'The Architect' Crane $\star$",
+      "bio": "Fictional late 20th century software architect",
+      "birth_year": 1955,
+      "quote_count": 2
+    },
+    {
+      "name": "Robert Louis Stevenson",
+      "bio": "Scottish novelist and poet",
+      "birth_year": 1850,
+      "quote_count": 1
+    },
+    {
+      "name": "Woody Allen",
+      "bio": "American filmmaker and comedian",
+      "birth_year": 1935,
+      "quote_count": 1
+    },
+    {
+      "name": "Anaïs Nin",
+      "bio": "French-Cuban writer",
+      "birth_year": 1903,
+      "quote_count": 1
+    },
+    {
+      "name": "Mark Caine",
+      "bio": "Unknown Author",
+      "birth_year": null,
+      "quote_count": 1
+    },
+    {
+      "name": "Dr. Vespera $\star$",
+      "bio": "Fictional early 21st century clean code specialist",
+      "birth_year": 1970,
+      "quote_count": 2
+    },
+    {
+      "name": "Octavian $\star$",
+      "bio": "Fictional ancient Roman philosopher",
+      "birth_year": null,
+      "quote_count": 1
+    },
+    {
+      "name": "Jeff Bezos",
+      "bio": "Founder of Amazon",
+      "birth_year": 1964,
+      "quote_count": 1
+    },
+    {
+      "name": "David Ogilvy",
+      "bio": "British advertising executive",
+      "birth_year": 1911,
+      "quote_count": 1
+    },
+    {
+      "name": "Francis Bacon",
+      "bio": "Irish-born British painter",
+      "birth_year": 1909,
+      "quote_count": 1
+    },
+    {
+      "name": "James Bryant Conant",
+      "bio": "American chemist and educator",
+      "birth_year": 1893,
+      "quote_count": 1
+    },
+    {
+      "name": "Michael Jordan",
+      "bio": "American basketball player",
+      "birth_year": 1963,
+      "quote_count": 2
+    },
+    {
+      "name": "Will Rogers",
+      "bio": "American stage performer and humorist",
+      "birth_year": 1879,
+      "quote_count": 1
+    },
+    {
+      "name": "Colin R. Davis",
+      "bio": "English conductor",
+      "birth_year": 1927,
+      "quote_count": 1
+    },
+    {
+      "name": "Bernard Meltzer",
+      "bio": "American radio host and columnist",
+      "birth_year": 1916,
+      "quote_count": 1
+    },
+    {
+      "name": "George Washington Carver",
+      "bio": "American agricultural scientist and inventor",
+      "birth_year": 1864,
+      "quote_count": 1
+    },
+    {
+      "name": "Ferdinand Foch",
+      "bio": "French Marshal of the Great War",
+      "birth_year": 1851,
+      "quote_count": 1
+    },
+    {
+      "name": "Marcus Aurelius (Fictionalized)",
+      "bio": "Fictional speculative interpretation of the Roman Emperor and philosopher",
+      "birth_year": 121,
+      "quote_count": 1
+    },
+    {
+      "name": "Marie Curie",
+      "bio": "Polish and naturalized-French physicist and chemist",
+      "birth_year": 1867,
+      "quote_count": 1
+    },
+    {
+      "name": "Jack London",
+      "bio": "American novelist and journalist",
+      "birth_year": 1876,
+      "quote_count": 1
+    },
+    {
+      "name": "Oliver Wendell Holmes Jr.",
+      "bio": "American jurist",
+      "birth_year": 1841,
+      "quote_count": 1
+    },
+    {
+      "name": "Oliver Wendell Holmes Sr.",
+      "bio": "American physician and writer",
+      "birth_year": 1809,
+      "quote_count": 1
+    },
+    {
+      "name": "Barry Finlay",
+      "bio": "Canadian author",
+      "birth_year": null,
+      "quote_count": 1
+    },
+    {
+      "name": "Commodore 64 (Fictionalized)",
+      "bio": "Fictional personification of the classic computer",
+      "birth_year": 1982,
+      "quote_count": 1
+    },
+    {
+      "name": "Plato (Fictionalized)",
+      "bio": "Fictional speculative interpretation of the Greek philosopher",
+      "birth_year": -428,
+      "quote_count": 1
+    },
+    {
+      "name": "Meg Whitman",
+      "bio": "American business executive",
+      "birth_year": 1956,
+      "quote_count": 1
+    },
+    {
+      "name": "Amara Vex $\star$",
+      "bio": "Fictional future philosopher/essayist",
+      "birth_year": 2000,
+      "quote_count": 1
+    },
+    {
+      "name": "The Debugger's Creed (Fictionalized)",
+      "bio": "Fictional traditional debugging wisdom",
+      "birth_year": null,
+      "quote_count": 1
+    },
+    {
+      "name": "Sage N. J. $\star$",
+      "bio": "Fictional contemporary humorist/anthropologist",
+      "birth_year": 1970,
+      "quote_count": 1
+    },
+    {
+      "name": "C.A.R. Hoare",
+      "bio": "British computer scientist",
+      "birth_year": 1934,
+      "quote_count": 1
+    },
+    {
+      "name": "Charles Kettering",
+      "bio": "American inventor and engineer",
+      "birth_year": 1876,
+      "quote_count": 1
+    },
+    {
+      "name": "Carly Fiorina",
+      "bio": "American businesswoman and politician",
+      "birth_year": 1954,
+      "quote_count": 1
+    },
+    {
+      "name": "J.M. Barrie",
+      "bio": "Scottish novelist and playwright",
+      "birth_year": 1860,
       "quote_count": 1
     }
   ]
