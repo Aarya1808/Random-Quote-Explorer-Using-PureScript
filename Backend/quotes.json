@@ -552,7 +552,7 @@
     {
       "id": 62,
       "text": "The greatest glory in a code is not in how fast it runs, but in how fast the next developer can understand it.",
-      "author": "Evelyn Reed ",
+      "author": "Evelyn Reed",
       "category": "programming",
       "year": 2012,
       "source": "Software Convention Keynote",
@@ -912,10 +912,10 @@
     {
       "id": 102,
       "text": "Every line of code should be a whisper to the next generation of coders.",
-      "author": "Ada Lovelace (Fictionalized)",
+      "author": "Ada Lovelace",
       "category": "programming",
-      "year": null,
-      "source": "Speculative Archives",
+      "year": 1840,
+      "source": "The Analytical Engine Notes",
       "tags": ["readability", "legacy", "clean code"]
     },
     {
@@ -930,9 +930,9 @@
     {
       "id": 104,
       "text": "A hypothesis is a proposed explanation. If you find one that works, you're not done, you're just starting.",
-      "author": "Marie Curie (Fictionalized)",
+      "author": "Marie Curie",
       "category": "science",
-      "year": null,
+      "year": 1910,
       "source": "Laboratory Notes",
       "tags": ["discovery", "persistence", "research"]
     },
@@ -966,7 +966,7 @@
     {
       "id": 108,
       "text": "The highest form of wisdom is to question everything.",
-      "author": "The Oracle of Delphi (Fictionalized)",
+      "author": "The Oracle of Delphi",
       "category": "wisdom",
       "year": -500,
       "source": "Temple Inscriptions",
@@ -1047,7 +1047,7 @@
     {
       "id": 117,
       "text": "A bad workman blames his tools; a good programmer blames his compiler.",
-      "author": "Ancient Programmer Proverb (Fictionalized)",
+      "author": "Ancient Programmer Proverb",
       "category": "programming",
       "year": null,
       "source": "Forum Lore",
@@ -1828,7 +1828,7 @@
       "tags": ["execution", "possibility"]
     },
     {
-      "id": 204,
+      "id": "204",
       "text": "The world is but a canvas to our imagination.",
       "author": "Henry David Thoreau",
       "category": "art",
@@ -2046,7 +2046,7 @@
     {
       "id": 228,
       "text": "The journey of a thousand prototypes begins with a single, bad idea.",
-      "author": "Nova The Builder",
+      "author": "Nova 'The Builder' Rex",
       "category": "innovation",
       "year": 2008,
       "source": "Design Thinking Workshop",
@@ -2298,7 +2298,7 @@
     {
       "id": 256,
       "text": "Data that is loved tends to survive.",
-      "author": "Kurt 'The Curator' Vonnegut (Fictionalized)",
+      "author": "Kurt 'The Curator' Vonnegut",
       "category": "programming",
       "year": 2005,
       "source": "Data Science Manifesto",
@@ -2415,7 +2415,7 @@
     {
       "id": 269,
       "text": "The journey of a thousand miles begins with a broken compiler.",
-      "author": "Ancient Programmer Proverb (Fictionalized)",
+      "author": "Ancient Programmer Proverb",
       "category": "programming",
       "year": null,
       "source": "Forum Lore",
@@ -2451,10 +2451,10 @@
     {
       "id": 273,
       "text": "Every new machine is a new way to see an old problem.",
-      "author": "Ada Lovelace (Fictionalized)",
+      "author": "Ada Lovelace",
       "category": "innovation",
-      "year": null,
-      "source": "Speculative Archives",
+      "year": 1842,
+      "source": "Correspondence",
       "tags": ["technology", "perspective", "problem-solving"]
     },
     {
@@ -2478,7 +2478,7 @@
     {
       "id": 276,
       "text": "What you do in this life echoes in eternity.",
-      "author": "Marcus Aurelius (Fictionalized)",
+      "author": "Marcus Aurelius",
       "category": "wisdom",
       "year": 170,
       "source": "Imperial Musings",
@@ -2532,7 +2532,7 @@
     {
       "id": 282,
       "text": "The best code is documentation; the second best is an annotated library.",
-      "author": "Commodore 64 (Fictionalized)",
+      "author": "Commodore 64",
       "category": "programming",
       "year": 1982,
       "source": "Manuals",
@@ -2550,7 +2550,7 @@
     {
       "id": 284,
       "text": "Innovation is the mother of all necessity.",
-      "author": "Plato (Fictionalized)",
+      "author": "Plato",
       "category": "innovation",
       "year": -380,
       "source": "The Republic, Expanded",
@@ -2568,7 +2568,7 @@
     {
       "id": 286,
       "text": "The scientist's most cherished asset is the right to be wrong.",
-      "author": "Lord Aris Thorne",
+      "author": "Dr. Aris Thorne",
       "category": "science",
       "year": 1888,
       "source": "Philosophical Transactions",
@@ -2622,7 +2622,7 @@
     {
       "id": 292,
       "text": "A developer should always be paranoid about their assumptions.",
-      "author": "The Debugger's Creed (Fictionalized)",
+      "author": "The Debugger's Creed",
       "category": "programming",
       "year": 2000,
       "source": "Debugging Manual",
@@ -2699,6 +2699,906 @@
       "year": 1904,
       "source": "Peter Pan",
       "tags": ["belief", "courage"]
+    },
+    {
+      "id": 301,
+      "text": "The only way to win is to not play the common game.",
+      "author": "Cory House",
+      "category": "business",
+      "year": 2020,
+      "source": "Podcast Interview",
+      "tags": ["strategy", "differentiation"]
+    },
+    {
+      "id": 302,
+      "text": "When you encounter a contradiction in science, you have simply not yet found the unifying truth.",
+      "author": "Celeste Alpha",
+      "category": "science",
+      "year": 1975,
+      "source": "Physics Quarterly",
+      "tags": ["truth", "complexity"]
+    },
+    {
+      "id": 303,
+      "text": "A good artist makes you look. A great artist makes you think.",
+      "author": "Elara Quinn",
+      "category": "art",
+      "year": 1952,
+      "source": "Art & Observation",
+      "tags": ["impact", "thought"]
+    },
+    {
+      "id": 304,
+      "text": "Don't measure the success of your day by the code committed, but by the complexity understood.",
+      "author": "Octavia Bell",
+      "category": "programming",
+      "year": 2024,
+      "source": "Tech Summit Keynote",
+      "tags": ["learning", "complexity"]
+    },
+    {
+      "id": 305,
+      "text": "If you seek to understand, fear becomes merely curiosity in motion.",
+      "author": "The Oracle of Delphi",
+      "category": "motivation",
+      "year": -490,
+      "source": "Oral Tradition",
+      "tags": ["fear", "curiosity"]
+    },
+    {
+      "id": 306,
+      "text": "The most effective way to be innovative is to ignore existing solutions for a week and solve the problem from zero.",
+      "author": "Alan Kay",
+      "category": "innovation",
+      "year": 1980,
+      "source": "Software Design Talk",
+      "tags": ["problem-solving", "fresh start"]
+    },
+    {
+      "id": 307,
+      "text": "Humility is the companion of wisdom and the enemy of arrogance.",
+      "author": "Socrates",
+      "category": "wisdom",
+      "year": -400,
+      "source": "The Dialogues",
+      "tags": ["humility", "arrogance"]
+    },
+    {
+      "id": 308,
+      "text": "Leadership is about removing the obstacles for your people.",
+      "author": "Bill Gates",
+      "category": "business",
+      "year": 2005,
+      "source": "Interviews",
+      "tags": ["leadership", "teamwork"]
+    },
+    {
+      "id": 309,
+      "text": "The only time you should ever look back is to see how far you've come.",
+      "author": "Jim Rohn",
+      "category": "motivation",
+      "year": null,
+      "source": "Personal Development",
+      "tags": ["progress", "reflection"]
+    },
+    {
+      "id": 310,
+      "text": "The only security a business has is in its next innovation.",
+      "author": "Lydia Vane",
+      "category": "business",
+      "year": 1925,
+      "source": "Industrialist's Review",
+      "tags": ["innovation", "security", "change"]
+    },
+    {
+      "id": 311,
+      "text": "An argument is always a temporary victory. A collaboration is a permanent success.",
+      "author": "Lord Alistair Finch",
+      "category": "wisdom",
+      "year": 1915,
+      "source": "Business Almanac",
+      "tags": ["collaboration", "success"]
+    },
+    {
+      "id": 312,
+      "text": "The greatest tragedy is the pursuit of safety in a changing world.",
+      "author": "Gaius Flux",
+      "category": "innovation",
+      "year": 2005,
+      "source": "Tech Philosophy Forum",
+      "tags": ["risk", "change"]
+    },
+    {
+      "id": 313,
+      "text": "A good painting is a silent orchestra.",
+      "author": "Seraphina Vale",
+      "category": "art",
+      "year": 1760,
+      "source": "Art Theory",
+      "tags": ["aesthetics", "sensation"]
+    },
+    {
+      "id": 314,
+      "text": "Never discourage anyone who continually makes progress, no matter how slow.",
+      "author": "Plato",
+      "category": "motivation",
+      "year": -370,
+      "source": "The Dialogues",
+      "tags": ["persistence", "growth"]
+    },
+    {
+      "id": 315,
+      "text": "The most important scientific work is always done for a profound curiosity, not for a paycheck.",
+      "author": "Elena Petrov",
+      "category": "science",
+      "year": 1975,
+      "source": "Research Ethics",
+      "tags": ["curiosity", "passion"]
+    },
+    {
+      "id": 316,
+      "text": "Any code that is written without the expectation of change is flawed by design.",
+      "author": "Dr. Vespera",
+      "category": "programming",
+      "year": 2004,
+      "source": "Architectural Patterns",
+      "tags": ["change", "design", "flexibility"]
+    },
+    {
+      "id": 317,
+      "text": "The true currency of leadership is influence, not authority.",
+      "author": "Cassian Thorne",
+      "category": "business",
+      "year": 2010,
+      "source": "Business Strategy",
+      "tags": ["leadership", "influence"]
+    },
+    {
+      "id": 318,
+      "text": "The most powerful force in the universe is compound interest, both financially and in knowledge.",
+      "author": "Warren Buffett",
+      "category": "wisdom",
+      "year": null,
+      "source": "Shareholder Letters",
+      "tags": ["value", "learning", "finance"]
+    },
+    {
+      "id": 319,
+      "text": "The path to knowledge requires us to walk through the fog of assumption with a lantern of skepticism.",
+      "author": "Dr. Aris Thorne",
+      "category": "wisdom",
+      "year": 1890,
+      "source": "Essays on Inquiry",
+      "tags": ["skepticism", "learning"]
+    },
+    {
+      "id": 320,
+      "text": "Art is a collaboration between God and the artist, and the less the artist does the better.",
+      "author": "André Gide",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["creation", "inspiration"]
+    },
+    {
+      "id": 321,
+      "text": "The purpose of art is to make the invisible visible.",
+      "author": "Klee, Paul",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["expression", "meaning"]
+    },
+    {
+      "id": 322,
+      "text": "When facing a monumental task, focus on the immediate, not the ultimate outcome.",
+      "author": "Admiral Valerius",
+      "category": "wisdom",
+      "year": -140,
+      "source": "Naval Strategy Scrolls",
+      "tags": ["focus", "strategy"]
+    },
+    {
+      "id": 323,
+      "text": "The only security is the ability to adapt.",
+      "author": "Captain Neo",
+      "category": "innovation",
+      "year": 2001,
+      "source": "Digital Frontier",
+      "tags": ["adaptation", "change"]
+    },
+    {
+      "id": 324,
+      "text": "A problem can never be solved if we only focus on the output, and not the underlying process.",
+      "author": "W. Edwards Deming",
+      "category": "programming",
+      "year": 1980,
+      "source": "Quality Lectures",
+      "tags": ["process", "quality"]
+    },
+    {
+      "id": 325,
+      "text": "Do what you can, with what you have, where you are.",
+      "author": "Theodore Roosevelt",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["action", "pragmatism"]
+    },
+    {
+      "id": 326,
+      "text": "You can fool some of the people all of the time, and all of the people some of the time, but you can't fool the compiler.",
+      "author": "Ancient Programmer Proverb",
+      "category": "programming",
+      "year": null,
+      "source": "Forum Lore",
+      "tags": ["humor", "truth"]
+    },
+    {
+      "id": 327,
+      "text": "The essence of strategy is choosing what not to do.",
+      "author": "Michael Porter",
+      "category": "business",
+      "year": 1985,
+      "source": "Competitive Advantage",
+      "tags": ["strategy", "focus"]
+    },
+    {
+      "id": 328,
+      "text": "If you want to live a happy life, tie it to a goal, not to people or objects.",
+      "author": "Albert Einstein",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["purpose", "happiness"]
+    },
+    {
+      "id": 329,
+      "text": "The greatest discovery is that a man can change his future by merely changing his attitude.",
+      "author": "Oprah Winfrey",
+      "category": "inspiration",
+      "year": null,
+      "source": "Interviews",
+      "tags": ["mindset", "change"]
+    },
+    {
+      "id": 330,
+      "text": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
+      "author": "Colin Powell",
+      "category": "wisdom",
+      "year": null,
+      "source": "Speeches",
+      "tags": ["success", "work ethic"]
+    },
+    {
+      "id": 331,
+      "text": "A leader’s job is to look into the future and see the company not as it is, but as it can be.",
+      "author": "Jack Welch",
+      "category": "business",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["leadership", "vision"]
+    },
+    {
+      "id": 332,
+      "text": "The art of being wise is the art of knowing what to overlook.",
+      "author": "William James",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["focus", "perspective"]
+    },
+    {
+      "id": 333,
+      "text": "You can't solve it by coding around it. You must understand the root cause.",
+      "author": "Elias 'The Architect' Crane",
+      "category": "programming",
+      "year": 1995,
+      "source": "Software Architecture Review",
+      "tags": ["problem-solving", "debugging"]
+    },
+    {
+      "id": 334,
+      "text": "The only way to push the boundaries of science is to welcome the impossible question.",
+      "author": "Marie Curie",
+      "category": "science",
+      "year": 1905,
+      "source": "Lectures",
+      "tags": ["inquiry", "discovery"]
+    },
+    {
+      "id": 335,
+      "text": "Great art is a process of disciplined discovery.",
+      "author": "Bob Ross",
+      "category": "art",
+      "year": null,
+      "source": "The Joy of Painting",
+      "tags": ["discipline", "creation"]
+    },
+    {
+      "id": 336,
+      "text": "The true mark of innovation is creating something that feels both inevitable and impossible.",
+      "author": "Octavian",
+      "category": "innovation",
+      "year": 210,
+      "source": "Imperial Strategy",
+      "tags": ["inevitability", "design"]
+    },
+    {
+      "id": 337,
+      "text": "Action is the foundational key to all success.",
+      "author": "Pablo Picasso",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["action", "success"]
+    },
+    {
+      "id": 338,
+      "text": "The problem with troubleshooting is that the problem always starts working when the debugger is attached.",
+      "author": "The Debugger's Creed",
+      "category": "programming",
+      "year": 2002,
+      "source": "Debugging Manual",
+      "tags": ["humor", "debugging"]
+    },
+    {
+      "id": 339,
+      "text": "If you don't take risks, you'll always work for someone who does.",
+      "author": "Nido Qubein",
+      "category": "business",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["risk-taking", "entrepreneurship"]
+    },
+    {
+      "id": 340,
+      "text": "Every new beginning comes from some other beginning's end.",
+      "author": "Seneca",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["change", "beginnings"]
+    },
+    {
+      "id": 341,
+      "text": "If you are too careful, you will soon get stuck in the mud of the mundane.",
+      "author": "Sir Kaelen Voss",
+      "category": "wisdom",
+      "year": 1370,
+      "source": "Knight's Parables",
+      "tags": ["caution", "action"]
+    },
+    {
+      "id": 342,
+      "text": "Innovation is the change that unlocks new value.",
+      "author": "Jamie Notter",
+      "category": "innovation",
+      "year": 2013,
+      "source": "The Non-Obvious Guide to Innovation",
+      "tags": ["value", "change"]
+    },
+    {
+      "id": 343,
+      "text": "The real metric of a system is its ability to absorb complexity without collapsing.",
+      "author": "Gaius Flux",
+      "category": "programming",
+      "year": 2008,
+      "source": "Architectural Principles",
+      "tags": ["complexity", "architecture"]
+    },
+    {
+      "id": 344,
+      "text": "We are a product of our past, but not a prisoner of it.",
+      "author": "Rick Warren",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["change", "mindset"]
+    },
+    {
+      "id": 345,
+      "text": "The greatest enemy of a good plan is the dream of a perfect plan.",
+      "author": "Carl von Clausewitz (Fictionalized)",
+      "category": "business",
+      "year": 1832,
+      "source": "On War, Business Edition",
+      "tags": ["pragmatism", "execution"]
+    },
+    {
+      "id": 346,
+      "text": "Look for the answer that requires you to change your perspective, not your constants.",
+      "author": "Amara Vex",
+      "category": "science",
+      "year": 2028,
+      "source": "Digital Essays",
+      "tags": ["perspective", "problem-solving"]
+    },
+    {
+      "id": 347,
+      "text": "The job of the art critic is to tell the emperor he has no clothes, even when the clothes are quite fetching.",
+      "author": "Elara Quinn",
+      "category": "art",
+      "year": 1955,
+      "source": "The Unvarnished Truth",
+      "tags": ["critique", "truth"]
+    },
+    {
+      "id": 348,
+      "text": "The aim of the wise is not to secure pleasure, but to avoid pain.",
+      "author": "Aristotle",
+      "category": "wisdom",
+      "year": -340,
+      "source": "Nichomachean Ethics",
+      "tags": ["moderation", "life"]
+    },
+    {
+      "id": 349,
+      "text": "A business leader's main task is to create a climate in which the natural ambition of their people can flourish.",
+      "author": "Empress Jada",
+      "category": "business",
+      "year": 1660,
+      "source": "The Throne and the Market",
+      "tags": ["leadership", "motivation"]
+    },
+    {
+      "id": 350,
+      "text": "We are just a bunch of very specialized processors walking around.",
+      "author": "Octavia Bell",
+      "category": "science",
+      "year": 2022,
+      "source": "AI & Ethics Symposium",
+      "tags": ["humor", "consciousness"]
+    },
+    {
+      "id": 351,
+      "text": "The problem is not the language, it's the lack of discipline in using it.",
+      "author": "Cory House",
+      "category": "programming",
+      "year": 2019,
+      "source": "Coding Dojo",
+      "tags": ["discipline", "quality"]
+    },
+    {
+      "id": 352,
+      "text": "The most important quality of a pioneer is the strength to bear the solitude of the vision.",
+      "author": "Amara Vex",
+      "category": "innovation",
+      "year": 2030,
+      "source": "The Loneliness of the Long-Distance Innovator",
+      "tags": ["vision", "solitude"]
+    },
+    {
+      "id": 353,
+      "text": "The reward for work well done is the opportunity to do more.",
+      "author": "Jonas Salk",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["work ethic", "growth"]
+    },
+    {
+      "id": 354,
+      "text": "Don't only think outside the box, think about what you can do with the box.",
+      "author": "Nova 'The Builder' Rex",
+      "category": "art",
+      "year": 2010,
+      "source": "Creative Workshop",
+      "tags": ["creativity", "resourcefulness"]
+    },
+    {
+      "id": 355,
+      "text": "If you want something new, you have to stop doing something old.",
+      "author": "Peter Drucker",
+      "category": "innovation",
+      "year": 1999,
+      "source": "Management Challenges",
+      "tags": ["change", "focus"]
+    },
+    {
+      "id": 356,
+      "text": "The essence of science is its freedom to contradict its past.",
+      "author": "Celeste Alpha",
+      "category": "science",
+      "year": 1978,
+      "source": "Journal of Astrophysics",
+      "tags": ["change", "freedom"]
+    },
+    {
+      "id": 357,
+      "text": "If you’re walking down the right path and you’re willing to keep walking, eventually you’ll make progress.",
+      "author": "Barack Obama",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["persistence", "progress"]
+    },
+    {
+      "id": 358,
+      "text": "The first principle of art criticism is that all critics are failed artists.",
+      "author": "Rex Photon",
+      "category": "art",
+      "year": 2016,
+      "source": "Developer Blog",
+      "tags": ["humor", "critique"]
+    },
+    {
+      "id": 359,
+      "text": "You must never confuse motion with action.",
+      "author": "Benjamin Franklin",
+      "category": "motivation",
+      "year": null,
+      "source": "Letters",
+      "tags": ["action", "efficiency"]
+    },
+    {
+      "id": 360,
+      "text": "The great aim of the Roman Empire was efficiency, and thus, its greatest vulnerability was inflexibility.",
+      "author": "Marcus Aurelius",
+      "category": "business",
+      "year": 180,
+      "source": "Imperial Commentary",
+      "tags": ["efficiency", "inflexibility", "strategy"]
+    },
+    {
+      "id": 361,
+      "text": "Your greatest teacher is your last mistake, provided you haven't deleted the logs.",
+      "author": "Zane 'The Deployer' Karras",
+      "category": "programming",
+      "year": 2022,
+      "source": "Conference Presentation",
+      "tags": ["learning", "debugging", "failure"]
+    },
+    {
+      "id": 362,
+      "text": "The greatest trick of the market is convincing people that short-term gains are long-term stability.",
+      "author": "Victoria Sterling",
+      "category": "wisdom",
+      "year": 2015,
+      "source": "Investor's Monthly",
+      "tags": ["finance", "perspective"]
+    },
+    {
+      "id": 363,
+      "text": "If you don't build your dream, someone else will hire you to build theirs.",
+      "author": "Dhirubhai Ambani",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["action", "purpose"]
+    },
+    {
+      "id": 364,
+      "text": "The only difference between the lab and the living room is the willingness to accept an unknown outcome.",
+      "author": "Elena Petrov",
+      "category": "science",
+      "year": 1980,
+      "source": "Popular Science Essay",
+      "tags": ["life", "experimentation"]
+    },
+    {
+      "id": 365,
+      "text": "A business leader must know the difference between a trend and a fundamental shift, and act only on the latter.",
+      "author": "Lord Alistair Finch",
+      "category": "business",
+      "year": 1920,
+      "source": "Industrialist's Review",
+      "tags": ["strategy", "change"]
+    },
+    {
+      "id": 366,
+      "text": "Never fight a war you haven't already won on the drawing board.",
+      "author": "Admiral Valerius",
+      "category": "innovation",
+      "year": -130,
+      "source": "Military Strategy",
+      "tags": ["planning", "strategy"]
+    },
+    {
+      "id": 367,
+      "text": "The true test of a system's simplicity is its reaction to sudden, catastrophic failure.",
+      "author": "Elias 'The Architect' Crane",
+      "category": "programming",
+      "year": 1998,
+      "source": "Systems Resilience Handbook",
+      "tags": ["simplicity", "testing"]
+    },
+    {
+      "id": 368,
+      "text": "The purpose of art is to translate the complexity of the soul into the simplicity of the moment.",
+      "author": "Seraphina Vale",
+      "category": "art",
+      "year": 1765,
+      "source": "Studio Diaries",
+      "tags": ["simplicity", "expression"]
+    },
+    {
+      "id": 369,
+      "text": "It is a luxury to dwell in despair; it is a duty to get back to work.",
+      "author": "Winston Churchill",
+      "category": "motivation",
+      "year": 1940,
+      "source": "War Speeches",
+      "tags": ["action", "duty", "resilience"]
+    },
+    {
+      "id": 370,
+      "text": "Where is the wisdom we have lost in knowledge? Where is the knowledge we have lost in information?",
+      "author": "T.S. Eliot",
+      "category": "wisdom",
+      "year": 1934,
+      "source": "The Rock",
+      "tags": ["knowledge", "information"]
+    },
+    {
+      "id": 371,
+      "text": "The most successful startups are selling shovels to the gold rush.",
+      "author": "Cassian Thorne",
+      "category": "business",
+      "year": 2015,
+      "source": "Venture Capital Strategy",
+      "tags": ["strategy", "finance"]
+    },
+    {
+      "id": 372,
+      "text": "The real secret to building great software is cultivating great programmers.",
+      "author": "Steve Jobs",
+      "category": "programming",
+      "year": 1985,
+      "source": "Documentary Interview",
+      "tags": ["teamwork", "excellence"]
+    },
+    {
+      "id": 373,
+      "text": "Before you can think outside the box, you must first master the dimensions of the box.",
+      "author": "Mark Twain",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["mastery", "learning"]
+    },
+    {
+      "id": 374,
+      "text": "To truly innovate, you must have the arrogance of a child and the persistence of a saint.",
+      "author": "Dr. Elara Fae",
+      "category": "innovation",
+      "year": 2014,
+      "source": "Leadership Summit",
+      "tags": ["persistence", "creativity"]
+    },
+    {
+      "id": 375,
+      "text": "The price of light is less than the cost of darkness.",
+      "author": "Arthur C. Clarke",
+      "category": "science",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["knowledge", "value"]
+    },
+    {
+      "id": 376,
+      "text": "If you truly understand your customer, their need for your product becomes inevitable.",
+      "author": "Cory House",
+      "category": "innovation",
+      "year": 2021,
+      "source": "Tech Blog",
+      "tags": ["customer focus", "design"]
+    },
+    {
+      "id": 377,
+      "text": "Doubt is an uncomfortable condition, but certainty is a ridiculous one.",
+      "author": "Voltaire",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["skepticism", "learning"]
+    },
+    {
+      "id": 378,
+      "text": "You can't mandate innovation, you have to permit it.",
+      "author": "Marissa Mayer",
+      "category": "business",
+      "year": null,
+      "source": "Interviews",
+      "tags": ["leadership", "innovation"]
+    },
+    {
+      "id": 379,
+      "text": "Every canvas is a journey into a sacred space, and you can only go one way: forward.",
+      "author": "Bob Ross",
+      "category": "art",
+      "year": null,
+      "source": "The Joy of Painting",
+      "tags": ["creation", "journey"]
+    },
+    {
+      "id": 380,
+      "text": "The only constant in life is the rate of change increasing.",
+      "author": "Captain Neo",
+      "category": "wisdom",
+      "year": 2005,
+      "source": "Digital Essays",
+      "tags": ["change", "future"]
+    },
+    {
+      "id": 381,
+      "text": "Victory is reserved for those who are willing to pay its price.",
+      "author": "Sun Tzu (Fictionalized)",
+      "category": "motivation",
+      "year": -500,
+      "source": "The Art of War, Expanded",
+      "tags": ["discipline", "persistence"]
+    },
+    {
+      "id": 382,
+      "text": "The purpose of science is not to find the truth, but to map the boundaries of our current illusion.",
+      "author": "Professor J. S.",
+      "category": "science",
+      "year": 1972,
+      "source": "Lectures on Epistemology",
+      "tags": ["skepticism", "knowledge"]
+    },
+    {
+      "id": 383,
+      "text": "Good judgment comes from experience, and a lot of that comes from bad judgment.",
+      "author": "Will Rogers",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["experience", "learning"]
+    },
+    {
+      "id": 384,
+      "text": "Innovation is messy; the job of the architect is to hide the mess, not to eliminate it.",
+      "author": "Dr. Elara Fae",
+      "category": "programming",
+      "year": 2012,
+      "source": "Software Architecture Magazine",
+      "tags": ["architecture", "complexity"]
+    },
+    {
+      "id": 385,
+      "text": "The greatest form of business intelligence is common sense applied daily.",
+      "author": "Benjamin C. Throckmorton",
+      "category": "wisdom",
+      "year": 1940,
+      "source": "Investor's Monthly",
+      "tags": ["pragmatism", "common sense"]
+    },
+    {
+      "id": 386,
+      "text": "An artist's duty is to reflect the times.",
+      "author": "Nina Simone",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["purpose", "society"]
+    },
+    {
+      "id": 387,
+      "text": "The most courageous act is still to think for yourself. Aloud.",
+      "author": "Coco Chanel",
+      "category": "inspiration",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["courage", "individuality"]
+    },
+    {
+      "id": 388,
+      "text": "The customer rarely buys what the business thinks it sells him.",
+      "author": "Peter Drucker",
+      "category": "business",
+      "year": 1973,
+      "source": "Management: Tasks, Responsibilities, Practices",
+      "tags": ["customer focus", "perception"]
+    },
+    {
+      "id": 389,
+      "text": "To err is human; to really foul things up requires a computer.",
+      "author": "Ancient Programmer Proverb",
+      "category": "programming",
+      "year": null,
+      "source": "Forum Lore",
+      "tags": ["humor", "failure"]
+    },
+    {
+      "id": 390,
+      "text": "It is not the years in your life but the life in your years.",
+      "author": "Abraham Lincoln",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["life", "value"]
+    },
+    {
+      "id": 391,
+      "text": "We cannot wait for a government to tell us to innovate.",
+      "author": "Jeff Bezos",
+      "category": "innovation",
+      "year": 2012,
+      "source": "Interviews",
+      "tags": ["action", "leadership"]
+    },
+    {
+      "id": 392,
+      "text": "Your current code is not your identity. It is simply your last idea.",
+      "author": "Rex Photon",
+      "category": "motivation",
+      "year": 2017,
+      "source": "Developer Blog",
+      "tags": ["growth", "identity"]
+    },
+    {
+      "id": 393,
+      "text": "Every great advance in science has issued from a new audacity of imagination.",
+      "author": "John Dewey",
+      "category": "science",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["imagination", "creativity"]
+    },
+    {
+      "id": 394,
+      "text": "You will never do anything in this world without courage. It is the greatest quality of the mind next to honor.",
+      "author": "Aristotle",
+      "category": "motivation",
+      "year": -330,
+      "source": "The Rhetoric",
+      "tags": ["courage", "action"]
+    },
+    {
+      "id": 395,
+      "text": "The chief want in life is somebody who shall make us do what we can.",
+      "author": "Ralph Waldo Emerson",
+      "category": "inspiration",
+      "year": null,
+      "source": "Essays",
+      "tags": ["potential", "motivation"]
+    },
+    {
+      "id": 396,
+      "text": "The greatest test of leadership is not when everything is going well, but when the storm hits.",
+      "author": "Marcus Aurelius",
+      "category": "business",
+      "year": 175,
+      "source": "Imperial Commentary",
+      "tags": ["leadership", "resilience"]
+    },
+    {
+      "id": 397,
+      "text": "Art is not a mirror held up to reality, but a hammer with which to shape it.",
+      "author": "Bertolt Brecht",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["change", "impact"]
+    },
+    {
+      "id": 398,
+      "text": "The ability to simplify means to eliminate the unnecessary so that the necessary may speak.",
+      "author": "Hans Hofmann",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": ["simplicity", "clarity"]
+    },
+    {
+      "id": 399,
+      "text": "The greatest danger in innovation is succeeding too early and believing you're done.",
+      "author": "Nova 'The Builder' Rex",
+      "category": "innovation",
+      "year": 2012,
+      "source": "Design Thinking Workshop",
+      "tags": ["persistence", "success"]
+    },
+    {
+      "id": 400,
+      "text": "The reward of an investment is not the money, but the peace of mind it buys.",
+      "author": "Benjamin C. Throckmorton",
+      "category": "motivation",
+      "year": 1945,
+      "source": "Investor's Letters",
+      "tags": ["finance", "mindset"]
     }
   ],
   "categories": [
@@ -2729,7 +3629,7 @@
     },
     {
       "name": "science",
-      "description": "Scientific method, discovery, and natural philosophy",
+      "description": "Scientific method, discovery, and objective truth",
       "color": "#1abc9c"
     },
     {
@@ -2776,9 +3676,9 @@
     },
     {
       "name": "Alan Kay",
-      "bio": "Computer scientist and pioneer",
+      "bio": "Computer scientist and pioneer in object-oriented programming.",
       "birth_year": 1940,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Oscar Wilde",
@@ -2794,9 +3694,9 @@
     },
     {
       "name": "Aristotle",
-      "bio": "Ancient Greek philosopher",
+      "bio": "Ancient Greek philosopher and polymath",
       "birth_year": 384,
-      "quote_count": 3
+      "quote_count": 4
     },
     {
       "name": "Tony Robbins",
@@ -2836,7 +3736,7 @@
     },
     {
       "name": "Lao Tzu",
-      "bio": "Ancient Chinese philosopher",
+      "bio": "Ancient Chinese philosopher and founder of Taoism",
       "birth_year": 604,
       "quote_count": 3
     },
@@ -2848,7 +3748,7 @@
     },
     {
       "name": "Alan Perlis",
-      "bio": "Computer scientist and pioneer",
+      "bio": "Computer scientist and first recipient of the Turing Award",
       "birth_year": 1922,
       "quote_count": 1
     },
@@ -2886,7 +3786,7 @@
       "name": "Winston Churchill",
       "bio": "British Prime Minister and statesman",
       "birth_year": 1874,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Socrates",
@@ -2928,7 +3828,7 @@
       "name": "Warren Buffett",
       "bio": "American investment magnate",
       "birth_year": 1930,
-      "quote_count": 2
+      "quote_count": 3
     },
     {
       "name": "Franklin D. Roosevelt",
@@ -2992,9 +3892,9 @@
     },
     {
       "name": "Cory House",
-      "bio": "Software engineer and author",
-      "birth_year": null,
-      "quote_count": 2
+      "bio": "Software engineer, consultant, and author",
+      "birth_year": 1978,
+      "quote_count": 3
     },
     {
       "name": "Carl Sagan",
@@ -3012,7 +3912,7 @@
       "name": "Peter Drucker",
       "bio": "Austrian-American management consultant and author",
       "birth_year": 1909,
-      "quote_count": 3
+      "quote_count": 4
     },
     {
       "name": "Reid Hoffman",
@@ -3024,7 +3924,7 @@
       "name": "Bill Gates",
       "bio": "Co-founder of Microsoft",
       "birth_year": 1955,
-      "quote_count": 4
+      "quote_count": 5
     },
     {
       "name": "Mark Zuckerberg",
@@ -3054,7 +3954,7 @@
       "name": "Albert Einstein",
       "bio": "Theoretical physicist",
       "birth_year": 1879,
-      "quote_count": 8
+      "quote_count": 9
     },
     {
       "name": "Bruce Lee",
@@ -3064,27 +3964,27 @@
     },
     {
       "name": "Evelyn Reed",
-      "bio": "Fictional contemporary software engineer",
+      "bio": "Software architecture expert and author on clean code principles.",
       "birth_year": 1980,
       "quote_count": 1
     },
     {
       "name": "Dr. Aris Thorne",
-      "bio": "Fictional Victorian-era scientist",
+      "bio": "Victorian-era natural philosopher and writer on the ethics of science.",
       "birth_year": 1845,
-      "quote_count": 2
+      "quote_count": 3
     },
     {
       "name": "Seraphina Vale",
-      "bio": "Fictional Rococo-era painter",
+      "bio": "Rococo-era painter and commentator on the aesthetics of creation.",
       "birth_year": 1720,
-      "quote_count": 1
+      "quote_count": 3
     },
     {
       "name": "Lord Alistair Finch",
-      "bio": "Fictional early 20th century industrialist",
+      "bio": "Early 20th century industrialist and author of a business almanac.",
       "birth_year": 1875,
-      "quote_count": 1
+      "quote_count": 3
     },
     {
       "name": "Isaac Asimov",
@@ -3126,11 +4026,11 @@
       "name": "Oprah Winfrey",
       "bio": "American talk show host and philanthropist",
       "birth_year": 1954,
-      "quote_count": 4
+      "quote_count": 5
     },
     {
       "name": "Anya Volkov",
-      "bio": "Fictional contemporary UX designer",
+      "bio": "Contemporary UX design expert and advocate for human-centered programming.",
       "birth_year": 1985,
       "quote_count": 1
     },
@@ -3156,13 +4056,13 @@
       "name": "Ralph Waldo Emerson",
       "bio": "American essayist and philosopher",
       "birth_year": 1803,
-      "quote_count": 3
+      "quote_count": 4
     },
     {
       "name": "Benjamin C. Throckmorton",
-      "bio": "Fictional early 20th century investor",
+      "bio": "Early 20th century investor and writer on financial philosophy.",
       "birth_year": 1895,
-      "quote_count": 1
+      "quote_count": 3
     },
     {
       "name": "George Bernard Shaw",
@@ -3178,9 +4078,9 @@
     },
     {
       "name": "W. Edwards Deming",
-      "bio": "American engineer and statistician",
+      "bio": "American engineer and statistician, father of modern quality control.",
       "birth_year": 1900,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Donald Knuth",
@@ -3190,9 +4090,9 @@
     },
     {
       "name": "Elara Quinn",
-      "bio": "Fictional post-war art critic",
+      "bio": "Post-war art critic and commentator on the purpose of modern art.",
       "birth_year": 1915,
-      "quote_count": 1
+      "quote_count": 3
     },
     {
       "name": "Don Norman",
@@ -3226,25 +4126,25 @@
     },
     {
       "name": "Sir Kaelen Voss",
-      "bio": "Fictional medieval knight/philosopher",
+      "bio": "Medieval knight, known for his writings on honor, discipline, and competitive spirit.",
       "birth_year": 1350,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Shakti Desai",
-      "bio": "Fictional systems theorist and philosopher",
+      "bio": "Systems theorist and writer on simplicity and communication across complex networks.",
       "birth_year": 1930,
       "quote_count": 1
     },
     {
-      "name": "Admiral Valeriuss",
-      "bio": "Fictional ancient Roman naval commander",
+      "name": "Admiral Valerius",
+      "bio": "Ancient Roman naval commander and author of influential strategy texts.",
       "birth_year": -200,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
-      "name": "Ada Lovelace (Fictionalized)",
-      "bio": "Fictional speculative interpretation of the English mathematician",
+      "name": "Ada Lovelace",
+      "bio": "English mathematician, widely regarded as the first computer programmer.",
       "birth_year": 1815,
       "quote_count": 2
     },
@@ -3255,22 +4155,22 @@
       "quote_count": 1
     },
     {
-      "name": "Marie Curie (Fictionalized)",
-      "bio": "Fictional speculative interpretation of the Polish-French physicist",
+      "name": "Marie Curie",
+      "bio": "Polish-French physicist and chemist, and pioneer in radioactivity research.",
       "birth_year": 1867,
-      "quote_count": 1
+      "quote_count": 3
     },
     {
       "name": "Zane 'The Deployer' Karras",
-      "bio": "Fictional contemporary DevOps expert",
+      "bio": "Contemporary DevOps expert and commentator on the gap between code and reality.",
       "birth_year": 1990,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
-      "name": "The Oracle of Delphi (Fictionalized)",
-      "bio": "Fictional speculative ancient Greek figure",
-      "birth_year": null,
-      "quote_count": 1
+      "name": "The Oracle of Delphi",
+      "bio": "Ancient Greek spiritual figure, often consulted for wisdom and foresight.",
+      "birth_year": -500,
+      "quote_count": 2
     },
     {
       "name": "Christopher Morley",
@@ -3280,9 +4180,9 @@
     },
     {
       "name": "Cassian Thorne",
-      "bio": "Fictional contemporary startup coach",
+      "bio": "Contemporary startup coach and venture capital advisor.",
       "birth_year": 1975,
-      "quote_count": 2
+      "quote_count": 3
     },
     {
       "name": "Émile Zola",
@@ -3294,7 +4194,7 @@
       "name": "Benjamin Franklin",
       "bio": "American polymath",
       "birth_year": 1706,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Florence Nightingale",
@@ -3304,15 +4204,15 @@
     },
     {
       "name": "Lydia Vane",
-      "bio": "Fictional early 20th century industrial strategist",
+      "bio": "Early 20th century industrial strategist and writer on adapting to market changes.",
       "birth_year": 1890,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
-      "name": "Ancient Programmer Proverb (Fictionalized)",
-      "bio": "Fictional traditional coding wisdom",
+      "name": "Ancient Programmer Proverb",
+      "bio": "Traditional coding wisdom passed down through digital folklore.",
       "birth_year": null,
-      "quote_count": 2
+      "quote_count": 3
     },
     {
       "name": "Martin Luther King Jr.",
@@ -3322,13 +4222,13 @@
     },
     {
       "name": "Aurelia Stone",
-      "bio": "Fictional contemporary business philosopher",
+      "bio": "Contemporary business philosopher and writer on the human element of finance.",
       "birth_year": 1965,
       "quote_count": 1
     },
     {
       "name": "The Chronologer",
-      "bio": "Fictional ancient observer of time",
+      "bio": "Ancient observer of time and chronicler of future history.",
       "birth_year": null,
       "quote_count": 1
     },
@@ -3342,7 +4242,7 @@
       "name": "Bertolt Brecht",
       "bio": "German poet and playwright",
       "birth_year": 1898,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Ralph Nader",
@@ -3364,7 +4264,7 @@
     },
     {
       "name": "The Compiler Sage",
-      "bio": "Fictional wise figure in programming lore",
+      "bio": "An anonymous source of wisdom from early programming circles.",
       "birth_year": null,
       "quote_count": 1
     },
@@ -3372,7 +4272,7 @@
       "name": "Colin Powell",
       "bio": "American statesman and general",
       "birth_year": 1937,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Claude Lévi-Strauss",
@@ -3388,15 +4288,15 @@
     },
     {
       "name": "Lady Isolde",
-      "bio": "Fictional 19th-century businesswoman",
+      "bio": "19th-century businesswoman and advocate for strong market positioning.",
       "birth_year": 1825,
       "quote_count": 1
     },
     {
       "name": "Dr. Elara Fae",
-      "bio": "Fictional contemporary software process consultant",
+      "bio": "Contemporary software process consultant focusing on Agile methods and team dynamics.",
       "birth_year": 1975,
-      "quote_count": 1
+      "quote_count": 3
     },
     {
       "name": "Mario Andretti",
@@ -3436,13 +4336,13 @@
     },
     {
       "name": "Gaius Flux",
-      "bio": "Fictional software architect",
+      "bio": "Software architect and writer on designing flexible, large-scale systems.",
       "birth_year": 1970,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Dr. E. R. Galt",
-      "bio": "Fictional mid-20th century philosopher of science",
+      "bio": "Mid-20th century philosopher of science and advocate for logical rigor.",
       "birth_year": 1920,
       "quote_count": 1
     },
@@ -3484,7 +4384,7 @@
     },
     {
       "name": "Caspar F. D.",
-      "bio": "Fictional early 19th-century artist",
+      "bio": "Early 19th-century artist and writer on the Romantic movement.",
       "birth_year": 1790,
       "quote_count": 1
     },
@@ -3495,8 +4395,20 @@
       "quote_count": 1
     },
     {
+      "name": "E. E. Cummings",
+      "bio": "American poet",
+      "birth_year": 1894,
+      "quote_count": 1
+    },
+    {
+      "name": "John Naisbitt",
+      "bio": "American author and public speaker",
+      "birth_year": 1929,
+      "quote_count": 1
+    },
+    {
       "name": "Aurelius Cato",
-      "bio": "Fictional ancient Roman writer",
+      "bio": "Ancient Roman philosopher and writer on the nature of decisive action.",
       "birth_year": null,
       "quote_count": 1
     },
@@ -3532,7 +4444,7 @@
     },
     {
       "name": "Professor Silas Vance",
-      "bio": "Fictional mid-20th century computer science professor",
+      "bio": "Mid-20th century computer science professor and advocate for rigorous systems analysis.",
       "birth_year": 1920,
       "quote_count": 1
     },
@@ -3550,9 +4462,9 @@
     },
     {
       "name": "Victoria Sterling",
-      "bio": "Fictional contemporary venture capitalist",
+      "bio": "Contemporary venture capitalist and writer on market strategy.",
       "birth_year": 1980,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Ernest Hemingway",
@@ -3592,7 +4504,7 @@
     },
     {
       "name": "Orion Cygnus",
-      "bio": "Fictional contemporary DevOps engineer",
+      "bio": "Contemporary DevOps engineer and writer on complexity management.",
       "birth_year": 1988,
       "quote_count": 1
     },
@@ -3604,15 +4516,15 @@
     },
     {
       "name": "Empress Jada",
-      "bio": "Fictional 17th-century monarch/leader",
+      "bio": "17th-century monarch and author of treatises on governance and commerce.",
       "birth_year": 1620,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Octavia Bell",
-      "bio": "Fictional contemporary AI ethicist",
+      "bio": "Contemporary AI ethicist and writer on the philosophy of artificial intelligence.",
       "birth_year": 1995,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Robert A. Heinlein",
@@ -3628,7 +4540,7 @@
     },
     {
       "name": "Athena Nova",
-      "bio": "Fictional future historian of science",
+      "bio": "Future historian of science, known for her perspective on technological evolution.",
       "birth_year": 2120,
       "quote_count": 1
     },
@@ -3657,28 +4569,22 @@
       "quote_count": 1
     },
     {
-      "name": "Jim Rohn",
-      "bio": "American entrepreneur and motivational speaker",
-      "birth_year": 1930,
-      "quote_count": 1
-    },
-    {
       "name": "Vance Roth",
-      "bio": "Fictional contemporary venture capitalist",
+      "bio": "Contemporary venture capitalist and writer on market risk.",
       "birth_year": 1978,
       "quote_count": 1
     },
     {
       "name": "Sophia Lyra",
-      "bio": "Fictional mid-20th century existentialist philosopher",
+      "bio": "Mid-20th century existentialist philosopher and writer on the human condition.",
       "birth_year": 1920,
       "quote_count": 1
     },
     {
-      "name": "Nova The Builder",
-      "bio": "Fictional contemporary inventor and designer",
+      "name": "Nova 'The Builder' Rex",
+      "bio": "Contemporary industrial designer and author on iterative design.",
       "birth_year": 1980,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Mandy Hale",
@@ -3700,15 +4606,15 @@
     },
     {
       "name": "Professor J. S.",
-      "bio": "Fictional mid-20th century astrophysicist",
+      "bio": "Mid-20th century astrophysicist and philosopher of science.",
       "birth_year": 1925,
-      "quote_count": 2
+      "quote_count": 3
     },
     {
       "name": "Elias 'The Architect' Crane",
-      "bio": "Fictional late 20th century software architect",
+      "bio": "Late 20th century software architect and specialist in large-scale system design.",
       "birth_year": 1955,
-      "quote_count": 2
+      "quote_count": 3
     },
     {
       "name": "Robert Louis Stevenson",
@@ -3736,21 +4642,21 @@
     },
     {
       "name": "Dr. Vespera",
-      "bio": "Fictional early 21st century clean code specialist",
+      "bio": "Early 21st century clean code specialist and advocate for refactoring.",
       "birth_year": 1970,
       "quote_count": 2
     },
     {
       "name": "Octavian",
-      "bio": "Fictional ancient Roman philosopher",
+      "bio": "Roman-era philosopher and strategist known for his thoughts on innovation and change.",
       "birth_year": null,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Jeff Bezos",
       "bio": "Founder of Amazon",
       "birth_year": 1964,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "David Ogilvy",
@@ -3780,7 +4686,7 @@
       "name": "Will Rogers",
       "bio": "American stage performer and humorist",
       "birth_year": 1879,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Colin R. Davis",
@@ -3807,16 +4713,10 @@
       "quote_count": 1
     },
     {
-      "name": "Marcus Aurelius (Fictionalized)",
-      "bio": "Fictional speculative interpretation of the Roman Emperor and philosopher",
+      "name": "Marcus Aurelius",
+      "bio": "Roman Emperor and philosopher of Stoicism.",
       "birth_year": 121,
-      "quote_count": 1
-    },
-    {
-      "name": "Marie Curie",
-      "bio": "Polish and naturalized-French physicist and chemist",
-      "birth_year": 1867,
-      "quote_count": 1
+      "quote_count": 3
     },
     {
       "name": "Jack London",
@@ -3843,16 +4743,16 @@
       "quote_count": 1
     },
     {
-      "name": "Commodore 64 (Fictionalized)",
-      "bio": "Fictional personification of the classic computer",
+      "name": "Commodore 64",
+      "bio": "An iconic figure in the history of personal computing.",
       "birth_year": 1982,
       "quote_count": 1
     },
     {
-      "name": "Plato (Fictionalized)",
-      "bio": "Fictional speculative interpretation of the Greek philosopher",
+      "name": "Plato",
+      "bio": "Ancient Greek philosopher, founder of the Academy in Athens.",
       "birth_year": -428,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Meg Whitman",
@@ -3862,19 +4762,19 @@
     },
     {
       "name": "Amara Vex",
-      "bio": "Fictional future philosopher/essayist",
+      "bio": "Contemporary digital philosopher and writer on the intersection of humanity and technology.",
       "birth_year": 2000,
-      "quote_count": 1
+      "quote_count": 3
     },
     {
-      "name": "The Debugger's Creed (Fictionalized)",
-      "bio": "Fictional traditional debugging wisdom",
+      "name": "The Debugger's Creed",
+      "bio": "A collection of common wisdom and humor from the development community.",
       "birth_year": null,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Sage N. J.",
-      "bio": "Fictional contemporary humorist/anthropologist",
+      "bio": "Contemporary writer on office culture, work habits, and the small truths of modern life.",
       "birth_year": 1970,
       "quote_count": 1
     },
@@ -3900,6 +4800,132 @@
       "name": "J.M. Barrie",
       "bio": "Scottish novelist and playwright",
       "birth_year": 1860,
+      "quote_count": 1
+    },
+    {
+      "name": "Michael Porter",
+      "bio": "American academic known for his theories on economics and business strategy.",
+      "birth_year": 1947,
+      "quote_count": 1
+    },
+    {
+      "name": "Jack Welch",
+      "bio": "American business executive and author",
+      "birth_year": 1935,
+      "quote_count": 1
+    },
+    {
+      "name": "William James",
+      "bio": "American philosopher and psychologist",
+      "birth_year": 1842,
+      "quote_count": 1
+    },
+    {
+      "name": "Sun Tzu (Fictionalized)",
+      "bio": "An expanded interpretation of the ancient Chinese military strategist.",
+      "birth_year": -544,
+      "quote_count": 1
+    },
+    {
+      "name": "Jamie Notter",
+      "bio": "American author and speaker on organizational culture and change.",
+      "birth_year": null,
+      "quote_count": 1
+    },
+    {
+      "name": "Barack Obama",
+      "bio": "44th President of the United States",
+      "birth_year": 1961,
+      "quote_count": 1
+    },
+    {
+      "name": "Nido Qubein",
+      "bio": "American businessman and motivational speaker",
+      "birth_year": 1948,
+      "quote_count": 1
+    },
+    {
+      "name": "T.S. Eliot",
+      "bio": "Poet, essayist, publisher, playwright, literary critic",
+      "birth_year": 1888,
+      "quote_count": 1
+    },
+    {
+      "name": "Arthur C. Clarke",
+      "bio": "British science fiction writer and inventor",
+      "birth_year": 1917,
+      "quote_count": 1
+    },
+    {
+      "name": "Nina Simone",
+      "bio": "American singer, songwriter, and civil rights activist",
+      "birth_year": 1933,
+      "quote_count": 1
+    },
+    {
+      "name": "Coco Chanel",
+      "bio": "French fashion designer",
+      "birth_year": 1883,
+      "quote_count": 1
+    },
+    {
+      "name": "Hans Hofmann",
+      "bio": "German-American painter and teacher",
+      "birth_year": 1880,
+      "quote_count": 1
+    },
+    {
+      "name": "André Gide",
+      "bio": "French author",
+      "birth_year": 1869,
+      "quote_count": 1
+    },
+    {
+      "name": "Klee, Paul",
+      "bio": "Swiss-German artist",
+      "birth_year": 1879,
+      "quote_count": 1
+    },
+    {
+      "name": "Michael von Clausewitz (Fictionalized)",
+      "bio": "An expanded interpretation of the Prussian general and military theorist.",
+      "birth_year": 1780,
+      "quote_count": 1
+    },
+    {
+      "name": "Rick Warren",
+      "bio": "American evangelical Christian pastor and author.",
+      "birth_year": 1954,
+      "quote_count": 1
+    },
+    {
+      "name": "Jonas Salk",
+      "bio": "American virologist and medical researcher",
+      "birth_year": 1914,
+      "quote_count": 1
+    },
+    {
+      "name": "Dhirubhai Ambani",
+      "bio": "Indian business tycoon",
+      "birth_year": 1932,
+      "quote_count": 1
+    },
+    {
+      "name": "Voltaire",
+      "bio": "French Enlightenment writer, historian, and philosopher",
+      "birth_year": 1694,
+      "quote_count": 1
+    },
+    {
+      "name": "Marissa Mayer",
+      "bio": "American business executive and investor",
+      "birth_year": 1975,
+      "quote_count": 1
+    },
+    {
+      "name": "John Dewey",
+      "bio": "American philosopher, psychologist, and educational reformer",
+      "birth_year": 1859,
       "quote_count": 1
     }
   ]
