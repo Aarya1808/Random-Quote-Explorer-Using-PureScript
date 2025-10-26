@@ -7,7 +7,10 @@
       "category": "motivation",
       "year": 2005,
       "source": "Stanford Commencement",
-      "tags": ["innovation", "learning"]
+      "tags": [
+        "innovation",
+        "learning"
+      ]
     },
     {
       "id": 2,
@@ -16,7 +19,10 @@
       "category": "programming",
       "year": null,
       "source": "Twitter",
-      "tags": ["coding", "humor"]
+      "tags": [
+        "coding",
+        "humor"
+      ]
     },
     {
       "id": 3,
@@ -25,7 +31,10 @@
       "category": "programming",
       "year": 2000,
       "source": "Linux Mailing List",
-      "tags": ["action", "programming"]
+      "tags": [
+        "action",
+        "programming"
+      ]
     },
     {
       "id": 4,
@@ -34,7 +43,10 @@
       "category": "programming",
       "year": 1978,
       "source": "The C Programming Language",
-      "tags": ["learning", "programming"]
+      "tags": [
+        "learning",
+        "programming"
+      ]
     },
     {
       "id": 5,
@@ -43,7 +55,10 @@
       "category": "wisdom",
       "year": 1892,
       "source": "Lady Windermere's Fan",
-      "tags": ["experience", "learning"]
+      "tags": [
+        "experience",
+        "learning"
+      ]
     },
     {
       "id": 6,
@@ -52,7 +67,10 @@
       "category": "programming",
       "year": 2008,
       "source": "Refactoring",
-      "tags": ["clean code", "programming"]
+      "tags": [
+        "clean code",
+        "programming"
+      ]
     },
     {
       "id": 7,
@@ -61,7 +79,10 @@
       "category": "programming",
       "year": null,
       "source": "Unknown",
-      "tags": ["problem-solving", "programming"]
+      "tags": [
+        "problem-solving",
+        "programming"
+      ]
     },
     {
       "id": 8,
@@ -70,7 +91,10 @@
       "category": "innovation",
       "year": 1971,
       "source": "Xerox PARC",
-      "tags": ["innovation", "future"]
+      "tags": [
+        "innovation",
+        "future"
+      ]
     },
     {
       "id": 9,
@@ -79,7 +103,10 @@
       "category": "wisdom",
       "year": 1907,
       "source": "The Eye of Osiris",
-      "tags": ["simplicity", "efficiency"]
+      "tags": [
+        "simplicity",
+        "efficiency"
+      ]
     },
     {
       "id": 10,
@@ -88,7 +115,10 @@
       "category": "programming",
       "year": null,
       "source": "Extreme Programming",
-      "tags": ["development", "best practices"]
+      "tags": [
+        "development",
+        "best practices"
+      ]
     },
     {
       "id": 11,
@@ -97,7 +127,10 @@
       "category": "innovation",
       "year": 1998,
       "source": "Think Different Campaign",
-      "tags": ["innovation", "leadership"]
+      "tags": [
+        "innovation",
+        "leadership"
+      ]
     },
     {
       "id": 12,
@@ -106,7 +139,10 @@
       "category": "motivation",
       "year": null,
       "source": "Speeches",
-      "tags": ["resilience", "perseverance"]
+      "tags": [
+        "resilience",
+        "perseverance"
+      ]
     },
     {
       "id": 13,
@@ -115,7 +151,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Ancient Philosophy",
-      "tags": ["perspective", "resilience"]
+      "tags": [
+        "perspective",
+        "resilience"
+      ]
     },
     {
       "id": 14,
@@ -124,7 +163,10 @@
       "category": "motivation",
       "year": null,
       "source": "Personal Development",
-      "tags": ["action", "motivation"]
+      "tags": [
+        "action",
+        "motivation"
+      ]
     },
     {
       "id": 15,
@@ -133,7 +175,10 @@
       "category": "wisdom",
       "year": 2006,
       "source": "Apple Design Philosophy",
-      "tags": ["design", "simplicity"]
+      "tags": [
+        "design",
+        "simplicity"
+      ]
     },
     {
       "id": 16,
@@ -142,7 +187,10 @@
       "category": "wisdom",
       "year": 1980,
       "source": "Beautiful Boy",
-      "tags": ["life", "perspective"]
+      "tags": [
+        "life",
+        "perspective"
+      ]
     },
     {
       "id": 17,
@@ -151,7 +199,10 @@
       "category": "motivation",
       "year": null,
       "source": "Sports Philosophy",
-      "tags": ["action", "risk-taking"]
+      "tags": [
+        "action",
+        "risk-taking"
+      ]
     },
     {
       "id": 18,
@@ -160,7 +211,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Traditional Wisdom",
-      "tags": ["teamwork", "collaboration"]
+      "tags": [
+        "teamwork",
+        "collaboration"
+      ]
     },
     {
       "id": 19,
@@ -169,7 +223,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Ancient Greece",
-      "tags": ["change", "adaptation"]
+      "tags": [
+        "change",
+        "adaptation"
+      ]
     },
     {
       "id": 20,
@@ -178,7 +235,10 @@
       "category": "motivation",
       "year": 2008,
       "source": "Harvard Commencement",
-      "tags": ["failure", "growth"]
+      "tags": [
+        "failure",
+        "growth"
+      ]
     },
     {
       "id": 21,
@@ -187,7 +247,10 @@
       "category": "motivation",
       "year": null,
       "source": "Personal Development",
-      "tags": ["action", "self-improvement"]
+      "tags": [
+        "action",
+        "self-improvement"
+      ]
     },
     {
       "id": 22,
@@ -196,7 +259,10 @@
       "category": "motivation",
       "year": 2005,
       "source": "Stanford Commencement",
-      "tags": ["authenticity", "purpose"]
+      "tags": [
+        "authenticity",
+        "purpose"
+      ]
     },
     {
       "id": 23,
@@ -205,7 +271,10 @@
       "category": "inspiration",
       "year": null,
       "source": "Speeches",
-      "tags": ["dreams", "belief"]
+      "tags": [
+        "dreams",
+        "belief"
+      ]
     },
     {
       "id": 24,
@@ -214,7 +283,10 @@
       "category": "motivation",
       "year": null,
       "source": "Personal Development",
-      "tags": ["persistence", "focus"]
+      "tags": [
+        "persistence",
+        "focus"
+      ]
     },
     {
       "id": 25,
@@ -223,7 +295,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Tao Te Ching",
-      "tags": ["journey", "perseverance"]
+      "tags": [
+        "journey",
+        "perseverance"
+      ]
     },
     {
       "id": 26,
@@ -232,7 +307,10 @@
       "category": "programming",
       "year": 1985,
       "source": "Structure and Interpretation of Computer Programs",
-      "tags": ["clean code", "readability"]
+      "tags": [
+        "clean code",
+        "readability"
+      ]
     },
     {
       "id": 27,
@@ -241,7 +319,10 @@
       "category": "programming",
       "year": null,
       "source": "Epigrams",
-      "tags": ["debugging", "humor"]
+      "tags": [
+        "debugging",
+        "humor"
+      ]
     },
     {
       "id": 28,
@@ -250,7 +331,10 @@
       "category": "programming",
       "year": 1969,
       "source": "EWD30",
-      "tags": ["testing", "quality"]
+      "tags": [
+        "testing",
+        "quality"
+      ]
     },
     {
       "id": 29,
@@ -259,7 +343,10 @@
       "category": "programming",
       "year": null,
       "source": "The Practice of Programming",
-      "tags": ["debugging", "code quality"]
+      "tags": [
+        "debugging",
+        "code quality"
+      ]
     },
     {
       "id": 30,
@@ -268,7 +355,10 @@
       "category": "programming",
       "year": null,
       "source": "Tcl Programming",
-      "tags": ["optimization", "pragmatism"]
+      "tags": [
+        "optimization",
+        "pragmatism"
+      ]
     },
     {
       "id": 31,
@@ -277,7 +367,10 @@
       "category": "programming",
       "year": 1974,
       "source": "The Elements of Programming Style",
-      "tags": ["clean code", "refactoring"]
+      "tags": [
+        "clean code",
+        "refactoring"
+      ]
     },
     {
       "id": 32,
@@ -286,7 +379,10 @@
       "category": "programming",
       "year": null,
       "source": "Software Engineering",
-      "tags": ["optimization", "simplicity"]
+      "tags": [
+        "optimization",
+        "simplicity"
+      ]
     },
     {
       "id": 33,
@@ -295,7 +391,10 @@
       "category": "innovation",
       "year": null,
       "source": "Business Leadership",
-      "tags": ["teamwork", "excellence"]
+      "tags": [
+        "teamwork",
+        "excellence"
+      ]
     },
     {
       "id": 34,
@@ -304,7 +403,10 @@
       "category": "innovation",
       "year": null,
       "source": "Startups",
-      "tags": ["execution", "action"]
+      "tags": [
+        "execution",
+        "action"
+      ]
     },
     {
       "id": 35,
@@ -313,7 +415,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Speeches",
-      "tags": ["perspective", "resilience"]
+      "tags": [
+        "perspective",
+        "resilience"
+      ]
     },
     {
       "id": 36,
@@ -322,7 +427,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Ancient Philosophy",
-      "tags": ["humility", "learning"]
+      "tags": [
+        "humility",
+        "learning"
+      ]
     },
     {
       "id": 37,
@@ -331,7 +439,10 @@
       "category": "wisdom",
       "year": 1890,
       "source": "Personal Philosophy",
-      "tags": ["authenticity", "individuality"]
+      "tags": [
+        "authenticity",
+        "individuality"
+      ]
     },
     {
       "id": 38,
@@ -340,7 +451,10 @@
       "category": "motivation",
       "year": null,
       "source": "Personal Development",
-      "tags": ["progress", "growth"]
+      "tags": [
+        "progress",
+        "growth"
+      ]
     },
     {
       "id": 39,
@@ -349,7 +463,10 @@
       "category": "motivation",
       "year": null,
       "source": "Business Philosophy",
-      "tags": ["action", "execution"]
+      "tags": [
+        "action",
+        "execution"
+      ]
     },
     {
       "id": 40,
@@ -358,7 +475,10 @@
       "category": "motivation",
       "year": null,
       "source": "Courage",
-      "tags": ["fear", "courage"]
+      "tags": [
+        "fear",
+        "courage"
+      ]
     },
     {
       "id": 41,
@@ -367,7 +487,10 @@
       "category": "motivation",
       "year": null,
       "source": "Personal Development",
-      "tags": ["potential", "mindset"]
+      "tags": [
+        "potential",
+        "mindset"
+      ]
     },
     {
       "id": 42,
@@ -376,7 +499,10 @@
       "category": "motivation",
       "year": null,
       "source": "Personal Development",
-      "tags": ["discipline", "future"]
+      "tags": [
+        "discipline",
+        "future"
+      ]
     },
     {
       "id": 43,
@@ -385,7 +511,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Financial Wisdom",
-      "tags": ["self-improvement", "learning"]
+      "tags": [
+        "self-improvement",
+        "learning"
+      ]
     },
     {
       "id": 44,
@@ -394,7 +523,10 @@
       "category": "motivation",
       "year": 1945,
       "source": "Speeches",
-      "tags": ["belief", "determination"]
+      "tags": [
+        "belief",
+        "determination"
+      ]
     },
     {
       "id": 45,
@@ -403,7 +535,10 @@
       "category": "programming",
       "year": 2008,
       "source": "Clean Code",
-      "tags": ["testing", "quality assurance"]
+      "tags": [
+        "testing",
+        "quality assurance"
+      ]
     },
     {
       "id": 46,
@@ -412,7 +547,10 @@
       "category": "programming",
       "year": null,
       "source": "Programming Humor",
-      "tags": ["caution", "humor"]
+      "tags": [
+        "caution",
+        "humor"
+      ]
     },
     {
       "id": 47,
@@ -421,7 +559,10 @@
       "category": "programming",
       "year": 1999,
       "source": "The Zen of Python",
-      "tags": ["code philosophy", "clarity"]
+      "tags": [
+        "code philosophy",
+        "clarity"
+      ]
     },
     {
       "id": 48,
@@ -430,7 +571,10 @@
       "category": "programming",
       "year": null,
       "source": "Design Patterns",
-      "tags": ["pragmatism", "usability"]
+      "tags": [
+        "pragmatism",
+        "usability"
+      ]
     },
     {
       "id": 49,
@@ -439,7 +583,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Technology Essays",
-      "tags": ["complexity", "evolution"]
+      "tags": [
+        "complexity",
+        "evolution"
+      ]
     },
     {
       "id": 50,
@@ -448,7 +595,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Philosophy",
-      "tags": ["humility", "wisdom"]
+      "tags": [
+        "humility",
+        "wisdom"
+      ]
     },
     {
       "id": 51,
@@ -457,7 +607,10 @@
       "category": "science",
       "year": 1980,
       "source": "Cosmos",
-      "tags": ["knowledge", "curiosity"]
+      "tags": [
+        "knowledge",
+        "curiosity"
+      ]
     },
     {
       "id": 52,
@@ -466,7 +619,10 @@
       "category": "inspiration",
       "year": null,
       "source": "Writings",
-      "tags": ["action", "creativity"]
+      "tags": [
+        "action",
+        "creativity"
+      ]
     },
     {
       "id": 53,
@@ -475,7 +631,10 @@
       "category": "business",
       "year": 1954,
       "source": "The Practice of Management",
-      "tags": ["strategy", "marketing"]
+      "tags": [
+        "strategy",
+        "marketing"
+      ]
     },
     {
       "id": 54,
@@ -484,7 +643,11 @@
       "category": "innovation",
       "year": null,
       "source": "Startup Advice",
-      "tags": ["launch", "speed", "pragmatism"]
+      "tags": [
+        "launch",
+        "speed",
+        "pragmatism"
+      ]
     },
     {
       "id": 55,
@@ -493,7 +656,10 @@
       "category": "motivation",
       "year": null,
       "source": "Interviews",
-      "tags": ["success", "persistence"]
+      "tags": [
+        "success",
+        "persistence"
+      ]
     },
     {
       "id": 56,
@@ -502,7 +668,10 @@
       "category": "business",
       "year": null,
       "source": "Speeches",
-      "tags": ["risk", "courage"]
+      "tags": [
+        "risk",
+        "courage"
+      ]
     },
     {
       "id": 57,
@@ -511,7 +680,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Notebooks",
-      "tags": ["learning", "mind"]
+      "tags": [
+        "learning",
+        "mind"
+      ]
     },
     {
       "id": 58,
@@ -520,7 +692,10 @@
       "category": "art",
       "year": null,
       "source": "Interviews",
-      "tags": ["creativity", "artistry"]
+      "tags": [
+        "creativity",
+        "artistry"
+      ]
     },
     {
       "id": 59,
@@ -529,7 +704,10 @@
       "category": "programming",
       "year": 1989,
       "source": "T-Shirts",
-      "tags": ["pragmatism", "theory"]
+      "tags": [
+        "pragmatism",
+        "theory"
+      ]
     },
     {
       "id": 60,
@@ -538,7 +716,10 @@
       "category": "innovation",
       "year": null,
       "source": "Attribution",
-      "tags": ["creativity", "intelligence"]
+      "tags": [
+        "creativity",
+        "intelligence"
+      ]
     },
     {
       "id": 61,
@@ -547,7 +728,11 @@
       "category": "motivation",
       "year": null,
       "source": "Martial Arts Philosophy",
-      "tags": ["focus", "practice", "mastery"]
+      "tags": [
+        "focus",
+        "practice",
+        "mastery"
+      ]
     },
     {
       "id": 62,
@@ -556,7 +741,11 @@
       "category": "programming",
       "year": 2012,
       "source": "Software Convention Keynote",
-      "tags": ["readability", "clean code", "collaboration"]
+      "tags": [
+        "readability",
+        "clean code",
+        "collaboration"
+      ]
     },
     {
       "id": 63,
@@ -565,7 +754,11 @@
       "category": "science",
       "year": 1888,
       "source": "Philosophical Transactions",
-      "tags": ["curiosity", "discovery", "skepticism"]
+      "tags": [
+        "curiosity",
+        "discovery",
+        "skepticism"
+      ]
     },
     {
       "id": 64,
@@ -574,7 +767,11 @@
       "category": "art",
       "year": 1755,
       "source": "Letters to a Patron",
-      "tags": ["calm", "creation", "patience"]
+      "tags": [
+        "calm",
+        "creation",
+        "patience"
+      ]
     },
     {
       "id": 65,
@@ -583,7 +780,11 @@
       "category": "business",
       "year": 1910,
       "source": "Business Almanac",
-      "tags": ["strategy", "inquiry", "wisdom"]
+      "tags": [
+        "strategy",
+        "inquiry",
+        "wisdom"
+      ]
     },
     {
       "id": 66,
@@ -592,7 +793,10 @@
       "category": "business",
       "year": 1999,
       "source": "Business @ the Speed of Thought",
-      "tags": ["efficiency", "technology"]
+      "tags": [
+        "efficiency",
+        "technology"
+      ]
     },
     {
       "id": 67,
@@ -601,7 +805,11 @@
       "category": "science",
       "year": null,
       "source": "Attribution",
-      "tags": ["discovery", "curiosity", "science"]
+      "tags": [
+        "discovery",
+        "curiosity",
+        "science"
+      ]
     },
     {
       "id": 68,
@@ -610,7 +818,11 @@
       "category": "art",
       "year": null,
       "source": "Interviews",
-      "tags": ["reality", "authenticity", "expression"]
+      "tags": [
+        "reality",
+        "authenticity",
+        "expression"
+      ]
     },
     {
       "id": 69,
@@ -619,7 +831,11 @@
       "category": "motivation",
       "year": 2005,
       "source": "Stanford Commencement",
-      "tags": ["passion", "work", "excellence"]
+      "tags": [
+        "passion",
+        "work",
+        "excellence"
+      ]
     },
     {
       "id": 70,
@@ -628,7 +844,10 @@
       "category": "programming",
       "year": null,
       "source": "Attribution",
-      "tags": ["metrics", "quality"]
+      "tags": [
+        "metrics",
+        "quality"
+      ]
     },
     {
       "id": 71,
@@ -637,7 +856,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["perspective", "acceptance"]
+      "tags": [
+        "perspective",
+        "acceptance"
+      ]
     },
     {
       "id": 72,
@@ -646,7 +868,10 @@
       "category": "inspiration",
       "year": null,
       "source": "Attribution",
-      "tags": ["leadership", "hope"]
+      "tags": [
+        "leadership",
+        "hope"
+      ]
     },
     {
       "id": 73,
@@ -655,7 +880,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["persistence", "success"]
+      "tags": [
+        "persistence",
+        "success"
+      ]
     },
     {
       "id": 74,
@@ -664,7 +892,10 @@
       "category": "motivation",
       "year": null,
       "source": "Interviews",
-      "tags": ["failure", "growth"]
+      "tags": [
+        "failure",
+        "growth"
+      ]
     },
     {
       "id": 75,
@@ -673,7 +904,11 @@
       "category": "programming",
       "year": 2018,
       "source": "UX Design Manifesto",
-      "tags": ["design", "usability", "caution"]
+      "tags": [
+        "design",
+        "usability",
+        "caution"
+      ]
     },
     {
       "id": 76,
@@ -682,7 +917,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Ancient Poetry",
-      "tags": ["health", "value"]
+      "tags": [
+        "health",
+        "value"
+      ]
     },
     {
       "id": 77,
@@ -691,7 +929,10 @@
       "category": "science",
       "year": 1974,
       "source": "Caltech Commencement",
-      "tags": ["honesty", "self-reflection"]
+      "tags": [
+        "honesty",
+        "self-reflection"
+      ]
     },
     {
       "id": 78,
@@ -700,7 +941,10 @@
       "category": "art",
       "year": null,
       "source": "Attribution",
-      "tags": ["humanity", "expression"]
+      "tags": [
+        "humanity",
+        "expression"
+      ]
     },
     {
       "id": 79,
@@ -709,7 +953,10 @@
       "category": "motivation",
       "year": null,
       "source": "Essays",
-      "tags": ["action", "risk-taking"]
+      "tags": [
+        "action",
+        "risk-taking"
+      ]
     },
     {
       "id": 80,
@@ -718,7 +965,11 @@
       "category": "business",
       "year": 1935,
       "source": "Investor's Letters",
-      "tags": ["knowledge", "secret", "strategy"]
+      "tags": [
+        "knowledge",
+        "secret",
+        "strategy"
+      ]
     },
     {
       "id": 81,
@@ -727,7 +978,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Speeches",
-      "tags": ["failure", "learning"]
+      "tags": [
+        "failure",
+        "learning"
+      ]
     },
     {
       "id": 82,
@@ -736,7 +990,10 @@
       "category": "innovation",
       "year": null,
       "source": "Attribution",
-      "tags": ["imagination", "creativity"]
+      "tags": [
+        "imagination",
+        "creativity"
+      ]
     },
     {
       "id": 83,
@@ -745,7 +1002,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["change", "mindset"]
+      "tags": [
+        "change",
+        "mindset"
+      ]
     },
     {
       "id": 84,
@@ -754,7 +1014,10 @@
       "category": "innovation",
       "year": null,
       "source": "Attribution",
-      "tags": ["change", "opportunity"]
+      "tags": [
+        "change",
+        "opportunity"
+      ]
     },
     {
       "id": 85,
@@ -763,7 +1026,10 @@
       "category": "science",
       "year": null,
       "source": "Attribution",
-      "tags": ["mystery", "awe"]
+      "tags": [
+        "mystery",
+        "awe"
+      ]
     },
     {
       "id": 86,
@@ -772,7 +1038,10 @@
       "category": "art",
       "year": null,
       "source": "Attribution",
-      "tags": ["design", "simplicity"]
+      "tags": [
+        "design",
+        "simplicity"
+      ]
     },
     {
       "id": 87,
@@ -781,7 +1050,10 @@
       "category": "business",
       "year": null,
       "source": "Quality Management",
-      "tags": ["customer focus", "quality"]
+      "tags": [
+        "customer focus",
+        "quality"
+      ]
     },
     {
       "id": 88,
@@ -790,7 +1062,10 @@
       "category": "programming",
       "year": 1974,
       "source": "Structured Programming with go to Statements",
-      "tags": ["optimization", "pragmatism"]
+      "tags": [
+        "optimization",
+        "pragmatism"
+      ]
     },
     {
       "id": 89,
@@ -799,7 +1074,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["experience", "learning"]
+      "tags": [
+        "experience",
+        "learning"
+      ]
     },
     {
       "id": 90,
@@ -808,7 +1086,10 @@
       "category": "art",
       "year": 1948,
       "source": "Art & Observation",
-      "tags": ["critique", "perspective"]
+      "tags": [
+        "critique",
+        "perspective"
+      ]
     },
     {
       "id": 91,
@@ -817,7 +1098,11 @@
       "category": "programming",
       "year": 1988,
       "source": "The Design of Everyday Things",
-      "tags": ["design", "usability", "responsibility"]
+      "tags": [
+        "design",
+        "usability",
+        "responsibility"
+      ]
     },
     {
       "id": 92,
@@ -826,7 +1111,10 @@
       "category": "inspiration",
       "year": null,
       "source": "Attribution",
-      "tags": ["creativity", "abundance"]
+      "tags": [
+        "creativity",
+        "abundance"
+      ]
     },
     {
       "id": 93,
@@ -835,7 +1123,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["ambition", "goals"]
+      "tags": [
+        "ambition",
+        "goals"
+      ]
     },
     {
       "id": 94,
@@ -844,7 +1135,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Analects",
-      "tags": ["action", "persistence"]
+      "tags": [
+        "action",
+        "persistence"
+      ]
     },
     {
       "id": 95,
@@ -853,7 +1147,10 @@
       "category": "science",
       "year": null,
       "source": "Attribution",
-      "tags": ["technology", "future"]
+      "tags": [
+        "technology",
+        "future"
+      ]
     },
     {
       "id": 96,
@@ -862,7 +1159,10 @@
       "category": "innovation",
       "year": null,
       "source": "Attribution",
-      "tags": ["imagination", "creativity"]
+      "tags": [
+        "imagination",
+        "creativity"
+      ]
     },
     {
       "id": 97,
@@ -871,7 +1171,10 @@
       "category": "motivation",
       "year": 1380,
       "source": "The Knight's Code",
-      "tags": ["self-improvement", "discipline"]
+      "tags": [
+        "self-improvement",
+        "discipline"
+      ]
     },
     {
       "id": 98,
@@ -880,7 +1183,11 @@
       "category": "business",
       "year": 1985,
       "source": "Innovation and Entrepreneurship",
-      "tags": ["change", "opportunity", "strategy"]
+      "tags": [
+        "change",
+        "opportunity",
+        "strategy"
+      ]
     },
     {
       "id": 99,
@@ -889,7 +1196,10 @@
       "category": "art",
       "year": null,
       "source": "Attribution",
-      "tags": ["soul", "expression"]
+      "tags": [
+        "soul",
+        "expression"
+      ]
     },
     {
       "id": 100,
@@ -898,7 +1208,11 @@
       "category": "wisdom",
       "year": 1968,
       "source": "The Systems Thinker",
-      "tags": ["simplicity", "communication", "clarity"]
+      "tags": [
+        "simplicity",
+        "communication",
+        "clarity"
+      ]
     },
     {
       "id": 101,
@@ -907,7 +1221,11 @@
       "category": "motivation",
       "year": -150,
       "source": "Naval Stratagems",
-      "tags": ["proactivity", "courage", "action"]
+      "tags": [
+        "proactivity",
+        "courage",
+        "action"
+      ]
     },
     {
       "id": 102,
@@ -916,7 +1234,11 @@
       "category": "programming",
       "year": 1840,
       "source": "The Analytical Engine Notes",
-      "tags": ["readability", "legacy", "clean code"]
+      "tags": [
+        "readability",
+        "legacy",
+        "clean code"
+      ]
     },
     {
       "id": 103,
@@ -925,7 +1247,10 @@
       "category": "art",
       "year": null,
       "source": "Interviews",
-      "tags": ["creation", "freedom"]
+      "tags": [
+        "creation",
+        "freedom"
+      ]
     },
     {
       "id": 104,
@@ -934,7 +1259,11 @@
       "category": "science",
       "year": 1910,
       "source": "Laboratory Notes",
-      "tags": ["discovery", "persistence", "research"]
+      "tags": [
+        "discovery",
+        "persistence",
+        "research"
+      ]
     },
     {
       "id": 105,
@@ -943,7 +1272,10 @@
       "category": "motivation",
       "year": null,
       "source": "Martial Arts Philosophy",
-      "tags": ["focus", "discipline"]
+      "tags": [
+        "focus",
+        "discipline"
+      ]
     },
     {
       "id": 106,
@@ -952,7 +1284,11 @@
       "category": "business",
       "year": 1980,
       "source": "Managing in Turbulent Times",
-      "tags": ["change", "strategy", "innovation"]
+      "tags": [
+        "change",
+        "strategy",
+        "innovation"
+      ]
     },
     {
       "id": 107,
@@ -961,7 +1297,11 @@
       "category": "programming",
       "year": 2021,
       "source": "Deployment Diaries",
-      "tags": ["testing", "deployment", "reality"]
+      "tags": [
+        "testing",
+        "deployment",
+        "reality"
+      ]
     },
     {
       "id": 108,
@@ -970,7 +1310,11 @@
       "category": "wisdom",
       "year": -500,
       "source": "Temple Inscriptions",
-      "tags": ["inquiry", "skepticism", "learning"]
+      "tags": [
+        "inquiry",
+        "skepticism",
+        "learning"
+      ]
     },
     {
       "id": 109,
@@ -979,7 +1323,10 @@
       "category": "innovation",
       "year": 1996,
       "source": "Wired Interview",
-      "tags": ["connections", "insight"]
+      "tags": [
+        "connections",
+        "insight"
+      ]
     },
     {
       "id": 110,
@@ -988,7 +1335,11 @@
       "category": "wisdom",
       "year": null,
       "source": "Writings",
-      "tags": ["life", "perspective", "humor"]
+      "tags": [
+        "life",
+        "perspective",
+        "humor"
+      ]
     },
     {
       "id": 111,
@@ -997,7 +1348,10 @@
       "category": "business",
       "year": 2005,
       "source": "Startup Handbook",
-      "tags": ["persistence", "execution"]
+      "tags": [
+        "persistence",
+        "execution"
+      ]
     },
     {
       "id": 112,
@@ -1006,7 +1360,11 @@
       "category": "art",
       "year": null,
       "source": "Writings",
-      "tags": ["work ethic", "talent", "creation"]
+      "tags": [
+        "work ethic",
+        "talent",
+        "creation"
+      ]
     },
     {
       "id": 113,
@@ -1015,7 +1373,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Poor Richard's Almanack",
-      "tags": ["learning", "value"]
+      "tags": [
+        "learning",
+        "value"
+      ]
     },
     {
       "id": 114,
@@ -1024,7 +1385,10 @@
       "category": "science",
       "year": null,
       "source": "Attribution",
-      "tags": ["nature", "understanding"]
+      "tags": [
+        "nature",
+        "understanding"
+      ]
     },
     {
       "id": 115,
@@ -1033,7 +1397,10 @@
       "category": "motivation",
       "year": null,
       "source": "Letters",
-      "tags": ["responsibility", "success"]
+      "tags": [
+        "responsibility",
+        "success"
+      ]
     },
     {
       "id": 116,
@@ -1042,7 +1409,11 @@
       "category": "innovation",
       "year": 1920,
       "source": "The Industrial Mind",
-      "tags": ["change", "proactivity", "leadership"]
+      "tags": [
+        "change",
+        "proactivity",
+        "leadership"
+      ]
     },
     {
       "id": 117,
@@ -1051,7 +1422,10 @@
       "category": "programming",
       "year": null,
       "source": "Forum Lore",
-      "tags": ["humor", "pragmatism"]
+      "tags": [
+        "humor",
+        "pragmatism"
+      ]
     },
     {
       "id": 118,
@@ -1060,7 +1434,10 @@
       "category": "inspiration",
       "year": 1968,
       "source": "Speeches",
-      "tags": ["courage", "action"]
+      "tags": [
+        "courage",
+        "action"
+      ]
     },
     {
       "id": 119,
@@ -1069,7 +1446,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["clarity", "understanding"]
+      "tags": [
+        "clarity",
+        "understanding"
+      ]
     },
     {
       "id": 120,
@@ -1078,7 +1458,11 @@
       "category": "business",
       "year": 1992,
       "source": "Wall Street Journal Interview",
-      "tags": ["art", "passion", "intuition"]
+      "tags": [
+        "art",
+        "passion",
+        "intuition"
+      ]
     },
     {
       "id": 121,
@@ -1087,7 +1471,11 @@
       "category": "innovation",
       "year": -40,
       "source": "The Annals of Tomorrow",
-      "tags": ["future", "action", "responsibility"]
+      "tags": [
+        "future",
+        "action",
+        "responsibility"
+      ]
     },
     {
       "id": 122,
@@ -1096,7 +1484,10 @@
       "category": "programming",
       "year": null,
       "source": "Software Folklore",
-      "tags": ["simplicity", "optimization"]
+      "tags": [
+        "simplicity",
+        "optimization"
+      ]
     },
     {
       "id": 123,
@@ -1105,7 +1496,10 @@
       "category": "science",
       "year": null,
       "source": "Attribution",
-      "tags": ["knowledge", "skepticism"]
+      "tags": [
+        "knowledge",
+        "skepticism"
+      ]
     },
     {
       "id": 124,
@@ -1114,7 +1508,10 @@
       "category": "art",
       "year": null,
       "source": "Writings",
-      "tags": ["learning", "growth"]
+      "tags": [
+        "learning",
+        "growth"
+      ]
     },
     {
       "id": 125,
@@ -1123,7 +1520,10 @@
       "category": "motivation",
       "year": null,
       "source": "Interviews",
-      "tags": ["struggle", "resilience"]
+      "tags": [
+        "struggle",
+        "resilience"
+      ]
     },
     {
       "id": 126,
@@ -1132,7 +1532,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Traditional Wisdom",
-      "tags": ["action", "procrastination"]
+      "tags": [
+        "action",
+        "procrastination"
+      ]
     },
     {
       "id": 127,
@@ -1141,7 +1544,10 @@
       "category": "motivation",
       "year": null,
       "source": "Speeches",
-      "tags": ["learning", "failure"]
+      "tags": [
+        "learning",
+        "failure"
+      ]
     },
     {
       "id": 128,
@@ -1150,7 +1556,10 @@
       "category": "innovation",
       "year": null,
       "source": "The General Theory",
-      "tags": ["change", "mindset"]
+      "tags": [
+        "change",
+        "mindset"
+      ]
     },
     {
       "id": 129,
@@ -1159,7 +1568,10 @@
       "category": "business",
       "year": null,
       "source": "Marketing Management",
-      "tags": ["marketing", "customer focus"]
+      "tags": [
+        "marketing",
+        "customer focus"
+      ]
     },
     {
       "id": 130,
@@ -1168,7 +1580,11 @@
       "category": "programming",
       "year": 1995,
       "source": "Coding Dojo Lore",
-      "tags": ["syntax", "pragmatism", "clarity"]
+      "tags": [
+        "syntax",
+        "pragmatism",
+        "clarity"
+      ]
     },
     {
       "id": 131,
@@ -1177,7 +1593,10 @@
       "category": "motivation",
       "year": null,
       "source": "Speeches",
-      "tags": ["work ethic", "determination"]
+      "tags": [
+        "work ethic",
+        "determination"
+      ]
     },
     {
       "id": 132,
@@ -1186,7 +1605,10 @@
       "category": "science",
       "year": null,
       "source": "Attribution",
-      "tags": ["inquiry", "curiosity"]
+      "tags": [
+        "inquiry",
+        "curiosity"
+      ]
     },
     {
       "id": 133,
@@ -1195,7 +1617,10 @@
       "category": "art",
       "year": null,
       "source": "Attribution",
-      "tags": ["truth", "expression"]
+      "tags": [
+        "truth",
+        "expression"
+      ]
     },
     {
       "id": 134,
@@ -1204,7 +1629,11 @@
       "category": "wisdom",
       "year": null,
       "source": "Personal Development",
-      "tags": ["change", "progress", "action"]
+      "tags": [
+        "change",
+        "progress",
+        "action"
+      ]
     },
     {
       "id": 135,
@@ -1213,7 +1642,10 @@
       "category": "innovation",
       "year": null,
       "source": "Attribution",
-      "tags": ["execution", "action"]
+      "tags": [
+        "execution",
+        "action"
+      ]
     },
     {
       "id": 136,
@@ -1222,7 +1654,10 @@
       "category": "business",
       "year": null,
       "source": "Attribution",
-      "tags": ["art", "creativity"]
+      "tags": [
+        "art",
+        "creativity"
+      ]
     },
     {
       "id": 137,
@@ -1231,7 +1666,10 @@
       "category": "motivation",
       "year": null,
       "source": "Nicomachean Ethics",
-      "tags": ["excellence", "discipline"]
+      "tags": [
+        "excellence",
+        "discipline"
+      ]
     },
     {
       "id": 138,
@@ -1240,7 +1678,11 @@
       "category": "programming",
       "year": 2015,
       "source": "Developer Blog",
-      "tags": ["ux", "difficulty", "design"]
+      "tags": [
+        "ux",
+        "difficulty",
+        "design"
+      ]
     },
     {
       "id": 139,
@@ -1249,7 +1691,10 @@
       "category": "motivation",
       "year": 1903,
       "source": "Harpers Monthly",
-      "tags": ["work ethic", "persistence"]
+      "tags": [
+        "work ethic",
+        "persistence"
+      ]
     },
     {
       "id": 140,
@@ -1258,7 +1703,11 @@
       "category": "science",
       "year": null,
       "source": "Attribution",
-      "tags": ["research", "curiosity", "unknown"]
+      "tags": [
+        "research",
+        "curiosity",
+        "unknown"
+      ]
     },
     {
       "id": 141,
@@ -1267,7 +1716,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["curiosity", "learning"]
+      "tags": [
+        "curiosity",
+        "learning"
+      ]
     },
     {
       "id": 142,
@@ -1276,7 +1728,10 @@
       "category": "inspiration",
       "year": null,
       "source": "Rosencrantz and Guildenstern Are Dead",
-      "tags": ["change", "perspective"]
+      "tags": [
+        "change",
+        "perspective"
+      ]
     },
     {
       "id": 143,
@@ -1285,7 +1740,10 @@
       "category": "business",
       "year": 1855,
       "source": "Marketing Maxims",
-      "tags": ["strategy", "differentiation"]
+      "tags": [
+        "strategy",
+        "differentiation"
+      ]
     },
     {
       "id": 144,
@@ -1294,7 +1752,10 @@
       "category": "art",
       "year": null,
       "source": "Attribution (popularized by Steve Jobs)",
-      "tags": ["innovation", "creativity"]
+      "tags": [
+        "innovation",
+        "creativity"
+      ]
     },
     {
       "id": 145,
@@ -1303,7 +1764,11 @@
       "category": "programming",
       "year": 2010,
       "source": "Agile Methodologies",
-      "tags": ["persistence", "process", "analogy"]
+      "tags": [
+        "persistence",
+        "process",
+        "analogy"
+      ]
     },
     {
       "id": 146,
@@ -1312,7 +1777,10 @@
       "category": "motivation",
       "year": null,
       "source": "Interviews",
-      "tags": ["mindset", "change"]
+      "tags": [
+        "mindset",
+        "change"
+      ]
     },
     {
       "id": 147,
@@ -1321,7 +1789,10 @@
       "category": "science",
       "year": 1980,
       "source": "Cosmos",
-      "tags": ["humility", "perspective"]
+      "tags": [
+        "humility",
+        "perspective"
+      ]
     },
     {
       "id": 148,
@@ -1330,7 +1801,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Traditional Wisdom",
-      "tags": ["individuality", "decision-making"]
+      "tags": [
+        "individuality",
+        "decision-making"
+      ]
     },
     {
       "id": 149,
@@ -1339,7 +1813,11 @@
       "category": "innovation",
       "year": null,
       "source": "Racing Philosophy",
-      "tags": ["risk", "speed", "change"]
+      "tags": [
+        "risk",
+        "speed",
+        "change"
+      ]
     },
     {
       "id": 150,
@@ -1348,7 +1826,10 @@
       "category": "business",
       "year": null,
       "source": "Attribution",
-      "tags": ["purpose", "value"]
+      "tags": [
+        "purpose",
+        "value"
+      ]
     },
     {
       "id": 151,
@@ -1357,7 +1838,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Interviews",
-      "tags": ["learning", "value"]
+      "tags": [
+        "learning",
+        "value"
+      ]
     },
     {
       "id": 152,
@@ -1366,7 +1850,10 @@
       "category": "business",
       "year": null,
       "source": "Attribution",
-      "tags": ["communication", "execution"]
+      "tags": [
+        "communication",
+        "execution"
+      ]
     },
     {
       "id": 153,
@@ -1375,7 +1862,11 @@
       "category": "art",
       "year": null,
       "source": "Writings",
-      "tags": ["doubt", "excellence", "humility"]
+      "tags": [
+        "doubt",
+        "excellence",
+        "humility"
+      ]
     },
     {
       "id": 154,
@@ -1384,7 +1875,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["listening", "reflection"]
+      "tags": [
+        "listening",
+        "reflection"
+      ]
     },
     {
       "id": 155,
@@ -1393,7 +1887,11 @@
       "category": "programming",
       "year": 2003,
       "source": "Architectural Principles",
-      "tags": ["change", "architecture", "flexibility"]
+      "tags": [
+        "change",
+        "architecture",
+        "flexibility"
+      ]
     },
     {
       "id": 156,
@@ -1402,7 +1900,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["observation", "perception"]
+      "tags": [
+        "observation",
+        "perception"
+      ]
     },
     {
       "id": 157,
@@ -1411,7 +1912,11 @@
       "category": "science",
       "year": 1958,
       "source": "Philosophy of Science",
-      "tags": ["logic", "skepticism", "process"]
+      "tags": [
+        "logic",
+        "skepticism",
+        "process"
+      ]
     },
     {
       "id": 158,
@@ -1420,7 +1925,10 @@
       "category": "programming",
       "year": null,
       "source": "The C++ Programming Language",
-      "tags": ["correctness", "pragmatism"]
+      "tags": [
+        "correctness",
+        "pragmatism"
+      ]
     },
     {
       "id": 159,
@@ -1429,7 +1937,10 @@
       "category": "motivation",
       "year": null,
       "source": "Dhammapada",
-      "tags": ["mindset", "self-improvement"]
+      "tags": [
+        "mindset",
+        "self-improvement"
+      ]
     },
     {
       "id": 160,
@@ -1438,7 +1949,11 @@
       "category": "business",
       "year": 2005,
       "source": "Startup Handbook",
-      "tags": ["failure", "growth", "innovation"]
+      "tags": [
+        "failure",
+        "growth",
+        "innovation"
+      ]
     },
     {
       "id": 161,
@@ -1447,7 +1962,10 @@
       "category": "inspiration",
       "year": null,
       "source": "Attribution",
-      "tags": ["mindset", "optimism"]
+      "tags": [
+        "mindset",
+        "optimism"
+      ]
     },
     {
       "id": 162,
@@ -1456,7 +1974,10 @@
       "category": "art",
       "year": null,
       "source": "Speeches",
-      "tags": ["creation", "humanity"]
+      "tags": [
+        "creation",
+        "humanity"
+      ]
     },
     {
       "id": 163,
@@ -1465,7 +1986,11 @@
       "category": "programming",
       "year": 1975,
       "source": "Systemantics",
-      "tags": ["simplicity", "evolution", "architecture"]
+      "tags": [
+        "simplicity",
+        "evolution",
+        "architecture"
+      ]
     },
     {
       "id": 164,
@@ -1474,7 +1999,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["value", "purpose"]
+      "tags": [
+        "value",
+        "purpose"
+      ]
     },
     {
       "id": 165,
@@ -1483,7 +2011,11 @@
       "category": "science",
       "year": 1972,
       "source": "Cognitive Studies",
-      "tags": ["mind", "thought", "curiosity"]
+      "tags": [
+        "mind",
+        "thought",
+        "curiosity"
+      ]
     },
     {
       "id": 166,
@@ -1492,7 +2024,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["action", "learning"]
+      "tags": [
+        "action",
+        "learning"
+      ]
     },
     {
       "id": 167,
@@ -1501,7 +2036,10 @@
       "category": "innovation",
       "year": null,
       "source": "Attribution",
-      "tags": ["insight", "creativity"]
+      "tags": [
+        "insight",
+        "creativity"
+      ]
     },
     {
       "id": 168,
@@ -1510,7 +2048,10 @@
       "category": "business",
       "year": 1973,
       "source": "Management: Tasks, Responsibilities, Practices",
-      "tags": ["survival", "strategy"]
+      "tags": [
+        "survival",
+        "strategy"
+      ]
     },
     {
       "id": 169,
@@ -1519,7 +2060,11 @@
       "category": "art",
       "year": 1820,
       "source": "Romantic Manifestos",
-      "tags": ["risk", "courage", "expression"]
+      "tags": [
+        "risk",
+        "courage",
+        "expression"
+      ]
     },
     {
       "id": 170,
@@ -1528,7 +2073,10 @@
       "category": "programming",
       "year": 2007,
       "source": "The Passionate Programmer",
-      "tags": ["technical debt", "quality"]
+      "tags": [
+        "technical debt",
+        "quality"
+      ]
     },
     {
       "id": 171,
@@ -1537,7 +2085,10 @@
       "category": "motivation",
       "year": null,
       "source": "Writings",
-      "tags": ["authenticity", "courage"]
+      "tags": [
+        "authenticity",
+        "courage"
+      ]
     },
     {
       "id": 172,
@@ -1546,7 +2097,10 @@
       "category": "wisdom",
       "year": 1982,
       "source": "Megatrends",
-      "tags": ["information", "knowledge"]
+      "tags": [
+        "information",
+        "knowledge"
+      ]
     },
     {
       "id": 173,
@@ -1555,7 +2109,11 @@
       "category": "wisdom",
       "year": 70,
       "source": "Meditations",
-      "tags": ["action", "crisis", "decision-making"]
+      "tags": [
+        "action",
+        "crisis",
+        "decision-making"
+      ]
     },
     {
       "id": 174,
@@ -1564,7 +2122,10 @@
       "category": "innovation",
       "year": 2014,
       "source": "Creativity, Inc.",
-      "tags": ["excellence", "creativity"]
+      "tags": [
+        "excellence",
+        "creativity"
+      ]
     },
     {
       "id": 175,
@@ -1573,7 +2134,10 @@
       "category": "business",
       "year": null,
       "source": "Marketing",
-      "tags": ["customer focus", "marketing"]
+      "tags": [
+        "customer focus",
+        "marketing"
+      ]
     },
     {
       "id": 176,
@@ -1582,7 +2146,10 @@
       "category": "science",
       "year": null,
       "source": "Attribution",
-      "tags": ["truth", "objectivity"]
+      "tags": [
+        "truth",
+        "objectivity"
+      ]
     },
     {
       "id": 177,
@@ -1591,7 +2158,10 @@
       "category": "art",
       "year": null,
       "source": "Interviews",
-      "tags": ["mystery", "perception"]
+      "tags": [
+        "mystery",
+        "perception"
+      ]
     },
     {
       "id": 178,
@@ -1600,7 +2170,11 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["humility", "skepticism", "learning"]
+      "tags": [
+        "humility",
+        "skepticism",
+        "learning"
+      ]
     },
     {
       "id": 179,
@@ -1609,7 +2183,10 @@
       "category": "programming",
       "year": 1985,
       "source": "Systems Analysis Course",
-      "tags": ["planning", "architecture"]
+      "tags": [
+        "planning",
+        "architecture"
+      ]
     },
     {
       "id": 180,
@@ -1618,7 +2195,10 @@
       "category": "humor",
       "year": null,
       "source": "Baseball Quotes",
-      "tags": ["humor", "mindset"]
+      "tags": [
+        "humor",
+        "mindset"
+      ]
     },
     {
       "id": 181,
@@ -1627,7 +2207,10 @@
       "category": "motivation",
       "year": null,
       "source": "Interviews",
-      "tags": ["mindset", "change"]
+      "tags": [
+        "mindset",
+        "change"
+      ]
     },
     {
       "id": 182,
@@ -1636,7 +2219,10 @@
       "category": "innovation",
       "year": 2009,
       "source": "Change by Design",
-      "tags": ["design thinking", "strategy"]
+      "tags": [
+        "design thinking",
+        "strategy"
+      ]
     },
     {
       "id": 183,
@@ -1645,7 +2231,11 @@
       "category": "business",
       "year": 2012,
       "source": "Venture Capitalist Blog",
-      "tags": ["pragmatism", "results", "finance"]
+      "tags": [
+        "pragmatism",
+        "results",
+        "finance"
+      ]
     },
     {
       "id": 184,
@@ -1654,7 +2244,10 @@
       "category": "science",
       "year": null,
       "source": "Attribution",
-      "tags": ["humility", "perspective"]
+      "tags": [
+        "humility",
+        "perspective"
+      ]
     },
     {
       "id": 185,
@@ -1663,7 +2256,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Essays",
-      "tags": ["authenticity", "individuality"]
+      "tags": [
+        "authenticity",
+        "individuality"
+      ]
     },
     {
       "id": 186,
@@ -1672,7 +2268,11 @@
       "category": "art",
       "year": null,
       "source": "Attribution",
-      "tags": ["creation", "destruction", "change"]
+      "tags": [
+        "creation",
+        "destruction",
+        "change"
+      ]
     },
     {
       "id": 187,
@@ -1681,7 +2281,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["action", "efficiency"]
+      "tags": [
+        "action",
+        "efficiency"
+      ]
     },
     {
       "id": 188,
@@ -1690,7 +2293,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["life", "reflection"]
+      "tags": [
+        "life",
+        "reflection"
+      ]
     },
     {
       "id": 189,
@@ -1699,7 +2305,11 @@
       "category": "inspiration",
       "year": 2011,
       "source": "Interviews",
-      "tags": ["optimism", "action", "responsibility"]
+      "tags": [
+        "optimism",
+        "action",
+        "responsibility"
+      ]
     },
     {
       "id": 190,
@@ -1708,7 +2318,11 @@
       "category": "programming",
       "year": null,
       "source": "Attribution",
-      "tags": ["design", "clarity", "humor"]
+      "tags": [
+        "design",
+        "clarity",
+        "humor"
+      ]
     },
     {
       "id": 191,
@@ -1717,7 +2331,11 @@
       "category": "innovation",
       "year": 1993,
       "source": "The Economist Interview",
-      "tags": ["future", "technology", "insight"]
+      "tags": [
+        "future",
+        "technology",
+        "insight"
+      ]
     },
     {
       "id": 192,
@@ -1726,7 +2344,11 @@
       "category": "business",
       "year": null,
       "source": "Attribution",
-      "tags": ["change", "adaptation", "business"]
+      "tags": [
+        "change",
+        "adaptation",
+        "business"
+      ]
     },
     {
       "id": 193,
@@ -1735,7 +2357,10 @@
       "category": "motivation",
       "year": null,
       "source": "Essays",
-      "tags": ["passion", "action"]
+      "tags": [
+        "passion",
+        "action"
+      ]
     },
     {
       "id": 194,
@@ -1744,7 +2369,10 @@
       "category": "science",
       "year": null,
       "source": "Attribution",
-      "tags": ["thought", "simplicity"]
+      "tags": [
+        "thought",
+        "simplicity"
+      ]
     },
     {
       "id": 195,
@@ -1753,7 +2381,10 @@
       "category": "art",
       "year": null,
       "source": "Attribution",
-      "tags": ["impact", "purpose"]
+      "tags": [
+        "impact",
+        "purpose"
+      ]
     },
     {
       "id": 196,
@@ -1762,7 +2393,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Hard Times",
-      "tags": ["emotion", "reason"]
+      "tags": [
+        "emotion",
+        "reason"
+      ]
     },
     {
       "id": 197,
@@ -1771,7 +2405,11 @@
       "category": "programming",
       "year": 2017,
       "source": "DevOps Principles",
-      "tags": ["tooling", "quality", "simplicity"]
+      "tags": [
+        "tooling",
+        "quality",
+        "simplicity"
+      ]
     },
     {
       "id": 198,
@@ -1780,7 +2418,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["success", "determination"]
+      "tags": [
+        "success",
+        "determination"
+      ]
     },
     {
       "id": 199,
@@ -1789,7 +2430,11 @@
       "category": "innovation",
       "year": 1903,
       "source": "Man and Superman",
-      "tags": ["change", "progress", "individuality"]
+      "tags": [
+        "change",
+        "progress",
+        "individuality"
+      ]
     },
     {
       "id": 200,
@@ -1798,7 +2443,11 @@
       "category": "business",
       "year": 1650,
       "source": "On Governance",
-      "tags": ["leadership", "teamwork", "focus"]
+      "tags": [
+        "leadership",
+        "teamwork",
+        "focus"
+      ]
     },
     {
       "id": 201,
@@ -1807,7 +2456,11 @@
       "category": "programming",
       "year": 2023,
       "source": "AI & Ethics Symposium",
-      "tags": ["complexity", "learning", "humility"]
+      "tags": [
+        "complexity",
+        "learning",
+        "humility"
+      ]
     },
     {
       "id": 202,
@@ -1816,7 +2469,10 @@
       "category": "motivation",
       "year": null,
       "source": "Interviews",
-      "tags": ["mindset", "change"]
+      "tags": [
+        "mindset",
+        "change"
+      ]
     },
     {
       "id": 203,
@@ -1825,7 +2481,10 @@
       "category": "innovation",
       "year": 1967,
       "source": "Notebooks",
-      "tags": ["execution", "possibility"]
+      "tags": [
+        "execution",
+        "possibility"
+      ]
     },
     {
       "id": 204,
@@ -1834,7 +2493,10 @@
       "category": "art",
       "year": null,
       "source": "Attribution",
-      "tags": ["imagination", "creation"]
+      "tags": [
+        "imagination",
+        "creation"
+      ]
     },
     {
       "id": 205,
@@ -1843,7 +2505,10 @@
       "category": "science",
       "year": 2150,
       "source": "Future History Text",
-      "tags": ["technology", "wonder"]
+      "tags": [
+        "technology",
+        "wonder"
+      ]
     },
     {
       "id": 206,
@@ -1852,7 +2517,10 @@
       "category": "business",
       "year": null,
       "source": "Baseball Quotes",
-      "tags": ["humor", "finance"]
+      "tags": [
+        "humor",
+        "finance"
+      ]
     },
     {
       "id": 207,
@@ -1861,7 +2529,11 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["change", "mindset", "problem-solving"]
+      "tags": [
+        "change",
+        "mindset",
+        "problem-solving"
+      ]
     },
     {
       "id": 208,
@@ -1870,7 +2542,10 @@
       "category": "programming",
       "year": null,
       "source": "Agile Software Development",
-      "tags": ["action", "efficiency"]
+      "tags": [
+        "action",
+        "efficiency"
+      ]
     },
     {
       "id": 209,
@@ -1879,7 +2554,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["belief", "mindset"]
+      "tags": [
+        "belief",
+        "mindset"
+      ]
     },
     {
       "id": 210,
@@ -1888,7 +2566,10 @@
       "category": "wisdom",
       "year": null,
       "source": "The Stones of Venice",
-      "tags": ["growth", "self-improvement"]
+      "tags": [
+        "growth",
+        "self-improvement"
+      ]
     },
     {
       "id": 211,
@@ -1897,7 +2578,10 @@
       "category": "innovation",
       "year": null,
       "source": "The General Theory",
-      "tags": ["change", "mindset"]
+      "tags": [
+        "change",
+        "mindset"
+      ]
     },
     {
       "id": 212,
@@ -1906,7 +2590,10 @@
       "category": "motivation",
       "year": 1910,
       "source": "Citizenship in a Republic",
-      "tags": ["courage", "action"]
+      "tags": [
+        "courage",
+        "action"
+      ]
     },
     {
       "id": 213,
@@ -1915,7 +2602,10 @@
       "category": "innovation",
       "year": 2003,
       "source": "New York Times Interview",
-      "tags": ["design", "functionality"]
+      "tags": [
+        "design",
+        "functionality"
+      ]
     },
     {
       "id": 214,
@@ -1924,7 +2614,10 @@
       "category": "science",
       "year": null,
       "source": "Attribution",
-      "tags": ["skepticism", "truth"]
+      "tags": [
+        "skepticism",
+        "truth"
+      ]
     },
     {
       "id": 215,
@@ -1933,7 +2626,10 @@
       "category": "business",
       "year": null,
       "source": "Sales Philosophy",
-      "tags": ["sales", "challenges"]
+      "tags": [
+        "sales",
+        "challenges"
+      ]
     },
     {
       "id": 216,
@@ -1942,7 +2638,10 @@
       "category": "art",
       "year": null,
       "source": "Poetics",
-      "tags": ["meaning", "expression"]
+      "tags": [
+        "meaning",
+        "expression"
+      ]
     },
     {
       "id": 217,
@@ -1951,7 +2650,11 @@
       "category": "programming",
       "year": 1999,
       "source": "Digital Frontier",
-      "tags": ["future", "tooling", "creativity"]
+      "tags": [
+        "future",
+        "tooling",
+        "creativity"
+      ]
     },
     {
       "id": 218,
@@ -1960,7 +2663,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Apology",
-      "tags": ["reflection", "purpose"]
+      "tags": [
+        "reflection",
+        "purpose"
+      ]
     },
     {
       "id": 219,
@@ -1969,7 +2675,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["action", "proactivity"]
+      "tags": [
+        "action",
+        "proactivity"
+      ]
     },
     {
       "id": 220,
@@ -1978,7 +2687,11 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["learning", "resilience", "growth"]
+      "tags": [
+        "learning",
+        "resilience",
+        "growth"
+      ]
     },
     {
       "id": 221,
@@ -1987,7 +2700,11 @@
       "category": "innovation",
       "year": null,
       "source": "Attribution",
-      "tags": ["learning", "failure", "growth"]
+      "tags": [
+        "learning",
+        "failure",
+        "growth"
+      ]
     },
     {
       "id": 222,
@@ -1996,7 +2713,11 @@
       "category": "business",
       "year": 2018,
       "source": "Venture Capitalist Handbook",
-      "tags": ["risk-taking", "opportunity", "venture"]
+      "tags": [
+        "risk-taking",
+        "opportunity",
+        "venture"
+      ]
     },
     {
       "id": 223,
@@ -2005,7 +2726,10 @@
       "category": "science",
       "year": null,
       "source": "Attribution",
-      "tags": ["knowledge", "discovery"]
+      "tags": [
+        "knowledge",
+        "discovery"
+      ]
     },
     {
       "id": 224,
@@ -2014,7 +2738,10 @@
       "category": "innovation",
       "year": null,
       "source": "Attribution",
-      "tags": ["imagination", "creativity"]
+      "tags": [
+        "imagination",
+        "creativity"
+      ]
     },
     {
       "id": 225,
@@ -2023,7 +2750,11 @@
       "category": "wisdom",
       "year": 1950,
       "source": "Existentialist Review",
-      "tags": ["life", "action", "courage"]
+      "tags": [
+        "life",
+        "action",
+        "courage"
+      ]
     },
     {
       "id": 226,
@@ -2032,7 +2763,10 @@
       "category": "art",
       "year": null,
       "source": "Attribution",
-      "tags": ["inquiry", "purpose"]
+      "tags": [
+        "inquiry",
+        "purpose"
+      ]
     },
     {
       "id": 227,
@@ -2041,7 +2775,11 @@
       "category": "programming",
       "year": null,
       "source": "Attribution",
-      "tags": ["clean code", "readability", "humor"]
+      "tags": [
+        "clean code",
+        "readability",
+        "humor"
+      ]
     },
     {
       "id": 228,
@@ -2050,7 +2788,11 @@
       "category": "innovation",
       "year": 2008,
       "source": "Design Thinking Workshop",
-      "tags": ["prototyping", "action", "learning"]
+      "tags": [
+        "prototyping",
+        "action",
+        "learning"
+      ]
     },
     {
       "id": 229,
@@ -2059,7 +2801,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["action", "execution"]
+      "tags": [
+        "action",
+        "execution"
+      ]
     },
     {
       "id": 230,
@@ -2068,7 +2813,10 @@
       "category": "wisdom",
       "year": null,
       "source": "The Single Woman",
-      "tags": ["change", "growth"]
+      "tags": [
+        "change",
+        "growth"
+      ]
     },
     {
       "id": 231,
@@ -2077,7 +2825,10 @@
       "category": "business",
       "year": null,
       "source": "Attribution",
-      "tags": ["leadership", "teamwork"]
+      "tags": [
+        "leadership",
+        "teamwork"
+      ]
     },
     {
       "id": 232,
@@ -2086,7 +2837,10 @@
       "category": "science",
       "year": null,
       "source": "Attribution",
-      "tags": ["curiosity", "learning"]
+      "tags": [
+        "curiosity",
+        "learning"
+      ]
     },
     {
       "id": 233,
@@ -2095,7 +2849,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["duality", "perspective"]
+      "tags": [
+        "duality",
+        "perspective"
+      ]
     },
     {
       "id": 234,
@@ -2104,7 +2861,10 @@
       "category": "science",
       "year": 1968,
       "source": "Lectures on Cosmology",
-      "tags": ["humor", "unknown"]
+      "tags": [
+        "humor",
+        "unknown"
+      ]
     },
     {
       "id": 235,
@@ -2113,7 +2873,11 @@
       "category": "programming",
       "year": 1990,
       "source": "Software Architecture Review",
-      "tags": ["planning", "architecture", "pragmatism"]
+      "tags": [
+        "planning",
+        "architecture",
+        "pragmatism"
+      ]
     },
     {
       "id": 236,
@@ -2122,7 +2886,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["discipline", "growth"]
+      "tags": [
+        "discipline",
+        "growth"
+      ]
     },
     {
       "id": 237,
@@ -2131,7 +2898,10 @@
       "category": "innovation",
       "year": null,
       "source": "Attribution",
-      "tags": ["failure", "risk-taking"]
+      "tags": [
+        "failure",
+        "risk-taking"
+      ]
     },
     {
       "id": 238,
@@ -2140,7 +2910,10 @@
       "category": "art",
       "year": null,
       "source": "Diaries",
-      "tags": ["self-reflection", "authenticity"]
+      "tags": [
+        "self-reflection",
+        "authenticity"
+      ]
     },
     {
       "id": 239,
@@ -2149,7 +2922,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["change", "mindset"]
+      "tags": [
+        "change",
+        "mindset"
+      ]
     },
     {
       "id": 240,
@@ -2158,7 +2934,11 @@
       "category": "business",
       "year": null,
       "source": "Attribution",
-      "tags": ["reputation", "discipline", "strategy"]
+      "tags": [
+        "reputation",
+        "discipline",
+        "strategy"
+      ]
     },
     {
       "id": 241,
@@ -2167,7 +2947,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["learning", "humility"]
+      "tags": [
+        "learning",
+        "humility"
+      ]
     },
     {
       "id": 242,
@@ -2176,7 +2959,10 @@
       "category": "programming",
       "year": 2000,
       "source": "Clean Code Principles",
-      "tags": ["refactoring", "simplicity"]
+      "tags": [
+        "refactoring",
+        "simplicity"
+      ]
     },
     {
       "id": 243,
@@ -2185,7 +2971,11 @@
       "category": "science",
       "year": 1968,
       "source": "Lectures on Cosmology",
-      "tags": ["truth", "complexity", "awe"]
+      "tags": [
+        "truth",
+        "complexity",
+        "awe"
+      ]
     },
     {
       "id": 244,
@@ -2194,7 +2984,11 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["discipline", "health", "humor"]
+      "tags": [
+        "discipline",
+        "health",
+        "humor"
+      ]
     },
     {
       "id": 245,
@@ -2203,7 +2997,10 @@
       "category": "innovation",
       "year": null,
       "source": "Attribution",
-      "tags": ["failure", "experimentation"]
+      "tags": [
+        "failure",
+        "experimentation"
+      ]
     },
     {
       "id": 246,
@@ -2212,7 +3009,10 @@
       "category": "business",
       "year": 1994,
       "source": "Business Lessons",
-      "tags": ["customer service", "learning"]
+      "tags": [
+        "customer service",
+        "learning"
+      ]
     },
     {
       "id": 247,
@@ -2221,7 +3021,11 @@
       "category": "art",
       "year": null,
       "source": "The Joy of Painting",
-      "tags": ["optimism", "creation", "perspective"]
+      "tags": [
+        "optimism",
+        "creation",
+        "perspective"
+      ]
     },
     {
       "id": 248,
@@ -2230,7 +3034,10 @@
       "category": "motivation",
       "year": null,
       "source": "Personal Development",
-      "tags": ["contribution", "purpose"]
+      "tags": [
+        "contribution",
+        "purpose"
+      ]
     },
     {
       "id": 249,
@@ -2239,7 +3046,10 @@
       "category": "innovation",
       "year": 200,
       "source": "Imperial Wisdom",
-      "tags": ["optimism", "change"]
+      "tags": [
+        "optimism",
+        "change"
+      ]
     },
     {
       "id": 250,
@@ -2248,7 +3058,11 @@
       "category": "programming",
       "year": 1992,
       "source": "Literate Programming",
-      "tags": ["clarity", "readability", "art"]
+      "tags": [
+        "clarity",
+        "readability",
+        "art"
+      ]
     },
     {
       "id": 251,
@@ -2257,7 +3071,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["appreciation", "perspective"]
+      "tags": [
+        "appreciation",
+        "perspective"
+      ]
     },
     {
       "id": 252,
@@ -2266,7 +3083,10 @@
       "category": "science",
       "year": 1969,
       "source": "Apollo Program Debrief",
-      "tags": ["precision", "excellence"]
+      "tags": [
+        "precision",
+        "excellence"
+      ]
     },
     {
       "id": 253,
@@ -2275,7 +3095,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["focus", "present"]
+      "tags": [
+        "focus",
+        "present"
+      ]
     },
     {
       "id": 254,
@@ -2284,7 +3107,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["persistence", "discipline"]
+      "tags": [
+        "persistence",
+        "discipline"
+      ]
     },
     {
       "id": 255,
@@ -2293,7 +3119,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["forgiveness", "change"]
+      "tags": [
+        "forgiveness",
+        "change"
+      ]
     },
     {
       "id": 256,
@@ -2302,7 +3131,10 @@
       "category": "programming",
       "year": 2005,
       "source": "Data Science Manifesto",
-      "tags": ["data quality", "value"]
+      "tags": [
+        "data quality",
+        "value"
+      ]
     },
     {
       "id": 257,
@@ -2311,7 +3143,10 @@
       "category": "innovation",
       "year": null,
       "source": "Shareholder Letters",
-      "tags": ["iteration", "persistence"]
+      "tags": [
+        "iteration",
+        "persistence"
+      ]
     },
     {
       "id": 258,
@@ -2320,7 +3155,10 @@
       "category": "business",
       "year": 1963,
       "source": "Confessions of an Advertising Man",
-      "tags": ["marketing", "respect"]
+      "tags": [
+        "marketing",
+        "respect"
+      ]
     },
     {
       "id": 259,
@@ -2329,7 +3167,10 @@
       "category": "art",
       "year": null,
       "source": "Interviews",
-      "tags": ["mystery", "depth"]
+      "tags": [
+        "mystery",
+        "depth"
+      ]
     },
     {
       "id": 260,
@@ -2338,7 +3179,10 @@
       "category": "science",
       "year": null,
       "source": "Attribution",
-      "tags": ["skepticism", "knowledge"]
+      "tags": [
+        "skepticism",
+        "knowledge"
+      ]
     },
     {
       "id": 261,
@@ -2347,7 +3191,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["action", "determination"]
+      "tags": [
+        "action",
+        "determination"
+      ]
     },
     {
       "id": 262,
@@ -2356,7 +3203,10 @@
       "category": "programming",
       "year": 2011,
       "source": "Linux Kernel Mailing List",
-      "tags": ["workflow", "collaboration"]
+      "tags": [
+        "workflow",
+        "collaboration"
+      ]
     },
     {
       "id": 263,
@@ -2365,7 +3215,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Interviews",
-      "tags": ["mindset", "change"]
+      "tags": [
+        "mindset",
+        "change"
+      ]
     },
     {
       "id": 264,
@@ -2374,7 +3227,10 @@
       "category": "innovation",
       "year": null,
       "source": "Remembrance of Things Past",
-      "tags": ["perspective", "discovery"]
+      "tags": [
+        "perspective",
+        "discovery"
+      ]
     },
     {
       "id": 265,
@@ -2383,7 +3239,10 @@
       "category": "inspiration",
       "year": null,
       "source": "Attribution",
-      "tags": ["vision", "hope"]
+      "tags": [
+        "vision",
+        "hope"
+      ]
     },
     {
       "id": 266,
@@ -2392,7 +3251,11 @@
       "category": "business",
       "year": 1999,
       "source": "Digital Frontier",
-      "tags": ["adaptation", "change", "strategy"]
+      "tags": [
+        "adaptation",
+        "change",
+        "strategy"
+      ]
     },
     {
       "id": 267,
@@ -2401,7 +3264,10 @@
       "category": "art",
       "year": null,
       "source": "Attribution",
-      "tags": ["creativity", "life"]
+      "tags": [
+        "creativity",
+        "life"
+      ]
     },
     {
       "id": 268,
@@ -2410,7 +3276,11 @@
       "category": "science",
       "year": 1888,
       "source": "Philosophical Transactions",
-      "tags": ["ethics", "application", "responsibility"]
+      "tags": [
+        "ethics",
+        "application",
+        "responsibility"
+      ]
     },
     {
       "id": 269,
@@ -2419,7 +3289,10 @@
       "category": "programming",
       "year": null,
       "source": "Forum Lore",
-      "tags": ["humor", "challenge"]
+      "tags": [
+        "humor",
+        "challenge"
+      ]
     },
     {
       "id": 270,
@@ -2428,7 +3301,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["belief", "excellence"]
+      "tags": [
+        "belief",
+        "excellence"
+      ]
     },
     {
       "id": 271,
@@ -2437,7 +3313,10 @@
       "category": "wisdom",
       "year": null,
       "source": "The Autocrat of the Breakfast-Table",
-      "tags": ["learning", "growth"]
+      "tags": [
+        "learning",
+        "growth"
+      ]
     },
     {
       "id": 272,
@@ -2446,7 +3325,11 @@
       "category": "business",
       "year": null,
       "source": "Tao Te Ching",
-      "tags": ["leadership", "humility", "teamwork"]
+      "tags": [
+        "leadership",
+        "humility",
+        "teamwork"
+      ]
     },
     {
       "id": 273,
@@ -2455,7 +3338,11 @@
       "category": "innovation",
       "year": 1842,
       "source": "Correspondence",
-      "tags": ["technology", "perspective", "problem-solving"]
+      "tags": [
+        "technology",
+        "perspective",
+        "problem-solving"
+      ]
     },
     {
       "id": 274,
@@ -2464,7 +3351,10 @@
       "category": "business",
       "year": null,
       "source": "Business Leadership",
-      "tags": ["teamwork", "success"]
+      "tags": [
+        "teamwork",
+        "success"
+      ]
     },
     {
       "id": 275,
@@ -2473,7 +3363,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["passion", "willpower"]
+      "tags": [
+        "passion",
+        "willpower"
+      ]
     },
     {
       "id": 276,
@@ -2482,7 +3375,11 @@
       "category": "wisdom",
       "year": 170,
       "source": "Imperial Musings",
-      "tags": ["legacy", "action", "purpose"]
+      "tags": [
+        "legacy",
+        "action",
+        "purpose"
+      ]
     },
     {
       "id": 277,
@@ -2491,7 +3388,10 @@
       "category": "programming",
       "year": 2000,
       "source": "Clean Code Principles",
-      "tags": ["refactoring", "simplicity"]
+      "tags": [
+        "refactoring",
+        "simplicity"
+      ]
     },
     {
       "id": 278,
@@ -2500,7 +3400,11 @@
       "category": "science",
       "year": 1921,
       "source": "Speech to Vassar College",
-      "tags": ["understanding", "courage", "knowledge"]
+      "tags": [
+        "understanding",
+        "courage",
+        "knowledge"
+      ]
     },
     {
       "id": 279,
@@ -2509,7 +3413,10 @@
       "category": "art",
       "year": null,
       "source": "Attribution",
-      "tags": ["action", "creativity"]
+      "tags": [
+        "action",
+        "creativity"
+      ]
     },
     {
       "id": 280,
@@ -2518,7 +3425,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["experience", "growth"]
+      "tags": [
+        "experience",
+        "growth"
+      ]
     },
     {
       "id": 281,
@@ -2527,7 +3437,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["persistence", "goals"]
+      "tags": [
+        "persistence",
+        "goals"
+      ]
     },
     {
       "id": 282,
@@ -2536,7 +3449,10 @@
       "category": "programming",
       "year": 1982,
       "source": "Manuals",
-      "tags": ["documentation", "clarity"]
+      "tags": [
+        "documentation",
+        "clarity"
+      ]
     },
     {
       "id": 283,
@@ -2545,7 +3461,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Tao Te Ching",
-      "tags": ["learning", "simplicity"]
+      "tags": [
+        "learning",
+        "simplicity"
+      ]
     },
     {
       "id": 284,
@@ -2554,7 +3473,10 @@
       "category": "innovation",
       "year": -380,
       "source": "The Republic, Expanded",
-      "tags": ["necessity", "creativity"]
+      "tags": [
+        "necessity",
+        "creativity"
+      ]
     },
     {
       "id": 285,
@@ -2563,7 +3485,10 @@
       "category": "business",
       "year": null,
       "source": "Twitter",
-      "tags": ["risk-taking", "future"]
+      "tags": [
+        "risk-taking",
+        "future"
+      ]
     },
     {
       "id": 286,
@@ -2572,7 +3497,10 @@
       "category": "science",
       "year": 1888,
       "source": "Philosophical Transactions",
-      "tags": ["failure", "skepticism"]
+      "tags": [
+        "failure",
+        "skepticism"
+      ]
     },
     {
       "id": 287,
@@ -2581,7 +3509,10 @@
       "category": "art",
       "year": null,
       "source": "Attribution",
-      "tags": ["creation", "potential"]
+      "tags": [
+        "creation",
+        "potential"
+      ]
     },
     {
       "id": 288,
@@ -2590,7 +3521,10 @@
       "category": "business",
       "year": null,
       "source": "Attribution",
-      "tags": ["change", "adaptation"]
+      "tags": [
+        "change",
+        "adaptation"
+      ]
     },
     {
       "id": 289,
@@ -2599,7 +3533,10 @@
       "category": "programming",
       "year": 1990,
       "source": "Software Architecture Review",
-      "tags": ["architecture", "organization"]
+      "tags": [
+        "architecture",
+        "organization"
+      ]
     },
     {
       "id": 290,
@@ -2608,7 +3545,10 @@
       "category": "wisdom",
       "year": 2025,
       "source": "Digital Essays",
-      "tags": ["curiosity", "growth"]
+      "tags": [
+        "curiosity",
+        "growth"
+      ]
     },
     {
       "id": 291,
@@ -2617,7 +3557,10 @@
       "category": "motivation",
       "year": null,
       "source": "Analects",
-      "tags": ["persistence", "discipline"]
+      "tags": [
+        "persistence",
+        "discipline"
+      ]
     },
     {
       "id": 292,
@@ -2626,7 +3569,10 @@
       "category": "programming",
       "year": 2000,
       "source": "Debugging Manual",
-      "tags": ["debugging", "caution"]
+      "tags": [
+        "debugging",
+        "caution"
+      ]
     },
     {
       "id": 293,
@@ -2635,7 +3581,10 @@
       "category": "humor",
       "year": 2015,
       "source": "Office Anthropology",
-      "tags": ["humor", "life"]
+      "tags": [
+        "humor",
+        "life"
+      ]
     },
     {
       "id": 294,
@@ -2644,7 +3593,10 @@
       "category": "programming",
       "year": 1980,
       "source": "The Emperor's Old Clothes",
-      "tags": ["usability", "purpose"]
+      "tags": [
+        "usability",
+        "purpose"
+      ]
     },
     {
       "id": 295,
@@ -2653,7 +3605,10 @@
       "category": "inspiration",
       "year": null,
       "source": "Attribution",
-      "tags": ["creativity", "collaboration"]
+      "tags": [
+        "creativity",
+        "collaboration"
+      ]
     },
     {
       "id": 296,
@@ -2662,7 +3617,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["problem-solving", "clarity"]
+      "tags": [
+        "problem-solving",
+        "clarity"
+      ]
     },
     {
       "id": 297,
@@ -2671,7 +3629,10 @@
       "category": "motivation",
       "year": 2005,
       "source": "Stanford Commencement",
-      "tags": ["passion", "vision"]
+      "tags": [
+        "passion",
+        "vision"
+      ]
     },
     {
       "id": 298,
@@ -2680,7 +3641,10 @@
       "category": "business",
       "year": null,
       "source": "Attribution",
-      "tags": ["data", "insight"]
+      "tags": [
+        "data",
+        "insight"
+      ]
     },
     {
       "id": 299,
@@ -2689,7 +3653,10 @@
       "category": "wisdom",
       "year": 170,
       "source": "Meditations",
-      "tags": ["resilience", "life"]
+      "tags": [
+        "resilience",
+        "life"
+      ]
     },
     {
       "id": 300,
@@ -2698,7 +3665,10 @@
       "category": "inspiration",
       "year": 1904,
       "source": "Peter Pan",
-      "tags": ["belief", "courage"]
+      "tags": [
+        "belief",
+        "courage"
+      ]
     },
     {
       "id": 301,
@@ -2707,7 +3677,10 @@
       "category": "business",
       "year": 2020,
       "source": "Podcast Interview",
-      "tags": ["strategy", "differentiation"]
+      "tags": [
+        "strategy",
+        "differentiation"
+      ]
     },
     {
       "id": 302,
@@ -2716,7 +3689,10 @@
       "category": "science",
       "year": 1975,
       "source": "Physics Quarterly",
-      "tags": ["truth", "complexity"]
+      "tags": [
+        "truth",
+        "complexity"
+      ]
     },
     {
       "id": 303,
@@ -2725,7 +3701,10 @@
       "category": "art",
       "year": 1952,
       "source": "Art & Observation",
-      "tags": ["impact", "thought"]
+      "tags": [
+        "impact",
+        "thought"
+      ]
     },
     {
       "id": 304,
@@ -2734,7 +3713,10 @@
       "category": "programming",
       "year": 2024,
       "source": "Tech Summit Keynote",
-      "tags": ["learning", "complexity"]
+      "tags": [
+        "learning",
+        "complexity"
+      ]
     },
     {
       "id": 305,
@@ -2743,7 +3725,10 @@
       "category": "motivation",
       "year": -490,
       "source": "Oral Tradition",
-      "tags": ["fear", "curiosity"]
+      "tags": [
+        "fear",
+        "curiosity"
+      ]
     },
     {
       "id": 306,
@@ -2752,7 +3737,10 @@
       "category": "innovation",
       "year": 1980,
       "source": "Software Design Talk",
-      "tags": ["problem-solving", "fresh start"]
+      "tags": [
+        "problem-solving",
+        "fresh start"
+      ]
     },
     {
       "id": 307,
@@ -2761,7 +3749,10 @@
       "category": "wisdom",
       "year": -400,
       "source": "The Dialogues",
-      "tags": ["humility", "arrogance"]
+      "tags": [
+        "humility",
+        "arrogance"
+      ]
     },
     {
       "id": 308,
@@ -2770,7 +3761,10 @@
       "category": "business",
       "year": 2005,
       "source": "Interviews",
-      "tags": ["leadership", "teamwork"]
+      "tags": [
+        "leadership",
+        "teamwork"
+      ]
     },
     {
       "id": 309,
@@ -2779,7 +3773,10 @@
       "category": "motivation",
       "year": null,
       "source": "Personal Development",
-      "tags": ["progress", "reflection"]
+      "tags": [
+        "progress",
+        "reflection"
+      ]
     },
     {
       "id": 310,
@@ -2788,7 +3785,11 @@
       "category": "business",
       "year": 1925,
       "source": "Industrialist's Review",
-      "tags": ["innovation", "security", "change"]
+      "tags": [
+        "innovation",
+        "security",
+        "change"
+      ]
     },
     {
       "id": 311,
@@ -2797,7 +3798,10 @@
       "category": "wisdom",
       "year": 1915,
       "source": "Business Almanac",
-      "tags": ["collaboration", "success"]
+      "tags": [
+        "collaboration",
+        "success"
+      ]
     },
     {
       "id": 312,
@@ -2806,7 +3810,10 @@
       "category": "innovation",
       "year": 2005,
       "source": "Tech Philosophy Forum",
-      "tags": ["risk", "change"]
+      "tags": [
+        "risk",
+        "change"
+      ]
     },
     {
       "id": 313,
@@ -2815,7 +3822,10 @@
       "category": "art",
       "year": 1760,
       "source": "Art Theory",
-      "tags": ["aesthetics", "sensation"]
+      "tags": [
+        "aesthetics",
+        "sensation"
+      ]
     },
     {
       "id": 314,
@@ -2824,7 +3834,10 @@
       "category": "motivation",
       "year": -370,
       "source": "The Dialogues",
-      "tags": ["persistence", "growth"]
+      "tags": [
+        "persistence",
+        "growth"
+      ]
     },
     {
       "id": 315,
@@ -2833,7 +3846,10 @@
       "category": "science",
       "year": 1975,
       "source": "Research Ethics",
-      "tags": ["curiosity", "passion"]
+      "tags": [
+        "curiosity",
+        "passion"
+      ]
     },
     {
       "id": 316,
@@ -2842,7 +3858,11 @@
       "category": "programming",
       "year": 2004,
       "source": "Architectural Patterns",
-      "tags": ["change", "design", "flexibility"]
+      "tags": [
+        "change",
+        "design",
+        "flexibility"
+      ]
     },
     {
       "id": 317,
@@ -2851,7 +3871,10 @@
       "category": "business",
       "year": 2010,
       "source": "Business Strategy",
-      "tags": ["leadership", "influence"]
+      "tags": [
+        "leadership",
+        "influence"
+      ]
     },
     {
       "id": 318,
@@ -2860,7 +3883,11 @@
       "category": "wisdom",
       "year": null,
       "source": "Shareholder Letters",
-      "tags": ["value", "learning", "finance"]
+      "tags": [
+        "value",
+        "learning",
+        "finance"
+      ]
     },
     {
       "id": 319,
@@ -2869,7 +3896,10 @@
       "category": "wisdom",
       "year": 1890,
       "source": "Essays on Inquiry",
-      "tags": ["skepticism", "learning"]
+      "tags": [
+        "skepticism",
+        "learning"
+      ]
     },
     {
       "id": 320,
@@ -2878,7 +3908,10 @@
       "category": "art",
       "year": null,
       "source": "Attribution",
-      "tags": ["creation", "inspiration"]
+      "tags": [
+        "creation",
+        "inspiration"
+      ]
     },
     {
       "id": 321,
@@ -2887,7 +3920,10 @@
       "category": "art",
       "year": null,
       "source": "Attribution",
-      "tags": ["expression", "meaning"]
+      "tags": [
+        "expression",
+        "meaning"
+      ]
     },
     {
       "id": 322,
@@ -2896,7 +3932,10 @@
       "category": "wisdom",
       "year": -140,
       "source": "Naval Strategy Scrolls",
-      "tags": ["focus", "strategy"]
+      "tags": [
+        "focus",
+        "strategy"
+      ]
     },
     {
       "id": 323,
@@ -2905,7 +3944,10 @@
       "category": "innovation",
       "year": 2001,
       "source": "Digital Frontier",
-      "tags": ["adaptation", "change"]
+      "tags": [
+        "adaptation",
+        "change"
+      ]
     },
     {
       "id": 324,
@@ -2914,7 +3956,10 @@
       "category": "programming",
       "year": 1980,
       "source": "Quality Lectures",
-      "tags": ["process", "quality"]
+      "tags": [
+        "process",
+        "quality"
+      ]
     },
     {
       "id": 325,
@@ -2923,7 +3968,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["action", "pragmatism"]
+      "tags": [
+        "action",
+        "pragmatism"
+      ]
     },
     {
       "id": 326,
@@ -2932,7 +3980,10 @@
       "category": "programming",
       "year": null,
       "source": "Forum Lore",
-      "tags": ["humor", "truth"]
+      "tags": [
+        "humor",
+        "truth"
+      ]
     },
     {
       "id": 327,
@@ -2941,7 +3992,10 @@
       "category": "business",
       "year": 1985,
       "source": "Competitive Advantage",
-      "tags": ["strategy", "focus"]
+      "tags": [
+        "strategy",
+        "focus"
+      ]
     },
     {
       "id": 328,
@@ -2950,7 +4004,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["purpose", "happiness"]
+      "tags": [
+        "purpose",
+        "happiness"
+      ]
     },
     {
       "id": 329,
@@ -2959,7 +4016,10 @@
       "category": "inspiration",
       "year": null,
       "source": "Interviews",
-      "tags": ["mindset", "change"]
+      "tags": [
+        "mindset",
+        "change"
+      ]
     },
     {
       "id": 330,
@@ -2968,7 +4028,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Speeches",
-      "tags": ["success", "work ethic"]
+      "tags": [
+        "success",
+        "work ethic"
+      ]
     },
     {
       "id": 331,
@@ -2977,7 +4040,10 @@
       "category": "business",
       "year": null,
       "source": "Attribution",
-      "tags": ["leadership", "vision"]
+      "tags": [
+        "leadership",
+        "vision"
+      ]
     },
     {
       "id": 332,
@@ -2986,7 +4052,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["focus", "perspective"]
+      "tags": [
+        "focus",
+        "perspective"
+      ]
     },
     {
       "id": 333,
@@ -2995,7 +4064,10 @@
       "category": "programming",
       "year": 1995,
       "source": "Software Architecture Review",
-      "tags": ["problem-solving", "debugging"]
+      "tags": [
+        "problem-solving",
+        "debugging"
+      ]
     },
     {
       "id": 334,
@@ -3004,7 +4076,10 @@
       "category": "science",
       "year": 1905,
       "source": "Lectures",
-      "tags": ["inquiry", "discovery"]
+      "tags": [
+        "inquiry",
+        "discovery"
+      ]
     },
     {
       "id": 335,
@@ -3013,7 +4088,10 @@
       "category": "art",
       "year": null,
       "source": "The Joy of Painting",
-      "tags": ["discipline", "creation"]
+      "tags": [
+        "discipline",
+        "creation"
+      ]
     },
     {
       "id": 336,
@@ -3022,7 +4100,10 @@
       "category": "innovation",
       "year": 210,
       "source": "Imperial Strategy",
-      "tags": ["inevitability", "design"]
+      "tags": [
+        "inevitability",
+        "design"
+      ]
     },
     {
       "id": 337,
@@ -3031,7 +4112,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["action", "success"]
+      "tags": [
+        "action",
+        "success"
+      ]
     },
     {
       "id": 338,
@@ -3040,7 +4124,10 @@
       "category": "programming",
       "year": 2002,
       "source": "Debugging Manual",
-      "tags": ["humor", "debugging"]
+      "tags": [
+        "humor",
+        "debugging"
+      ]
     },
     {
       "id": 339,
@@ -3049,7 +4136,10 @@
       "category": "business",
       "year": null,
       "source": "Attribution",
-      "tags": ["risk-taking", "entrepreneurship"]
+      "tags": [
+        "risk-taking",
+        "entrepreneurship"
+      ]
     },
     {
       "id": 340,
@@ -3058,7 +4148,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["change", "beginnings"]
+      "tags": [
+        "change",
+        "beginnings"
+      ]
     },
     {
       "id": 341,
@@ -3067,7 +4160,10 @@
       "category": "wisdom",
       "year": 1370,
       "source": "Knight's Parables",
-      "tags": ["caution", "action"]
+      "tags": [
+        "caution",
+        "action"
+      ]
     },
     {
       "id": 342,
@@ -3076,7 +4172,10 @@
       "category": "innovation",
       "year": 2013,
       "source": "The Non-Obvious Guide to Innovation",
-      "tags": ["value", "change"]
+      "tags": [
+        "value",
+        "change"
+      ]
     },
     {
       "id": 343,
@@ -3085,7 +4184,10 @@
       "category": "programming",
       "year": 2008,
       "source": "Architectural Principles",
-      "tags": ["complexity", "architecture"]
+      "tags": [
+        "complexity",
+        "architecture"
+      ]
     },
     {
       "id": 344,
@@ -3094,7 +4196,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["change", "mindset"]
+      "tags": [
+        "change",
+        "mindset"
+      ]
     },
     {
       "id": 345,
@@ -3103,7 +4208,10 @@
       "category": "business",
       "year": 1832,
       "source": "On War, Business Edition",
-      "tags": ["pragmatism", "execution"]
+      "tags": [
+        "pragmatism",
+        "execution"
+      ]
     },
     {
       "id": 346,
@@ -3112,7 +4220,10 @@
       "category": "science",
       "year": 2028,
       "source": "Digital Essays",
-      "tags": ["perspective", "problem-solving"]
+      "tags": [
+        "perspective",
+        "problem-solving"
+      ]
     },
     {
       "id": 347,
@@ -3121,7 +4232,10 @@
       "category": "art",
       "year": 1955,
       "source": "The Unvarnished Truth",
-      "tags": ["critique", "truth"]
+      "tags": [
+        "critique",
+        "truth"
+      ]
     },
     {
       "id": 348,
@@ -3130,7 +4244,10 @@
       "category": "wisdom",
       "year": -340,
       "source": "Nichomachean Ethics",
-      "tags": ["moderation", "life"]
+      "tags": [
+        "moderation",
+        "life"
+      ]
     },
     {
       "id": 349,
@@ -3139,7 +4256,10 @@
       "category": "business",
       "year": 1660,
       "source": "The Throne and the Market",
-      "tags": ["leadership", "motivation"]
+      "tags": [
+        "leadership",
+        "motivation"
+      ]
     },
     {
       "id": 350,
@@ -3148,7 +4268,10 @@
       "category": "science",
       "year": 2022,
       "source": "AI & Ethics Symposium",
-      "tags": ["humor", "consciousness"]
+      "tags": [
+        "humor",
+        "consciousness"
+      ]
     },
     {
       "id": 351,
@@ -3157,7 +4280,10 @@
       "category": "programming",
       "year": 2019,
       "source": "Coding Dojo",
-      "tags": ["discipline", "quality"]
+      "tags": [
+        "discipline",
+        "quality"
+      ]
     },
     {
       "id": 352,
@@ -3166,7 +4292,10 @@
       "category": "innovation",
       "year": 2030,
       "source": "The Loneliness of the Long-Distance Innovator",
-      "tags": ["vision", "solitude"]
+      "tags": [
+        "vision",
+        "solitude"
+      ]
     },
     {
       "id": 353,
@@ -3175,7 +4304,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["work ethic", "growth"]
+      "tags": [
+        "work ethic",
+        "growth"
+      ]
     },
     {
       "id": 354,
@@ -3184,7 +4316,10 @@
       "category": "art",
       "year": 2010,
       "source": "Creative Workshop",
-      "tags": ["creativity", "resourcefulness"]
+      "tags": [
+        "creativity",
+        "resourcefulness"
+      ]
     },
     {
       "id": 355,
@@ -3193,7 +4328,10 @@
       "category": "innovation",
       "year": 1999,
       "source": "Management Challenges",
-      "tags": ["change", "focus"]
+      "tags": [
+        "change",
+        "focus"
+      ]
     },
     {
       "id": 356,
@@ -3202,7 +4340,10 @@
       "category": "science",
       "year": 1978,
       "source": "Journal of Astrophysics",
-      "tags": ["change", "freedom"]
+      "tags": [
+        "change",
+        "freedom"
+      ]
     },
     {
       "id": 357,
@@ -3211,7 +4352,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["persistence", "progress"]
+      "tags": [
+        "persistence",
+        "progress"
+      ]
     },
     {
       "id": 358,
@@ -3220,7 +4364,10 @@
       "category": "art",
       "year": 2016,
       "source": "Developer Blog",
-      "tags": ["humor", "critique"]
+      "tags": [
+        "humor",
+        "critique"
+      ]
     },
     {
       "id": 359,
@@ -3229,7 +4376,10 @@
       "category": "motivation",
       "year": null,
       "source": "Letters",
-      "tags": ["action", "efficiency"]
+      "tags": [
+        "action",
+        "efficiency"
+      ]
     },
     {
       "id": 360,
@@ -3238,7 +4388,11 @@
       "category": "business",
       "year": 180,
       "source": "Imperial Commentary",
-      "tags": ["efficiency", "inflexibility", "strategy"]
+      "tags": [
+        "efficiency",
+        "inflexibility",
+        "strategy"
+      ]
     },
     {
       "id": 361,
@@ -3247,7 +4401,11 @@
       "category": "programming",
       "year": 2022,
       "source": "Conference Presentation",
-      "tags": ["learning", "debugging", "failure"]
+      "tags": [
+        "learning",
+        "debugging",
+        "failure"
+      ]
     },
     {
       "id": 362,
@@ -3256,7 +4414,10 @@
       "category": "wisdom",
       "year": 2015,
       "source": "Investor's Monthly",
-      "tags": ["finance", "perspective"]
+      "tags": [
+        "finance",
+        "perspective"
+      ]
     },
     {
       "id": 363,
@@ -3265,7 +4426,10 @@
       "category": "motivation",
       "year": null,
       "source": "Attribution",
-      "tags": ["action", "purpose"]
+      "tags": [
+        "action",
+        "purpose"
+      ]
     },
     {
       "id": 364,
@@ -3274,7 +4438,10 @@
       "category": "science",
       "year": 1980,
       "source": "Popular Science Essay",
-      "tags": ["life", "experimentation"]
+      "tags": [
+        "life",
+        "experimentation"
+      ]
     },
     {
       "id": 365,
@@ -3283,7 +4450,10 @@
       "category": "business",
       "year": 1920,
       "source": "Industrialist's Review",
-      "tags": ["strategy", "change"]
+      "tags": [
+        "strategy",
+        "change"
+      ]
     },
     {
       "id": 366,
@@ -3292,7 +4462,10 @@
       "category": "innovation",
       "year": -130,
       "source": "Military Strategy",
-      "tags": ["planning", "strategy"]
+      "tags": [
+        "planning",
+        "strategy"
+      ]
     },
     {
       "id": 367,
@@ -3301,7 +4474,10 @@
       "category": "programming",
       "year": 1998,
       "source": "Systems Resilience Handbook",
-      "tags": ["simplicity", "testing"]
+      "tags": [
+        "simplicity",
+        "testing"
+      ]
     },
     {
       "id": 368,
@@ -3310,7 +4486,10 @@
       "category": "art",
       "year": 1765,
       "source": "Studio Diaries",
-      "tags": ["simplicity", "expression"]
+      "tags": [
+        "simplicity",
+        "expression"
+      ]
     },
     {
       "id": 369,
@@ -3319,7 +4498,11 @@
       "category": "motivation",
       "year": 1940,
       "source": "War Speeches",
-      "tags": ["action", "duty", "resilience"]
+      "tags": [
+        "action",
+        "duty",
+        "resilience"
+      ]
     },
     {
       "id": 370,
@@ -3328,7 +4511,10 @@
       "category": "wisdom",
       "year": 1934,
       "source": "The Rock",
-      "tags": ["knowledge", "information"]
+      "tags": [
+        "knowledge",
+        "information"
+      ]
     },
     {
       "id": 371,
@@ -3337,7 +4523,10 @@
       "category": "business",
       "year": 2015,
       "source": "Venture Capital Strategy",
-      "tags": ["strategy", "finance"]
+      "tags": [
+        "strategy",
+        "finance"
+      ]
     },
     {
       "id": 372,
@@ -3346,7 +4535,10 @@
       "category": "programming",
       "year": 1985,
       "source": "Documentary Interview",
-      "tags": ["teamwork", "excellence"]
+      "tags": [
+        "teamwork",
+        "excellence"
+      ]
     },
     {
       "id": 373,
@@ -3355,7 +4547,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["mastery", "learning"]
+      "tags": [
+        "mastery",
+        "learning"
+      ]
     },
     {
       "id": 374,
@@ -3364,7 +4559,10 @@
       "category": "innovation",
       "year": 2014,
       "source": "Leadership Summit",
-      "tags": ["persistence", "creativity"]
+      "tags": [
+        "persistence",
+        "creativity"
+      ]
     },
     {
       "id": 375,
@@ -3373,7 +4571,10 @@
       "category": "science",
       "year": null,
       "source": "Attribution",
-      "tags": ["knowledge", "value"]
+      "tags": [
+        "knowledge",
+        "value"
+      ]
     },
     {
       "id": 376,
@@ -3382,7 +4583,10 @@
       "category": "innovation",
       "year": 2021,
       "source": "Tech Blog",
-      "tags": ["customer focus", "design"]
+      "tags": [
+        "customer focus",
+        "design"
+      ]
     },
     {
       "id": 377,
@@ -3391,7 +4595,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["skepticism", "learning"]
+      "tags": [
+        "skepticism",
+        "learning"
+      ]
     },
     {
       "id": 378,
@@ -3400,7 +4607,10 @@
       "category": "business",
       "year": null,
       "source": "Interviews",
-      "tags": ["leadership", "innovation"]
+      "tags": [
+        "leadership",
+        "innovation"
+      ]
     },
     {
       "id": 379,
@@ -3409,7 +4619,10 @@
       "category": "art",
       "year": null,
       "source": "The Joy of Painting",
-      "tags": ["creation", "journey"]
+      "tags": [
+        "creation",
+        "journey"
+      ]
     },
     {
       "id": 380,
@@ -3418,7 +4631,10 @@
       "category": "wisdom",
       "year": 2005,
       "source": "Digital Essays",
-      "tags": ["change", "future"]
+      "tags": [
+        "change",
+        "future"
+      ]
     },
     {
       "id": 381,
@@ -3427,7 +4643,10 @@
       "category": "motivation",
       "year": -500,
       "source": "The Art of War, Expanded",
-      "tags": ["discipline", "persistence"]
+      "tags": [
+        "discipline",
+        "persistence"
+      ]
     },
     {
       "id": 382,
@@ -3436,7 +4655,10 @@
       "category": "science",
       "year": 1972,
       "source": "Lectures on Epistemology",
-      "tags": ["skepticism", "knowledge"]
+      "tags": [
+        "skepticism",
+        "knowledge"
+      ]
     },
     {
       "id": 383,
@@ -3445,7 +4667,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["experience", "learning"]
+      "tags": [
+        "experience",
+        "learning"
+      ]
     },
     {
       "id": 384,
@@ -3454,7 +4679,10 @@
       "category": "programming",
       "year": 2012,
       "source": "Software Architecture Magazine",
-      "tags": ["architecture", "complexity"]
+      "tags": [
+        "architecture",
+        "complexity"
+      ]
     },
     {
       "id": 385,
@@ -3463,7 +4691,10 @@
       "category": "wisdom",
       "year": 1940,
       "source": "Investor's Monthly",
-      "tags": ["pragmatism", "common sense"]
+      "tags": [
+        "pragmatism",
+        "common sense"
+      ]
     },
     {
       "id": 386,
@@ -3472,7 +4703,10 @@
       "category": "art",
       "year": null,
       "source": "Attribution",
-      "tags": ["purpose", "society"]
+      "tags": [
+        "purpose",
+        "society"
+      ]
     },
     {
       "id": 387,
@@ -3481,7 +4715,10 @@
       "category": "inspiration",
       "year": null,
       "source": "Attribution",
-      "tags": ["courage", "individuality"]
+      "tags": [
+        "courage",
+        "individuality"
+      ]
     },
     {
       "id": 388,
@@ -3490,7 +4727,10 @@
       "category": "business",
       "year": 1973,
       "source": "Management: Tasks, Responsibilities, Practices",
-      "tags": ["customer focus", "perception"]
+      "tags": [
+        "customer focus",
+        "perception"
+      ]
     },
     {
       "id": 389,
@@ -3499,7 +4739,10 @@
       "category": "programming",
       "year": null,
       "source": "Forum Lore",
-      "tags": ["humor", "failure"]
+      "tags": [
+        "humor",
+        "failure"
+      ]
     },
     {
       "id": 390,
@@ -3508,7 +4751,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["life", "value"]
+      "tags": [
+        "life",
+        "value"
+      ]
     },
     {
       "id": 391,
@@ -3517,7 +4763,10 @@
       "category": "innovation",
       "year": 2012,
       "source": "Interviews",
-      "tags": ["action", "leadership"]
+      "tags": [
+        "action",
+        "leadership"
+      ]
     },
     {
       "id": 392,
@@ -3526,7 +4775,10 @@
       "category": "motivation",
       "year": 2017,
       "source": "Developer Blog",
-      "tags": ["growth", "identity"]
+      "tags": [
+        "growth",
+        "identity"
+      ]
     },
     {
       "id": 393,
@@ -3535,7 +4787,10 @@
       "category": "science",
       "year": null,
       "source": "Attribution",
-      "tags": ["imagination", "creativity"]
+      "tags": [
+        "imagination",
+        "creativity"
+      ]
     },
     {
       "id": 394,
@@ -3544,7 +4799,10 @@
       "category": "motivation",
       "year": -330,
       "source": "The Rhetoric",
-      "tags": ["courage", "action"]
+      "tags": [
+        "courage",
+        "action"
+      ]
     },
     {
       "id": 395,
@@ -3553,7 +4811,10 @@
       "category": "inspiration",
       "year": null,
       "source": "Essays",
-      "tags": ["potential", "motivation"]
+      "tags": [
+        "potential",
+        "motivation"
+      ]
     },
     {
       "id": 396,
@@ -3562,7 +4823,10 @@
       "category": "business",
       "year": 175,
       "source": "Imperial Commentary",
-      "tags": ["leadership", "resilience"]
+      "tags": [
+        "leadership",
+        "resilience"
+      ]
     },
     {
       "id": 397,
@@ -3571,7 +4835,10 @@
       "category": "art",
       "year": null,
       "source": "Attribution",
-      "tags": ["change", "impact"]
+      "tags": [
+        "change",
+        "impact"
+      ]
     },
     {
       "id": 398,
@@ -3580,7 +4847,10 @@
       "category": "wisdom",
       "year": null,
       "source": "Attribution",
-      "tags": ["simplicity", "clarity"]
+      "tags": [
+        "simplicity",
+        "clarity"
+      ]
     },
     {
       "id": 399,
@@ -3589,7 +4859,10 @@
       "category": "innovation",
       "year": 2012,
       "source": "Design Thinking Workshop",
-      "tags": ["persistence", "success"]
+      "tags": [
+        "persistence",
+        "success"
+      ]
     },
     {
       "id": 400,
@@ -3598,7 +4871,648 @@
       "category": "motivation",
       "year": 1945,
       "source": "Investor's Letters",
-      "tags": ["finance", "mindset"]
+      "tags": [
+        "finance",
+        "mindset"
+      ]
+    },
+    {
+      "id": 401,
+      "text": "The function of leadership is to produce more leaders, not more followers.",
+      "author": "Ralph Nader",
+      "category": "business",
+      "year": 1972,
+      "source": "Organizational Leadership",
+      "tags": [
+        "leadership",
+        "growth"
+      ]
+    },
+    {
+      "id": 402,
+      "text": "Life must be understood backward. But it must be lived forward.",
+      "author": "Søren Kierkegaard",
+      "category": "wisdom",
+      "year": 1843,
+      "source": "Fear and Trembling",
+      "tags": [
+        "reflection",
+        "life"
+      ]
+    },
+    {
+      "id": 403,
+      "text": "The purpose of science is to substitute unconnected things with connected things.",
+      "author": "Henri Poincaré",
+      "category": "science",
+      "year": 1905,
+      "source": "Science and Hypothesis",
+      "tags": [
+        "connections",
+        "understanding"
+      ]
+    },
+    {
+      "id": 404,
+      "text": "Never tell people how to do things. Tell them what to do and they will surprise you with their ingenuity.",
+      "author": "George S. Patton",
+      "category": "business",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "leadership",
+        "trust"
+      ]
+    },
+    {
+      "id": 405,
+      "text": "To get a great idea, come up with more ideas.",
+      "author": "Thomas A. Edison",
+      "category": "innovation",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "creativity",
+        "quantity"
+      ]
+    },
+    {
+      "id": 406,
+      "text": "Art is a revolt against destiny, against the stream of time.",
+      "author": "André Malraux",
+      "category": "art",
+      "year": 1951,
+      "source": "The Voices of Silence",
+      "tags": [
+        "revolt",
+        "expression"
+      ]
+    },
+    {
+      "id": 407,
+      "text": "The cost of an abstraction is the complexity it hides and the limitations it imposes.",
+      "author": "Dr. Vespera",
+      "category": "programming",
+      "year": 2008,
+      "source": "Advanced Software Patterns",
+      "tags": [
+        "abstraction",
+        "complexity"
+      ]
+    },
+    {
+      "id": 408,
+      "text": "It is better to light a single candle than to curse the darkness.",
+      "author": "Eleanor Roosevelt",
+      "category": "inspiration",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "action",
+        "optimism"
+      ]
+    },
+    {
+      "id": 409,
+      "text": "The greatest enemy of a customer-centric strategy is internal politics.",
+      "author": "Cassian Thorne",
+      "category": "business",
+      "year": 2012,
+      "source": "CEO Quarterly",
+      "tags": [
+        "strategy",
+        "customer focus"
+      ]
+    },
+    {
+      "id": 410,
+      "text": "You can't depend on your eyes when your imagination is out of focus.",
+      "author": "Mark Twain",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "imagination",
+        "focus"
+      ]
+    },
+    {
+      "id": 411,
+      "text": "The world cannot be understood by logic alone; it must be felt by the heart.",
+      "author": "Albert Einstein",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "emotion",
+        "understanding"
+      ]
+    },
+    {
+      "id": 412,
+      "text": "The desire for comfort is an insidious poison to ambition.",
+      "author": "Octavian",
+      "category": "motivation",
+      "year": 205,
+      "source": "Imperial Wisdom",
+      "tags": [
+        "ambition",
+        "discipline"
+      ]
+    },
+    {
+      "id": 413,
+      "text": "The scientific mind does not so much provide the right answers as ask the right questions.",
+      "author": "Claude Lévi-Strauss",
+      "category": "science",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "inquiry",
+        "mind"
+      ]
+    },
+    {
+      "id": 414,
+      "text": "The great pleasure in life is doing what people say you cannot do.",
+      "author": "Walter Bagehot",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "determination",
+        "courage"
+      ]
+    },
+    {
+      "id": 415,
+      "text": "Simplicity is about subtracting the obvious and adding the meaningful.",
+      "author": "John Maeda",
+      "category": "innovation",
+      "year": 2006,
+      "source": "The Laws of Simplicity",
+      "tags": [
+        "design",
+        "simplicity"
+      ]
+    },
+    {
+      "id": 416,
+      "text": "A photograph is a moral decision taken in one eighth of a second.",
+      "author": "Diane Arbus",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "decision-making",
+        "expression"
+      ]
+    },
+    {
+      "id": 417,
+      "text": "It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.",
+      "author": "Charles Darwin (Attributed)",
+      "category": "business",
+      "year": 1859,
+      "source": "The Origin of Species (Applied)",
+      "tags": [
+        "adaptation",
+        "change"
+      ]
+    },
+    {
+      "id": 418,
+      "text": "The code always runs, but the documentation sometimes lies.",
+      "author": "Ancient Programmer Proverb",
+      "category": "programming",
+      "year": null,
+      "source": "Forum Lore",
+      "tags": [
+        "documentation",
+        "humor",
+        "truth"
+      ]
+    },
+    {
+      "id": 419,
+      "text": "The truest expression of a culture is in its art and its science, not its laws or commerce.",
+      "author": "Seraphina Vale",
+      "category": "wisdom",
+      "year": 1770,
+      "source": "Reflections on Society",
+      "tags": [
+        "culture",
+        "expression"
+      ]
+    },
+    {
+      "id": 420,
+      "text": "The world is not controlled by laws, but by a select few who are willing to ignore them.",
+      "author": "Cassian Thorne",
+      "category": "innovation",
+      "year": 2008,
+      "source": "Startup Handbook",
+      "tags": [
+        "disruption",
+        "courage"
+      ]
+    },
+    {
+      "id": 421,
+      "text": "Be kind, for everyone you meet is fighting a battle you know nothing about.",
+      "author": "Plato",
+      "category": "wisdom",
+      "year": -390,
+      "source": "Attribution",
+      "tags": [
+        "empathy",
+        "kindness"
+      ]
+    },
+    {
+      "id": 422,
+      "text": "The greatest discovery of all time is that a man can alter his future by merely altering his attitude.",
+      "author": "Oprah Winfrey",
+      "category": "wisdom",
+      "year": null,
+      "source": "Interviews",
+      "tags": [
+        "mindset",
+        "change"
+      ]
+    },
+    {
+      "id": 423,
+      "text": "The greatest art is in leaving a blank space that demands to be filled.",
+      "author": "Elara Quinn",
+      "category": "art",
+      "year": 1960,
+      "source": "Art & Observation",
+      "tags": [
+        "design",
+        "potential"
+      ]
+    },
+    {
+      "id": 424,
+      "text": "Success in this game depends less on strength than on agility and the willingness to move the cheese.",
+      "author": "Spencer Johnson (Fictionalized)",
+      "category": "business",
+      "year": 1998,
+      "source": "Who Moved My Cheese? (Strategy Edition)",
+      "tags": [
+        "change",
+        "agility"
+      ]
+    },
+    {
+      "id": 425,
+      "text": "The capacity to learn is a gift; the ability to learn is a skill; the willingness to learn is a choice.",
+      "author": "Brian Herbert",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "learning",
+        "choice"
+      ]
+    },
+    {
+      "id": 426,
+      "text": "Any sufficiently advanced technology is indistinguishable from magic.",
+      "author": "Arthur C. Clarke",
+      "category": "science",
+      "year": 1973,
+      "source": "Profiles of the Future",
+      "tags": [
+        "technology",
+        "wonder"
+      ]
+    },
+    {
+      "id": 427,
+      "text": "I can accept failure, everyone fails at something. But I can't accept not trying.",
+      "author": "Michael Jordan",
+      "category": "inspiration",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "action",
+        "determination"
+      ]
+    },
+    {
+      "id": 428,
+      "text": "The measure of a man's real character is what he would do if he knew he would never be found out.",
+      "author": "Thomas B. Macaulay",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "character",
+        "ethics"
+      ]
+    },
+    {
+      "id": 429,
+      "text": "The greatest glory in a great business is not in its profit, but in its unwavering pursuit of purpose.",
+      "author": "Empress Jada",
+      "category": "business",
+      "year": 1670,
+      "source": "The Throne and the Market, Volume II",
+      "tags": [
+        "purpose",
+        "excellence"
+      ]
+    },
+    {
+      "id": 430,
+      "text": "What is difficult is to know what is impossible.",
+      "author": "Linus Torvalds",
+      "category": "programming",
+      "year": 2012,
+      "source": "Lectures",
+      "tags": [
+        "difficulty",
+        "problem-solving"
+      ]
+    },
+    {
+      "id": 431,
+      "text": "The problem is the moment you think you have solved it.",
+      "author": "Octavia Bell",
+      "category": "programming",
+      "year": 2024,
+      "source": "Tech Summit Keynote",
+      "tags": [
+        "skepticism",
+        "mindset"
+      ]
+    },
+    {
+      "id": 432,
+      "text": "If you don't take risks, you can't create a future.",
+      "author": "Cory House",
+      "category": "motivation",
+      "year": 2020,
+      "source": "Podcast Interview",
+      "tags": [
+        "risk-taking",
+        "future"
+      ]
+    },
+    {
+      "id": 433,
+      "text": "The essence of science is this: ask an impertinent question, and you are on the way to a pertinent answer.",
+      "author": "Jacob Bronowski",
+      "category": "science",
+      "year": 1956,
+      "source": "Science and Human Values",
+      "tags": [
+        "inquiry",
+        "curiosity"
+      ]
+    },
+    {
+      "id": 434,
+      "text": "The artist is the one who sees the sunrise when everyone else is still asleep.",
+      "author": "Leonardo da Vinci",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "vision",
+        "insight"
+      ]
+    },
+    {
+      "id": 435,
+      "text": "The greatest form of innovation is making a complex truth accessible to all.",
+      "author": "Amara Vex",
+      "category": "innovation",
+      "year": 2027,
+      "source": "Digital Essays, Vol. 3",
+      "tags": [
+        "simplicity",
+        "clarity"
+      ]
+    },
+    {
+      "id": 436,
+      "text": "Courage is resistance to fear, mastery of fear—not absence of fear.",
+      "author": "Mark Twain",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "courage",
+        "mindset"
+      ]
+    },
+    {
+      "id": 437,
+      "text": "The art of simplicity is a puzzle of subtraction.",
+      "author": "Don Norman",
+      "category": "wisdom",
+      "year": 2013,
+      "source": "The Design of Everyday Things, Revised",
+      "tags": [
+        "simplicity",
+        "design"
+      ]
+    },
+    {
+      "id": 438,
+      "text": "If you cannot change a process, automate the inefficiency. If you can change the process, eliminate it.",
+      "author": "Gaius Flux",
+      "category": "business",
+      "year": 2009,
+      "source": "Process Optimization Thesis",
+      "tags": [
+        "efficiency",
+        "process"
+      ]
+    },
+    {
+      "id": 439,
+      "text": "The best design is the simplest design that works, not the simplest design that can be conceived.",
+      "author": "Elias 'The Architect' Crane",
+      "category": "programming",
+      "year": 2005,
+      "source": "Architecture Patterns",
+      "tags": [
+        "design",
+        "simplicity"
+      ]
+    },
+    {
+      "id": 440,
+      "text": "The world is full of magical things patiently waiting for our wits to grow sharper.",
+      "author": "Eden Phillpotts",
+      "category": "inspiration",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "wonder",
+        "learning"
+      ]
+    },
+    {
+      "id": 441,
+      "text": "The greatest danger in innovation is solving a problem that doesn't exist.",
+      "author": "Dr. Elara Fae",
+      "category": "innovation",
+      "year": 2016,
+      "source": "Customer Discovery Workshop",
+      "tags": [
+        "problem-solving",
+        "pragmatism"
+      ]
+    },
+    {
+      "id": 442,
+      "text": "We are here to add what we can to life, not to get what we can from life.",
+      "author": "William Osler",
+      "category": "wisdom",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "purpose",
+        "contribution"
+      ]
+    },
+    {
+      "id": 443,
+      "text": "The real secret to good sales is listening with the intent to solve, not the intent to reply.",
+      "author": "Zig Ziglar",
+      "category": "business",
+      "year": null,
+      "source": "Sales Training",
+      "tags": [
+        "communication",
+        "customer focus"
+      ]
+    },
+    {
+      "id": 444,
+      "text": "Science is the great antidote to the poison of enthusiasm and superstition.",
+      "author": "Adam Smith",
+      "category": "science",
+      "year": 1776,
+      "source": "The Wealth of Nations",
+      "tags": [
+        "logic",
+        "skepticism"
+      ]
+    },
+    {
+      "id": 445,
+      "text": "You can't solve an optimization problem with a single line of code, but you can with a single line of thought.",
+      "author": "Donald Knuth",
+      "category": "programming",
+      "year": 1985,
+      "source": "Turing Lecture",
+      "tags": [
+        "optimization",
+        "thought"
+      ]
+    },
+    {
+      "id": 446,
+      "text": "There are far, far better things ahead than any we leave behind.",
+      "author": "C.S. Lewis",
+      "category": "inspiration",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "optimism",
+        "future"
+      ]
+    },
+    {
+      "id": 447,
+      "text": "A business is only as good as the trust its customers place in it.",
+      "author": "Benjamin C. Throckmorton",
+      "category": "business",
+      "year": 1950,
+      "source": "Business Ethics and Practice",
+      "tags": [
+        "trust",
+        "value"
+      ]
+    },
+    {
+      "id": 448,
+      "text": "The greatest lesson I have learned is that all change is loss, and all loss must be grieved. Then, and only then, comes growth.",
+      "author": "Oprah Winfrey",
+      "category": "motivation",
+      "year": 2010,
+      "source": "Talk Show",
+      "tags": [
+        "change",
+        "growth"
+      ]
+    },
+    {
+      "id": 449,
+      "text": "Art begins when the mind gives up control to the hands.",
+      "author": "Georgia O'Keeffe",
+      "category": "art",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "creation",
+        "flow"
+      ]
+    },
+    {
+      "id": 450,
+      "text": "We've all heard that a million monkeys banging on a million typewriters will eventually reproduce the entire works of Shakespeare. Now, thanks to the internet, we know this is not true.",
+      "author": "Robert Wilensky",
+      "category": "humor",
+      "year": 1996,
+      "source": "Usenet Quote",
+      "tags": [
+        "humor",
+        "internet"
+      ]
+    },
+    {
+      "id": 451,
+      "text": "The most vital quality a leader can possess is not decisiveness, but the discipline to listen to dissenting opinions.",
+      "author": "Empress Jada",
+      "category": "wisdom",
+      "year": 1655,
+      "source": "On Governance, Expanded",
+      "tags": [
+        "leadership",
+        "listening"
+      ]
+    },
+    {
+      "id": 452,
+      "text": "There is no speed limit on the road to excellence.",
+      "author": "Bruce Lee",
+      "category": "motivation",
+      "year": null,
+      "source": "Attribution",
+      "tags": [
+        "excellence",
+        "discipline"
+      ]
+    },
+    {
+      "id": 453,
+      "text": "In the beginner’s mind there are many possibilities, but in the expert’s there are few.",
+      "author": "Shunryu Suzuki",
+      "category": "wisdom",
+      "year": 1970,
+      "source": "Zen Mind, Beginner's Mind",
+      "tags": [
+        "learning",
+        "mindset",
+        "simplicity"
+      ]
     }
   ],
   "categories": [
@@ -3641,6 +5555,11 @@
       "name": "business",
       "description": "Strategy, leadership, finance, and entrepreneurship",
       "color": "#2ecc71"
+    },
+    {
+      "name": "humor",
+      "description": "Quotes focused on wit, absurdity, and light-hearted observations.",
+      "color": "#ffcd58"
     }
   ],
   "authors": [
@@ -3732,7 +5651,7 @@
       "name": "Eleanor Roosevelt",
       "bio": "American political figure and activist",
       "birth_year": 1884,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Lao Tzu",
@@ -3894,7 +5813,7 @@
       "name": "Cory House",
       "bio": "Software engineer, consultant, and author",
       "birth_year": 1978,
-      "quote_count": 3
+      "quote_count": 5
     },
     {
       "name": "Carl Sagan",
@@ -3906,13 +5825,13 @@
       "name": "Mark Twain",
       "bio": "American author and humorist",
       "birth_year": 1835,
-      "quote_count": 3
+      "quote_count": 4
     },
     {
       "name": "Peter Drucker",
       "bio": "Austrian-American management consultant and author",
       "birth_year": 1909,
-      "quote_count": 4
+      "quote_count": 5
     },
     {
       "name": "Reid Hoffman",
@@ -3936,7 +5855,7 @@
       "name": "Leonardo da Vinci",
       "bio": "Italian polymath",
       "birth_year": 1452,
-      "quote_count": 2
+      "quote_count": 3
     },
     {
       "name": "Salvador Dalí",
@@ -3954,13 +5873,13 @@
       "name": "Albert Einstein",
       "bio": "Theoretical physicist",
       "birth_year": 1879,
-      "quote_count": 9
+      "quote_count": 11
     },
     {
       "name": "Bruce Lee",
       "bio": "Martial artist and actor",
       "birth_year": 1940,
-      "quote_count": 2
+      "quote_count": 3
     },
     {
       "name": "Evelyn Reed",
@@ -4020,13 +5939,13 @@
       "name": "Thomas A. Edison",
       "bio": "American inventor and businessman",
       "birth_year": 1847,
-      "quote_count": 4
+      "quote_count": 5
     },
     {
       "name": "Oprah Winfrey",
       "bio": "American talk show host and philanthropist",
       "birth_year": 1954,
-      "quote_count": 5
+      "quote_count": 6
     },
     {
       "name": "Anya Volkov",
@@ -4086,7 +6005,7 @@
       "name": "Donald Knuth",
       "bio": "American computer scientist",
       "birth_year": 1938,
-      "quote_count": 2
+      "quote_count": 3
     },
     {
       "name": "Elara Quinn",
@@ -4098,7 +6017,7 @@
       "name": "Don Norman",
       "bio": "American researcher and author (Design)",
       "birth_year": 1934,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Maya Angelou",
@@ -4152,7 +6071,7 @@
       "name": "Georgia O'Keeffe",
       "bio": "American artist",
       "birth_year": 1887,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Marie Curie",
@@ -4182,7 +6101,7 @@
       "name": "Cassian Thorne",
       "bio": "Contemporary startup coach and venture capital advisor.",
       "birth_year": 1975,
-      "quote_count": 3
+      "quote_count": 4
     },
     {
       "name": "Émile Zola",
@@ -4212,7 +6131,7 @@
       "name": "Ancient Programmer Proverb",
       "bio": "Traditional coding wisdom passed down through digital folklore.",
       "birth_year": null,
-      "quote_count": 3
+      "quote_count": 4
     },
     {
       "name": "Martin Luther King Jr.",
@@ -4248,7 +6167,7 @@
       "name": "Ralph Nader",
       "bio": "American political activist",
       "birth_year": 1934,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "John Maynard Keynes",
@@ -4278,7 +6197,7 @@
       "name": "Claude Lévi-Strauss",
       "bio": "French anthropologist",
       "birth_year": 1908,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Pablo Picasso",
@@ -4338,7 +6257,7 @@
       "name": "Gaius Flux",
       "bio": "Software architect and writer on designing flexible, large-scale systems.",
       "birth_year": 1970,
-      "quote_count": 2
+      "quote_count": 3
     },
     {
       "name": "Dr. E. R. Galt",
@@ -4434,7 +6353,7 @@
       "name": "Diane Arbus",
       "bio": "American photographer",
       "birth_year": 1923,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Stephen Hawking",
@@ -4518,13 +6437,13 @@
       "name": "Empress Jada",
       "bio": "17th-century monarch and author of treatises on governance and commerce.",
       "birth_year": 1620,
-      "quote_count": 2
+      "quote_count": 3
     },
     {
       "name": "Octavia Bell",
       "bio": "Contemporary AI ethicist and writer on the philosophy of artificial intelligence.",
       "birth_year": 1995,
-      "quote_count": 2
+      "quote_count": 3
     },
     {
       "name": "Robert A. Heinlein",
@@ -4566,7 +6485,7 @@
       "name": "Zig Ziglar",
       "bio": "American motivational speaker",
       "birth_year": 1926,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Vance Roth",
@@ -4614,7 +6533,7 @@
       "name": "Elias 'The Architect' Crane",
       "bio": "Late 20th century software architect and specialist in large-scale system design.",
       "birth_year": 1955,
-      "quote_count": 3
+      "quote_count": 4
     },
     {
       "name": "Robert Louis Stevenson",
@@ -4644,7 +6563,7 @@
       "name": "Dr. Vespera",
       "bio": "Early 21st century clean code specialist and advocate for refactoring.",
       "birth_year": 1970,
-      "quote_count": 2
+      "quote_count": 3
     },
     {
       "name": "Octavian",
@@ -4680,7 +6599,7 @@
       "name": "Michael Jordan",
       "bio": "American basketball player",
       "birth_year": 1963,
-      "quote_count": 2
+      "quote_count": 3
     },
     {
       "name": "Will Rogers",
@@ -4752,7 +6671,7 @@
       "name": "Plato",
       "bio": "Ancient Greek philosopher, founder of the Academy in Athens.",
       "birth_year": -428,
-      "quote_count": 2
+      "quote_count": 3
     },
     {
       "name": "Meg Whitman",
@@ -4854,7 +6773,7 @@
       "name": "Arthur C. Clarke",
       "bio": "British science fiction writer and inventor",
       "birth_year": 1917,
-      "quote_count": 1
+      "quote_count": 2
     },
     {
       "name": "Nina Simone",
@@ -4887,7 +6806,7 @@
       "quote_count": 1
     },
     {
-      "name": "Michael von Clausewitz (Fictionalized)",
+      "name": "Carl von Clausewitz (Fictionalized)",
       "bio": "An expanded interpretation of the Prussian general and military theorist.",
       "birth_year": 1780,
       "quote_count": 1
@@ -4926,6 +6845,96 @@
       "name": "John Dewey",
       "bio": "American philosopher, psychologist, and educational reformer",
       "birth_year": 1859,
+      "quote_count": 1
+    },
+    {
+      "name": "Jim Rohn",
+      "bio": "American entrepreneur and motivational speaker",
+      "birth_year": 1930,
+      "quote_count": 1
+    },
+    {
+      "name": "Celeste Alpha",
+      "bio": "Space scientist and philosopher known for her commentary on the rigor of research.",
+      "birth_year": 1940,
+      "quote_count": 2
+    },
+    {
+      "name": "Søren Kierkegaard",
+      "bio": "Danish philosopher",
+      "birth_year": 1813,
+      "quote_count": 1
+    },
+    {
+      "name": "Henri Poincaré",
+      "bio": "French mathematician, theoretical physicist, and philosopher of science.",
+      "birth_year": 1854,
+      "quote_count": 1
+    },
+    {
+      "name": "George S. Patton",
+      "bio": "General of the United States Army",
+      "birth_year": 1885,
+      "quote_count": 1
+    },
+    {
+      "name": "André Malraux",
+      "bio": "French novelist and art theorist",
+      "birth_year": 1901,
+      "quote_count": 1
+    },
+    {
+      "name": "John Maeda",
+      "bio": "American executive, designer, and writer on design and technology.",
+      "birth_year": 1966,
+      "quote_count": 1
+    },
+    {
+      "name": "Charles Darwin (Attributed)",
+      "bio": "Naturalist, geologist, and biologist",
+      "birth_year": 1809,
+      "quote_count": 1
+    },
+    {
+      "name": "Thomas B. Macaulay",
+      "bio": "British historian and politician",
+      "birth_year": 1800,
+      "quote_count": 1
+    },
+    {
+      "name": "Jacob Bronowski",
+      "bio": "Polish-British mathematician and biologist",
+      "birth_year": 1908,
+      "quote_count": 1
+    },
+    {
+      "name": "William Osler",
+      "bio": "Canadian physician and a founder of Johns Hopkins Hospital.",
+      "birth_year": 1849,
+      "quote_count": 1
+    },
+    {
+      "name": "Adam Smith",
+      "bio": "Scottish economist and philosopher",
+      "birth_year": 1723,
+      "quote_count": 1
+    },
+    {
+      "name": "C.S. Lewis",
+      "bio": "British writer and lay theologian",
+      "birth_year": 1898,
+      "quote_count": 1
+    },
+    {
+      "name": "Robert Wilensky",
+      "bio": "American computer scientist",
+      "birth_year": 1951,
+      "quote_count": 1
+    },
+    {
+      "name": "Shunryu Suzuki",
+      "bio": "Sōtō Zen monk and teacher",
+      "birth_year": 1904,
       "quote_count": 1
     }
   ]
