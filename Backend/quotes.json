@@ -552,7 +552,7 @@
     {
       "id": 62,
       "text": "The greatest glory in a code is not in how fast it runs, but in how fast the next developer can understand it.",
-      "author": "Evelyn Reed $\star$",
+      "author": "Evelyn Reed ",
       "category": "programming",
       "year": 2012,
       "source": "Software Convention Keynote",
@@ -561,7 +561,7 @@
     {
       "id": 63,
       "text": "Doubt is the birthplace of discovery.",
-      "author": "Dr. Aris Thorne $\star$",
+      "author": "Dr. Aris Thorne",
       "category": "science",
       "year": 1888,
       "source": "Philosophical Transactions",
@@ -570,7 +570,7 @@
     {
       "id": 64,
       "text": "The canvas is not a battlefield, but a garden to tend.",
-      "author": "Seraphina Vale $\star$",
+      "author": "Seraphina Vale",
       "category": "art",
       "year": 1755,
       "source": "Letters to a Patron",
@@ -579,7 +579,7 @@
     {
       "id": 65,
       "text": "In the marketplace, a good question is worth a thousand answers.",
-      "author": "Lord Alistair Finch $\star$",
+      "author": "Lord Alistair Finch",
       "category": "business",
       "year": 1910,
       "source": "Business Almanac",
@@ -669,7 +669,7 @@
     {
       "id": 75,
       "text": "When you design a user interface, you must assume the user is on a bicycle with no helmet, riding toward a cliff.",
-      "author": "Anya Volkov $\star$",
+      "author": "Anya Volkov",
       "category": "programming",
       "year": 2018,
       "source": "UX Design Manifesto",
@@ -714,7 +714,7 @@
     {
       "id": 80,
       "text": "The secret to a good business is to know something nobody else knows.",
-      "author": "Benjamin C. Throckmorton $\star$",
+      "author": "Benjamin C. Throckmorton",
       "category": "business",
       "year": 1935,
       "source": "Investor's Letters",
@@ -804,7 +804,7 @@
     {
       "id": 90,
       "text": "The critic’s task is not to tell the artist what to do, but to show the public what has been done.",
-      "author": "Elara Quinn $\star$",
+      "author": "Elara Quinn",
       "category": "art",
       "year": 1948,
       "source": "Art & Observation",
@@ -867,7 +867,7 @@
     {
       "id": 97,
       "text": "The biggest competition is with yourself.",
-      "author": "Sir Kaelen Voss $\star$",
+      "author": "Sir Kaelen Voss",
       "category": "motivation",
       "year": 1380,
       "source": "The Knight's Code",
@@ -894,7 +894,7 @@
     {
       "id": 100,
       "text": "Complexity is a symptom of poor communication.",
-      "author": "Shakti Desai $\star$",
+      "author": "Shakti Desai",
       "category": "wisdom",
       "year": 1968,
       "source": "The Systems Thinker",
@@ -903,7 +903,7 @@
     {
       "id": 101,
       "text": "If you don't actively attack the rocks, they will actively attack your ship.",
-      "author": "Admiral Valerius $\star$",
+      "author": "Admiral Valerius",
       "category": "motivation",
       "year": -150,
       "source": "Naval Stratagems",
@@ -957,7 +957,7 @@
     {
       "id": 107,
       "text": "Only when the code is deployed can we truly test its character.",
-      "author": "Zane 'The Deployer' Karras $\star$",
+      "author": "Zane 'The Deployer' Karras",
       "category": "programming",
       "year": 2021,
       "source": "Deployment Diaries",
@@ -993,7 +993,7 @@
     {
       "id": 111,
       "text": "The key to successful entrepreneurship is not to be brilliant, but to be tenacious.",
-      "author": "Cassian Thorne $\star$",
+      "author": "Cassian Thorne",
       "category": "business",
       "year": 2005,
       "source": "Startup Handbook",
@@ -1038,7 +1038,7 @@
     {
       "id": 116,
       "text": "The most effective way to cope with change is to help create it.",
-      "author": "Lydia Vane $\star$",
+      "author": "Lydia Vane",
       "category": "innovation",
       "year": 1920,
       "source": "The Industrial Mind",
@@ -1074,7 +1074,7 @@
     {
       "id": 120,
       "text": "Business is more art than science, and more heart than logic.",
-      "author": "Aurelia Stone $\star$",
+      "author": "Aurelia Stone",
       "category": "business",
       "year": 1992,
       "source": "Wall Street Journal Interview",
@@ -1083,7 +1083,7 @@
     {
       "id": 121,
       "text": "The future is a blank scroll; we write its history with our present actions.",
-      "author": "The Chronologer $\star$",
+      "author": "The Chronologer",
       "category": "innovation",
       "year": -40,
       "source": "The Annals of Tomorrow",
@@ -1164,7 +1164,7 @@
     {
       "id": 130,
       "text": "If it doesn't parse, it doesn't matter.",
-      "author": "The Compiler Sage $\star$",
+      "author": "The Compiler Sage",
       "category": "programming",
       "year": 1995,
       "source": "Coding Dojo Lore",
@@ -1236,7 +1236,7 @@
     {
       "id": 138,
       "text": "The user interface is the final boss of every software project.",
-      "author": "Rex Photon $\star$",
+      "author": "Rex Photon",
       "category": "programming",
       "year": 2015,
       "source": "Developer Blog",
@@ -1281,7 +1281,7 @@
     {
       "id": 143,
       "text": "In a crowded market, to be seen, you must be different.",
-      "author": "Lady Isolde $\star$",
+      "author": "Lady Isolde",
       "category": "business",
       "year": 1855,
       "source": "Marketing Maxims",
@@ -1299,7 +1299,7 @@
     {
       "id": 145,
       "text": "Software development is a marathon, not a sprint, and you need good shoes.",
-      "author": "Dr. Elara Fae $\star$",
+      "author": "Dr. Elara Fae",
       "category": "programming",
       "year": 2010,
       "source": "Agile Methodologies",
@@ -1389,7 +1389,7 @@
     {
       "id": 155,
       "text": "Software undergoes a continuous, rapid change. The best way to deal with that is to build code that is malleable.",
-      "author": "Gaius Flux $\star$",
+      "author": "Gaius Flux",
       "category": "programming",
       "year": 2003,
       "source": "Architectural Principles",
@@ -1407,7 +1407,7 @@
     {
       "id": 157,
       "text": "The whole point of the scientific method is that we're all expected to put faith in the logical process, not in the authority of the individual.",
-      "author": "Dr. E. R. Galt $\star$",
+      "author": "Dr. E. R. Galt",
       "category": "science",
       "year": 1958,
       "source": "Philosophy of Science",
@@ -1434,7 +1434,7 @@
     {
       "id": 160,
       "text": "A truly great enterprise is one that is built on the ruins of its own 'failed' prototypes.",
-      "author": "Cassian Thorne $\star$",
+      "author": "Cassian Thorne",
       "category": "business",
       "year": 2005,
       "source": "Startup Handbook",
@@ -1479,7 +1479,7 @@
     {
       "id": 165,
       "text": "The most important tool for the scientist is the brain. It is always running in the background.",
-      "author": "Elena Petrov $\star$",
+      "author": "Elena Petrov",
       "category": "science",
       "year": 1972,
       "source": "Cognitive Studies",
@@ -1515,7 +1515,7 @@
     {
       "id": 169,
       "text": "Without risk, there is no art.",
-      "author": "Caspar F. D. $\star$",
+      "author": "Caspar F. D.",
       "category": "art",
       "year": 1820,
       "source": "Romantic Manifestos",
@@ -1551,7 +1551,7 @@
     {
       "id": 173,
       "text": "The most decisive actions in life are most often taken in the darkest moments.",
-      "author": "Aurelius Cato $\star$",
+      "author": "Aurelius Cato",
       "category": "wisdom",
       "year": 70,
       "source": "Meditations",
@@ -1605,7 +1605,7 @@
     {
       "id": 179,
       "text": "Write specifications, not code. You'll thank me later.",
-      "author": "Professor Silas Vance $\star$",
+      "author": "Professor Silas Vance",
       "category": "programming",
       "year": 1985,
       "source": "Systems Analysis Course",
@@ -1641,7 +1641,7 @@
     {
       "id": 183,
       "text": "The market doesn't care about your feelings, only your results.",
-      "author": "Victoria Sterling $\star$",
+      "author": "Victoria Sterling",
       "category": "business",
       "year": 2012,
       "source": "Venture Capitalist Blog",
@@ -1767,7 +1767,7 @@
     {
       "id": 197,
       "text": "If a tool is not improving your code quality, it's just adding complexity.",
-      "author": "Orion Cygnus $\star$",
+      "author": "Orion Cygnus",
       "category": "programming",
       "year": 2017,
       "source": "DevOps Principles",
@@ -1794,7 +1794,7 @@
     {
       "id": 200,
       "text": "Spend your time with the team, not with the spreadsheet.",
-      "author": "Empress Jada $\star$",
+      "author": "Empress Jada",
       "category": "business",
       "year": 1650,
       "source": "On Governance",
@@ -1803,7 +1803,7 @@
     {
       "id": 201,
       "text": "The code always knows more than the coder, for the coder only sees a subset of possibilities.",
-      "author": "Octavia Bell $\star$",
+      "author": "Octavia Bell",
       "category": "programming",
       "year": 2023,
       "source": "AI & Ethics Symposium",
@@ -1839,7 +1839,7 @@
     {
       "id": 205,
       "text": "The only difference between a scientist and a magician is a few hundred years.",
-      "author": "Athena Nova $\star$",
+      "author": "Athena Nova",
       "category": "science",
       "year": 2150,
       "source": "Future History Text",
@@ -1947,7 +1947,7 @@
     {
       "id": 217,
       "text": "The computer is an electronic pencil, the future is in the artist's hand.",
-      "author": "Captain Neo $\star$",
+      "author": "Captain Neo",
       "category": "programming",
       "year": 1999,
       "source": "Digital Frontier",
@@ -1992,7 +1992,7 @@
     {
       "id": 222,
       "text": "A bird in the hand is worth two in the bush, but two in the bush might be the next unicorn.",
-      "author": "Vance Roth $\star$",
+      "author": "Vance Roth",
       "category": "business",
       "year": 2018,
       "source": "Venture Capitalist Handbook",
@@ -2019,7 +2019,7 @@
     {
       "id": 225,
       "text": "The greatest danger in life is spending your time trying to avoid it.",
-      "author": "Sophia Lyra $\star$",
+      "author": "Sophia Lyra",
       "category": "wisdom",
       "year": 1950,
       "source": "Existentialist Review",
@@ -2046,7 +2046,7 @@
     {
       "id": 228,
       "text": "The journey of a thousand prototypes begins with a single, bad idea.",
-      "author": "Nova 'The Builder' Rex $\star$",
+      "author": "Nova The Builder",
       "category": "innovation",
       "year": 2008,
       "source": "Design Thinking Workshop",
@@ -2100,7 +2100,7 @@
     {
       "id": 234,
       "text": "If you are interested in the ultimate answers, I can only tell you that the universe is probably full of glue.",
-      "author": "Professor J. S. $\star$",
+      "author": "Professor J. S.",
       "category": "science",
       "year": 1968,
       "source": "Lectures on Cosmology",
@@ -2109,7 +2109,7 @@
     {
       "id": 235,
       "text": "A failure in planning is a plan for failure.",
-      "author": "Elias 'The Architect' Crane $\star$",
+      "author": "Elias 'The Architect' Crane",
       "category": "programming",
       "year": 1990,
       "source": "Software Architecture Review",
@@ -2172,7 +2172,7 @@
     {
       "id": 242,
       "text": "The most important phase of a software project is not writing the code, but deleting the obsolete code.",
-      "author": "Dr. Vespera $\star$",
+      "author": "Dr. Vespera",
       "category": "programming",
       "year": 2000,
       "source": "Clean Code Principles",
@@ -2181,7 +2181,7 @@
     {
       "id": 243,
       "text": "Science is a brutal truth, softened only by the wonder of its complexity.",
-      "author": "Professor J. S. $\star$",
+      "author": "Professor J. S.",
       "category": "science",
       "year": 1968,
       "source": "Lectures on Cosmology",
@@ -2235,7 +2235,7 @@
     {
       "id": 249,
       "text": "Pessimists are usually right, but it's the optimists who change the world.",
-      "author": "Octavian $\star$",
+      "author": "Octavian",
       "category": "innovation",
       "year": 200,
       "source": "Imperial Wisdom",
@@ -2262,7 +2262,7 @@
     {
       "id": 252,
       "text": "If a rocket is going to the moon, and it is off by 1%, it will still miss by a lot.",
-      "author": "Celeste Alpha $\star$",
+      "author": "Celeste Alpha",
       "category": "science",
       "year": 1969,
       "source": "Apollo Program Debrief",
@@ -2388,7 +2388,7 @@
     {
       "id": 266,
       "text": "The only security is the ability to adapt.",
-      "author": "Captain Neo $\star$",
+      "author": "Captain Neo",
       "category": "business",
       "year": 1999,
       "source": "Digital Frontier",
@@ -2406,7 +2406,7 @@
     {
       "id": 268,
       "text": "The world needs more than just new discoveries; it needs their widespread, ethical application.",
-      "author": "Dr. Aris Thorne $\star$",
+      "author": "Dr. Aris Thorne",
       "category": "science",
       "year": 1888,
       "source": "Philosophical Transactions",
@@ -2487,7 +2487,7 @@
     {
       "id": 277,
       "text": "The most important phase of a software project is not writing the code, but deleting the obsolete code.",
-      "author": "Dr. Vespera $\star$",
+      "author": "Dr. Vespera",
       "category": "programming",
       "year": 2000,
       "source": "Clean Code Principles",
@@ -2568,7 +2568,7 @@
     {
       "id": 286,
       "text": "The scientist's most cherished asset is the right to be wrong.",
-      "author": "Lord Aris Thorne $\star$",
+      "author": "Lord Aris Thorne",
       "category": "science",
       "year": 1888,
       "source": "Philosophical Transactions",
@@ -2595,7 +2595,7 @@
     {
       "id": 289,
       "text": "The difference between a code base and a mess is a good file structure.",
-      "author": "Elias 'The Architect' Crane $\star$",
+      "author": "Elias 'The Architect' Crane",
       "category": "programming",
       "year": 1990,
       "source": "Software Architecture Review",
@@ -2604,7 +2604,7 @@
     {
       "id": 290,
       "text": "The only constant in a growing mind is curiosity.",
-      "author": "Amara Vex $\star$",
+      "author": "Amara Vex",
       "category": "wisdom",
       "year": 2025,
       "source": "Digital Essays",
@@ -2631,7 +2631,7 @@
     {
       "id": 293,
       "text": "We are driven by five things: fear, logic, passion, apathy, and the coffee we haven't had yet.",
-      "author": "Sage N. J. $\star$",
+      "author": "Sage N. J.",
       "category": "humor",
       "year": 2015,
       "source": "Office Anthropology",
@@ -3063,25 +3063,25 @@
       "quote_count": 2
     },
     {
-      "name": "Evelyn Reed $\star$",
+      "name": "Evelyn Reed",
       "bio": "Fictional contemporary software engineer",
       "birth_year": 1980,
       "quote_count": 1
     },
     {
-      "name": "Dr. Aris Thorne $\star$",
+      "name": "Dr. Aris Thorne",
       "bio": "Fictional Victorian-era scientist",
       "birth_year": 1845,
       "quote_count": 2
     },
     {
-      "name": "Seraphina Vale $\star$",
+      "name": "Seraphina Vale",
       "bio": "Fictional Rococo-era painter",
       "birth_year": 1720,
       "quote_count": 1
     },
     {
-      "name": "Lord Alistair Finch $\star$",
+      "name": "Lord Alistair Finch",
       "bio": "Fictional early 20th century industrialist",
       "birth_year": 1875,
       "quote_count": 1
@@ -3129,7 +3129,7 @@
       "quote_count": 4
     },
     {
-      "name": "Anya Volkov $\star$",
+      "name": "Anya Volkov",
       "bio": "Fictional contemporary UX designer",
       "birth_year": 1985,
       "quote_count": 1
@@ -3159,7 +3159,7 @@
       "quote_count": 3
     },
     {
-      "name": "Benjamin C. Throckmorton $\star$",
+      "name": "Benjamin C. Throckmorton",
       "bio": "Fictional early 20th century investor",
       "birth_year": 1895,
       "quote_count": 1
@@ -3189,7 +3189,7 @@
       "quote_count": 2
     },
     {
-      "name": "Elara Quinn $\star$",
+      "name": "Elara Quinn",
       "bio": "Fictional post-war art critic",
       "birth_year": 1915,
       "quote_count": 1
@@ -3225,19 +3225,19 @@
       "quote_count": 1
     },
     {
-      "name": "Sir Kaelen Voss $\star$",
+      "name": "Sir Kaelen Voss",
       "bio": "Fictional medieval knight/philosopher",
       "birth_year": 1350,
       "quote_count": 1
     },
     {
-      "name": "Shakti Desai $\star$",
+      "name": "Shakti Desai",
       "bio": "Fictional systems theorist and philosopher",
       "birth_year": 1930,
       "quote_count": 1
     },
     {
-      "name": "Admiral Valerius $\star$",
+      "name": "Admiral Valeriuss",
       "bio": "Fictional ancient Roman naval commander",
       "birth_year": -200,
       "quote_count": 1
@@ -3261,7 +3261,7 @@
       "quote_count": 1
     },
     {
-      "name": "Zane 'The Deployer' Karras $\star$",
+      "name": "Zane 'The Deployer' Karras",
       "bio": "Fictional contemporary DevOps expert",
       "birth_year": 1990,
       "quote_count": 1
@@ -3279,7 +3279,7 @@
       "quote_count": 1
     },
     {
-      "name": "Cassian Thorne $\star$",
+      "name": "Cassian Thorne",
       "bio": "Fictional contemporary startup coach",
       "birth_year": 1975,
       "quote_count": 2
@@ -3303,7 +3303,7 @@
       "quote_count": 1
     },
     {
-      "name": "Lydia Vane $\star$",
+      "name": "Lydia Vane",
       "bio": "Fictional early 20th century industrial strategist",
       "birth_year": 1890,
       "quote_count": 1
@@ -3321,13 +3321,13 @@
       "quote_count": 1
     },
     {
-      "name": "Aurelia Stone $\star$",
+      "name": "Aurelia Stone",
       "bio": "Fictional contemporary business philosopher",
       "birth_year": 1965,
       "quote_count": 1
     },
     {
-      "name": "The Chronologer $\star$",
+      "name": "The Chronologer",
       "bio": "Fictional ancient observer of time",
       "birth_year": null,
       "quote_count": 1
@@ -3363,7 +3363,7 @@
       "quote_count": 1
     },
     {
-      "name": "The Compiler Sage $\star$",
+      "name": "The Compiler Sage",
       "bio": "Fictional wise figure in programming lore",
       "birth_year": null,
       "quote_count": 1
@@ -3387,13 +3387,13 @@
       "quote_count": 3
     },
     {
-      "name": "Lady Isolde $\star$",
+      "name": "Lady Isolde",
       "bio": "Fictional 19th-century businesswoman",
       "birth_year": 1825,
       "quote_count": 1
     },
     {
-      "name": "Dr. Elara Fae $\star$",
+      "name": "Dr. Elara Fae",
       "bio": "Fictional contemporary software process consultant",
       "birth_year": 1975,
       "quote_count": 1
@@ -3435,13 +3435,13 @@
       "quote_count": 1
     },
     {
-      "name": "Gaius Flux $\star$",
+      "name": "Gaius Flux",
       "bio": "Fictional software architect",
       "birth_year": 1970,
       "quote_count": 1
     },
     {
-      "name": "Dr. E. R. Galt $\star$",
+      "name": "Dr. E. R. Galt",
       "bio": "Fictional mid-20th century philosopher of science",
       "birth_year": 1920,
       "quote_count": 1
@@ -3483,7 +3483,7 @@
       "quote_count": 1
     },
     {
-      "name": "Caspar F. D. $\star$",
+      "name": "Caspar F. D.",
       "bio": "Fictional early 19th-century artist",
       "birth_year": 1790,
       "quote_count": 1
@@ -3495,7 +3495,7 @@
       "quote_count": 1
     },
     {
-      "name": "Aurelius Cato $\star$",
+      "name": "Aurelius Cato",
       "bio": "Fictional ancient Roman writer",
       "birth_year": null,
       "quote_count": 1
@@ -3531,7 +3531,7 @@
       "quote_count": 2
     },
     {
-      "name": "Professor Silas Vance $\star$",
+      "name": "Professor Silas Vance",
       "bio": "Fictional mid-20th century computer science professor",
       "birth_year": 1920,
       "quote_count": 1
@@ -3549,7 +3549,7 @@
       "quote_count": 1
     },
     {
-      "name": "Victoria Sterling $\star$",
+      "name": "Victoria Sterling",
       "bio": "Fictional contemporary venture capitalist",
       "birth_year": 1980,
       "quote_count": 1
@@ -3591,7 +3591,7 @@
       "quote_count": 1
     },
     {
-      "name": "Orion Cygnus $\star$",
+      "name": "Orion Cygnus",
       "bio": "Fictional contemporary DevOps engineer",
       "birth_year": 1988,
       "quote_count": 1
@@ -3603,13 +3603,13 @@
       "quote_count": 1
     },
     {
-      "name": "Empress Jada $\star$",
+      "name": "Empress Jada",
       "bio": "Fictional 17th-century monarch/leader",
       "birth_year": 1620,
       "quote_count": 1
     },
     {
-      "name": "Octavia Bell $\star$",
+      "name": "Octavia Bell",
       "bio": "Fictional contemporary AI ethicist",
       "birth_year": 1995,
       "quote_count": 1
@@ -3627,7 +3627,7 @@
       "quote_count": 1
     },
     {
-      "name": "Athena Nova $\star$",
+      "name": "Athena Nova",
       "bio": "Fictional future historian of science",
       "birth_year": 2120,
       "quote_count": 1
@@ -3663,19 +3663,19 @@
       "quote_count": 1
     },
     {
-      "name": "Vance Roth $\star$",
+      "name": "Vance Roth",
       "bio": "Fictional contemporary venture capitalist",
       "birth_year": 1978,
       "quote_count": 1
     },
     {
-      "name": "Sophia Lyra $\star$",
+      "name": "Sophia Lyra",
       "bio": "Fictional mid-20th century existentialist philosopher",
       "birth_year": 1920,
       "quote_count": 1
     },
     {
-      "name": "Nova 'The Builder' Rex $\star$",
+      "name": "Nova The Builder",
       "bio": "Fictional contemporary inventor and designer",
       "birth_year": 1980,
       "quote_count": 1
@@ -3699,13 +3699,13 @@
       "quote_count": 1
     },
     {
-      "name": "Professor J. S. $\star$",
+      "name": "Professor J. S.",
       "bio": "Fictional mid-20th century astrophysicist",
       "birth_year": 1925,
       "quote_count": 2
     },
     {
-      "name": "Elias 'The Architect' Crane $\star$",
+      "name": "Elias 'The Architect' Crane",
       "bio": "Fictional late 20th century software architect",
       "birth_year": 1955,
       "quote_count": 2
@@ -3735,13 +3735,13 @@
       "quote_count": 1
     },
     {
-      "name": "Dr. Vespera $\star$",
+      "name": "Dr. Vespera",
       "bio": "Fictional early 21st century clean code specialist",
       "birth_year": 1970,
       "quote_count": 2
     },
     {
-      "name": "Octavian $\star$",
+      "name": "Octavian",
       "bio": "Fictional ancient Roman philosopher",
       "birth_year": null,
       "quote_count": 1
@@ -3861,7 +3861,7 @@
       "quote_count": 1
     },
     {
-      "name": "Amara Vex $\star$",
+      "name": "Amara Vex",
       "bio": "Fictional future philosopher/essayist",
       "birth_year": 2000,
       "quote_count": 1
@@ -3873,7 +3873,7 @@
       "quote_count": 1
     },
     {
-      "name": "Sage N. J. $\star$",
+      "name": "Sage N. J.",
       "bio": "Fictional contemporary humorist/anthropologist",
       "birth_year": 1970,
       "quote_count": 1
