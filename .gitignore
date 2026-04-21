@@ -9,6 +9,8 @@ node_modules/
 .DS_Store
 *.log
 /Backend/.env
+.env
+*.env
 output/
 .spago/
 
